@@ -2,7 +2,7 @@
 
 The first number on the file names represents the automl library no where:
 
-	0 - MLBox
+	0 - Hoeffding Adaptive Tree (base)
 	1 - TPOT
 	2 - AutoSklearn
 	3 - H2O
