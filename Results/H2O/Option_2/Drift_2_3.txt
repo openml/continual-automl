@@ -1,0 +1,2 @@
+Test batch 7 - Test score 0.715278 - Duration 29.199415
+Test batch 57 - Test score 0.505952 - Duration 191.979230

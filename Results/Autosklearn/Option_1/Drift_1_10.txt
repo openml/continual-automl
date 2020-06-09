@@ -1,0 +1,4 @@
+Test batch 1 - Test score 0.900000
+Test batch 2 - Test score 0.872000
+Test batch 3 - Test score 0.882000
+Test batch 284 - Test score 0.714000

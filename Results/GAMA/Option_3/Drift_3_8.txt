@@ -1,0 +1,16 @@
+Test batch 1 - Test score 0.888000
+Test batch 2 - Test score 0.892000
+Test batch 5 - Test score 0.893000
+Test batch 6 - Test score 0.882000
+Test batch 7 - Test score 0.894000
+Test batch 8 - Test score 0.885000
+Test batch 9 - Test score 0.896000
+Test batch 10 - Test score 0.903000
+Test batch 11 - Test score 0.900000
+Test batch 12 - Test score 0.884000
+Test batch 295 - Test score 0.771000
+Test batch 296 - Test score 0.900000
+Test batch 297 - Test score 0.892000
+Test batch 298 - Test score 0.892000
+Test batch 299 - Test score 0.891000
+Test batch 300 - Test score 0.895000

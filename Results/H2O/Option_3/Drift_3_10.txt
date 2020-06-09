@@ -1,0 +1,17 @@
+Test batch 1 - Test score 0.879000 - Duration 1951.540277
+Test batch 2 - Test score 0.876000 - Duration 4401.577633
+Test batch 3 - Test score 0.879000 - Duration 6848.103132
+Test batch 4 - Test score 0.904000 - Duration 9303.494848
+Test batch 5 - Test score 0.843000 - Duration 11767.479469
+Test batch 6 - Test score 0.827000 - Duration 14227.368597
+Test batch 288 - Test score 0.703000 - Duration 16875.654181
+Test batch 289 - Test score 0.681000 - Duration 19337.160682
+Test batch 290 - Test score 0.676000 - Duration 21791.432753
+Test batch 291 - Test score 0.674000 - Duration 24298.601463
+Test batch 292 - Test score 0.702000 - Duration 26764.517185
+Test batch 293 - Test score 0.687000 - Duration 29325.619702
+Test batch 294 - Test score 0.695000 - Duration 30594.746272
+Test batch 295 - Test score 0.675000 - Duration 33071.195345
+Test batch 296 - Test score 0.684000 - Duration 35553.495515
+Test batch 297 - Test score 0.676000 - Duration 37381.276485
+Test batch 298 - Test score 0.701000 - Duration 39878.875583

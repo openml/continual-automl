@@ -1,0 +1,5 @@
+Test batch 1 - Test score 0.646107 - Duration 3639.231690
+Test batch 2 - Test score 0.599861 - Duration 7272.610039
+Test batch 3 - Test score 0.610778 - Duration 10904.448146
+Test batch 4 - Test score 0.635489 - Duration 14537.848304
+Test batch 5 - Test score 0.624473 - Duration 18154.423609

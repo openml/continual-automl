@@ -1,0 +1,2 @@
+Test batch 3 - Test score 0.763764 - Duration 1822.148878
+Test batch 19 - Test score 0.721722 - Duration 1834.713898

@@ -1,0 +1,8 @@
+Test batch 4 - Test score 0.848907
+Test batch 5 - Test score 0.875746
+Test batch 6 - Test score 0.880716
+Test batch 7 - Test score 0.862823
+Test batch 8 - Test score 0.860835
+Test batch 9 - Test score 0.837972
+Test batch 10 - Test score 0.853877
+Test batch 11 - Test score 0.872763

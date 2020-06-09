@@ -1,0 +1,3 @@
+Test batch 3 - Test score 0.642857
+Test batch 5 - Test score 0.663690
+Test batch 12 - Test score 0.549603
