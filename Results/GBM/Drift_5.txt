@@ -1,0 +1,1 @@
+Test batch 2 - Balanced accuracy 0.839605 - Accuracy 0.836978

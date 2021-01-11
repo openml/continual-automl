@@ -1,0 +1,390 @@
+Test batch 1 - Balanced accuracy 0.630097 - Accuracy 0.760675
+
+Drift in performance detected at sample 154
+Drift in performance detected at sample 278
+Drift in performance detected at sample 494
+Drift in performance detected at sample 595
+Drift in performance detected at sample 653
+Drift in performance detected at sample 799
+Drift in performance detected at sample 970
+Test batch 2 - Balanced accuracy 0.770258 - Accuracy 0.795432
+
+Drift in performance detected at sample 38
+Drift in performance detected at sample 192
+Drift in performance detected at sample 264
+Drift in performance detected at sample 361
+Drift in performance detected at sample 436
+Drift in performance detected at sample 713
+Test batch 3 - Balanced accuracy 0.868262 - Accuracy 0.872890
+
+Drift in performance detected at sample 20
+Drift in performance detected at sample 96
+Drift in performance detected at sample 404
+Drift in performance detected at sample 752
+Test batch 4 - Balanced accuracy 0.793458 - Accuracy 0.753724
+
+Drift in performance detected at sample 34
+Drift in performance detected at sample 179
+Drift in performance detected at sample 379
+Drift in performance detected at sample 493
+Drift in performance detected at sample 554
+Drift in performance detected at sample 610
+Drift in performance detected at sample 705
+Drift in performance detected at sample 903
+Test batch 5 - Balanced accuracy 0.735197 - Accuracy 0.697120
+
+Drift in performance detected at sample 14
+Drift in performance detected at sample 58
+Drift in performance detected at sample 153
+Drift in performance detected at sample 579
+Drift in performance detected at sample 692
+Drift in performance detected at sample 742
+Test batch 6 - Balanced accuracy 0.791862 - Accuracy 0.772592
+
+Drift in performance detected at sample 80
+Drift in performance detected at sample 196
+Test batch 7 - Balanced accuracy 0.821564 - Accuracy 0.826216
+
+Drift in performance detected at sample 178
+Drift in performance detected at sample 483
+Drift in performance detected at sample 738
+Drift in performance detected at sample 916
+Test batch 8 - Balanced accuracy 0.864456 - Accuracy 0.864945
+
+Drift in performance detected at sample 116
+Drift in performance detected at sample 408
+Drift in performance detected at sample 568
+Drift in performance detected at sample 906
+Test batch 9 - Balanced accuracy 0.730361 - Accuracy 0.747766
+
+Drift in performance detected at sample 51
+Drift in performance detected at sample 196
+Drift in performance detected at sample 235
+Drift in performance detected at sample 363
+Drift in performance detected at sample 543
+Drift in performance detected at sample 584
+Drift in performance detected at sample 740
+Drift in performance detected at sample 983
+Test batch 10 - Balanced accuracy 0.853394 - Accuracy 0.840119
+
+Drift in performance detected at sample 128
+Drift in performance detected at sample 411
+Drift in performance detected at sample 701
+Drift in performance detected at sample 758
+Test batch 11 - Balanced accuracy 0.816521 - Accuracy 0.824230
+
+Drift in performance detected at sample 31
+Drift in performance detected at sample 224
+Drift in performance detected at sample 478
+Drift in performance detected at sample 685
+Drift in performance detected at sample 796
+Drift in performance detected at sample 902
+Test batch 12 - Balanced accuracy 0.785200 - Accuracy 0.781529
+
+Drift in performance detected at sample 237
+Drift in performance detected at sample 352
+Drift in performance detected at sample 440
+Drift in performance detected at sample 485
+Drift in performance detected at sample 854
+Test batch 13 - Balanced accuracy 0.876959 - Accuracy 0.878848
+
+Drift in performance detected at sample 364
+Drift in performance detected at sample 723
+Drift in performance detected at sample 977
+Test batch 14 - Balanced accuracy 0.725316 - Accuracy 0.749752
+
+Drift in performance detected at sample 41
+Drift in performance detected at sample 301
+Drift in performance detected at sample 559
+Drift in performance detected at sample 762
+Drift in performance detected at sample 852
+Drift in performance detected at sample 939
+Test batch 15 - Balanced accuracy 0.705935 - Accuracy 0.754717
+
+Drift in performance detected at sample 139
+Drift in performance detected at sample 338
+Drift in performance detected at sample 414
+Drift in performance detected at sample 542
+Drift in performance detected at sample 598
+Drift in performance detected at sample 676
+Drift in performance detected at sample 767
+Drift in performance detected at sample 966
+Test batch 16 - Balanced accuracy 0.604361 - Accuracy 0.495531
+
+Drift in performance detected at sample 34
+Drift in performance detected at sample 161
+Drift in performance detected at sample 207
+Drift in performance detected at sample 357
+Drift in performance detected at sample 462
+Drift in performance detected at sample 519
+Drift in performance detected at sample 562
+Drift in performance detected at sample 622
+Drift in performance detected at sample 717
+Drift in performance detected at sample 785
+Drift in performance detected at sample 863
+Drift in performance detected at sample 923
+Test batch 17 - Balanced accuracy 0.714243 - Accuracy 0.659384
+
+Drift in performance detected at sample 29
+Drift in performance detected at sample 67
+Drift in performance detected at sample 114
+Drift in performance detected at sample 191
+Drift in performance detected at sample 233
+Drift in performance detected at sample 448
+Drift in performance detected at sample 548
+Drift in performance detected at sample 668
+Drift in performance detected at sample 768
+Drift in performance detected at sample 865
+Test batch 18 - Balanced accuracy 0.817651 - Accuracy 0.851043
+
+Drift in performance detected at sample 18
+Drift in performance detected at sample 308
+Drift in performance detected at sample 866
+Drift in performance detected at sample 928
+Drift in performance detected at sample 975
+Test batch 19 - Balanced accuracy 0.687148 - Accuracy 0.691162
+
+Drift in performance detected at sample 115
+Drift in performance detected at sample 167
+Drift in performance detected at sample 254
+Drift in performance detected at sample 404
+Drift in performance detected at sample 478
+Drift in performance detected at sample 560
+Drift in performance detected at sample 724
+Drift in performance detected at sample 838
+Test batch 20 - Balanced accuracy 0.765797 - Accuracy 0.741807
+
+Drift in performance detected at sample 135
+Drift in performance detected at sample 229
+Drift in performance detected at sample 284
+Drift in performance detected at sample 383
+Drift in performance detected at sample 481
+Drift in performance detected at sample 586
+Drift in performance detected at sample 919
+Test batch 21 - Balanced accuracy 0.811124 - Accuracy 0.845084
+
+Drift in performance detected at sample 93
+Drift in performance detected at sample 403
+Drift in performance detected at sample 502
+Drift in performance detected at sample 739
+Drift in performance detected at sample 941
+Test batch 22 - Balanced accuracy 0.561201 - Accuracy 0.622642
+
+Drift in performance detected at sample 111
+Drift in performance detected at sample 234
+Drift in performance detected at sample 349
+Drift in performance detected at sample 389
+Drift in performance detected at sample 636
+Drift in performance detected at sample 683
+Drift in performance detected at sample 733
+Drift in performance detected at sample 806
+Drift in performance detected at sample 882
+Drift in performance detected at sample 1006
+Test batch 23 - Balanced accuracy 0.630240 - Accuracy 0.577954
+
+Drift in performance detected at sample 100
+Drift in performance detected at sample 141
+Drift in performance detected at sample 191
+Drift in performance detected at sample 243
+Drift in performance detected at sample 371
+Drift in performance detected at sample 456
+Drift in performance detected at sample 527
+Drift in performance detected at sample 572
+Drift in performance detected at sample 628
+Drift in performance detected at sample 745
+Drift in performance detected at sample 880
+Drift in performance detected at sample 952
+Test batch 24 - Balanced accuracy 0.622772 - Accuracy 0.698113
+
+Drift in performance detected at sample 22
+Drift in performance detected at sample 160
+Drift in performance detected at sample 312
+Drift in performance detected at sample 361
+Drift in performance detected at sample 489
+Drift in performance detected at sample 543
+Drift in performance detected at sample 643
+Drift in performance detected at sample 721
+Drift in performance detected at sample 856
+Drift in performance detected at sample 982
+Test batch 25 - Balanced accuracy 0.776371 - Accuracy 0.778550
+
+Drift in performance detected at sample 103
+Drift in performance detected at sample 191
+Drift in performance detected at sample 258
+Drift in performance detected at sample 394
+Drift in performance detected at sample 667
+Test batch 26 - Balanced accuracy 0.674519 - Accuracy 0.651440
+
+Drift in performance detected at sample 58
+Drift in performance detected at sample 111
+Drift in performance detected at sample 210
+Drift in performance detected at sample 297
+Drift in performance detected at sample 407
+Drift in performance detected at sample 477
+Drift in performance detected at sample 554
+Drift in performance detected at sample 629
+Drift in performance detected at sample 741
+Drift in performance detected at sample 839
+Drift in performance detected at sample 1001
+Test batch 27 - Balanced accuracy 0.713297 - Accuracy 0.708044
+
+Drift in performance detected at sample 137
+Drift in performance detected at sample 199
+Drift in performance detected at sample 296
+Drift in performance detected at sample 443
+Drift in performance detected at sample 551
+Drift in performance detected at sample 697
+Drift in performance detected at sample 772
+Drift in performance detected at sample 909
+Drift in performance detected at sample 986
+Test batch 28 - Balanced accuracy 0.720119 - Accuracy 0.758689
+
+Drift in performance detected at sample 124
+Drift in performance detected at sample 382
+Drift in performance detected at sample 571
+Drift in performance detected at sample 700
+Drift in performance detected at sample 783
+Drift in performance detected at sample 831
+Drift in performance detected at sample 917
+Test batch 29 - Balanced accuracy 0.841090 - Accuracy 0.841112
+
+Drift in performance detected at sample 15
+Drift in performance detected at sample 140
+Drift in performance detected at sample 540
+Drift in performance detected at sample 684
+Drift in performance detected at sample 866
+Test batch 30 - Balanced accuracy 0.734465 - Accuracy 0.758689
+
+Drift in performance detected at sample 24
+Drift in performance detected at sample 71
+Drift in performance detected at sample 238
+Drift in performance detected at sample 581
+Drift in performance detected at sample 731
+Drift in performance detected at sample 795
+Drift in performance detected at sample 919
+Test batch 31 - Balanced accuracy 0.651354 - Accuracy 0.695134
+
+Drift in performance detected at sample 111
+Drift in performance detected at sample 166
+Drift in performance detected at sample 247
+Drift in performance detected at sample 366
+Drift in performance detected at sample 449
+Drift in performance detected at sample 529
+Drift in performance detected at sample 682
+Drift in performance detected at sample 915
+Drift in performance detected at sample 987
+Test batch 32 - Balanced accuracy 0.661714 - Accuracy 0.642502
+
+Drift in performance detected at sample 207
+Drift in performance detected at sample 274
+Drift in performance detected at sample 413
+Drift in performance detected at sample 517
+Drift in performance detected at sample 607
+Drift in performance detected at sample 700
+Drift in performance detected at sample 761
+Drift in performance detected at sample 838
+Drift in performance detected at sample 888
+Drift in performance detected at sample 954
+Test batch 33 - Balanced accuracy 0.558251 - Accuracy 0.541212
+
+Drift in performance detected at sample 84
+Drift in performance detected at sample 143
+Drift in performance detected at sample 316
+Drift in performance detected at sample 421
+Drift in performance detected at sample 481
+Drift in performance detected at sample 592
+Drift in performance detected at sample 642
+Drift in performance detected at sample 748
+Drift in performance detected at sample 819
+Drift in performance detected at sample 915
+Drift in performance detected at sample 976
+Test batch 34 - Balanced accuracy 0.596817 - Accuracy 0.503476
+
+Drift in performance detected at sample 95
+Drift in performance detected at sample 157
+Drift in performance detected at sample 198
+Drift in performance detected at sample 250
+Drift in performance detected at sample 306
+Drift in performance detected at sample 396
+Drift in performance detected at sample 446
+Drift in performance detected at sample 487
+Drift in performance detected at sample 541
+Drift in performance detected at sample 614
+Drift in performance detected at sample 695
+Drift in performance detected at sample 817
+Drift in performance detected at sample 876
+Drift in performance detected at sample 932
+Drift in performance detected at sample 980
+Test batch 35 - Balanced accuracy 0.780690 - Accuracy 0.718967
+
+Drift in performance detected at sample 55
+Drift in performance detected at sample 111
+Drift in performance detected at sample 195
+Drift in performance detected at sample 318
+Drift in performance detected at sample 534
+Drift in performance detected at sample 608
+Drift in performance detected at sample 718
+Drift in performance detected at sample 888
+Drift in performance detected at sample 985
+Test batch 36 - Balanced accuracy 0.737313 - Accuracy 0.766634
+
+Drift in performance detected at sample 112
+Drift in performance detected at sample 227
+Drift in performance detected at sample 294
+Drift in performance detected at sample 457
+Drift in performance detected at sample 683
+Drift in performance detected at sample 886
+Drift in performance detected at sample 951
+Test batch 37 - Balanced accuracy 0.775497 - Accuracy 0.756703
+
+Drift in performance detected at sample 133
+Drift in performance detected at sample 423
+Drift in performance detected at sample 526
+Drift in performance detected at sample 588
+Drift in performance detected at sample 660
+Drift in performance detected at sample 818
+Drift in performance detected at sample 939
+Test batch 38 - Balanced accuracy 0.731989 - Accuracy 0.745780
+
+Drift in performance detected at sample 12
+Drift in performance detected at sample 228
+Drift in performance detected at sample 360
+Drift in performance detected at sample 536
+Drift in performance detected at sample 641
+Drift in performance detected at sample 835
+Test batch 39 - Balanced accuracy 0.886814 - Accuracy 0.894737
+
+Drift in performance detected at sample 276
+Drift in performance detected at sample 756
+Test batch 40 - Balanced accuracy 0.868984 - Accuracy 0.878848
+
+Drift in performance detected at sample 113
+Test batch 41 - Balanced accuracy 0.872194 - Accuracy 0.873883
+
+Drift in performance detected at sample 197
+Drift in performance detected at sample 687
+Drift in performance detected at sample 941
+Test batch 42 - Balanced accuracy 0.824163 - Accuracy 0.823062
+
+Drift in performance detected at sample 68
+Drift in performance detected at sample 276
+Drift in performance detected at sample 425
+Drift in performance detected at sample 476
+Drift in performance detected at sample 802
+Test batch 43 - Balanced accuracy 0.760868 - Accuracy 0.728628
+
+Drift in performance detected at sample 0
+Drift in performance detected at sample 148
+Drift in performance detected at sample 331
+Drift in performance detected at sample 514
+Drift in performance detected at sample 574
+Drift in performance detected at sample 700
+Drift in performance detected at sample 862
+Drift in performance detected at sample 952
+Test batch 44 - Balanced accuracy 0.784801 - Accuracy 0.798211
+
+Drift in performance detected at sample 20
+Drift in performance detected at sample 76
+Drift in performance detected at sample 258
+Drift in performance detected at sample 374
+Drift in performance detected at sample 693

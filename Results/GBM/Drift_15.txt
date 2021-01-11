@@ -1,0 +1,12 @@
+Test batch 1 - Balanced accuracy 0.827640 - Accuracy 0.854000
+Test batch 2 - Balanced accuracy 0.852535 - Accuracy 0.881000
+Test batch 3 - Balanced accuracy 0.852192 - Accuracy 0.876000
+Test batch 4 - Balanced accuracy 0.857677 - Accuracy 0.881000
+Test batch 5 - Balanced accuracy 0.859255 - Accuracy 0.875000
+Test batch 6 - Balanced accuracy 0.851237 - Accuracy 0.869000
+Test batch 7 - Balanced accuracy 0.862972 - Accuracy 0.884000
+Test batch 8 - Balanced accuracy 0.849855 - Accuracy 0.873000
+Test batch 9 - Balanced accuracy 0.850358 - Accuracy 0.871000
+Test batch 10 - Balanced accuracy 0.865920 - Accuracy 0.884000
+Test batch 11 - Balanced accuracy 0.867921 - Accuracy 0.887000
+Test batch 285 - Balanced accuracy 0.760773 - Accuracy 0.780000

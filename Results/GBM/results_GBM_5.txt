@@ -1,0 +1,195 @@
+Test batch 1 - Balanced accuracy 0.854488 - Accuracy 0.853877
+
+Test batch 2 - Balanced accuracy 0.839605 - Accuracy 0.836978
+
+Drift in performance detected at sample 150
+Test batch 3 - Balanced accuracy 0.861492 - Accuracy 0.860835
+
+Test batch 4 - Balanced accuracy 0.854390 - Accuracy 0.853877
+
+Test batch 5 - Balanced accuracy 0.864085 - Accuracy 0.863817
+
+Test batch 6 - Balanced accuracy 0.869438 - Accuracy 0.869781
+
+Test batch 7 - Balanced accuracy 0.860593 - Accuracy 0.860835
+
+Test batch 8 - Balanced accuracy 0.863890 - Accuracy 0.863817
+
+Test batch 9 - Balanced accuracy 0.849530 - Accuracy 0.848907
+
+Test batch 10 - Balanced accuracy 0.852815 - Accuracy 0.852883
+
+Test batch 11 - Balanced accuracy 0.868455 - Accuracy 0.869781
+
+Test batch 12 - Balanced accuracy 0.850441 - Accuracy 0.851889
+
+Test batch 13 - Balanced accuracy 0.861529 - Accuracy 0.861829
+
+Test batch 14 - Balanced accuracy 0.871701 - Accuracy 0.872763
+
+Test batch 15 - Balanced accuracy 0.870359 - Accuracy 0.867793
+
+Test batch 16 - Balanced accuracy 0.879664 - Accuracy 0.879722
+
+Test batch 17 - Balanced accuracy 0.862913 - Accuracy 0.863817
+
+Test batch 18 - Balanced accuracy 0.851225 - Accuracy 0.849901
+
+Test batch 19 - Balanced accuracy 0.860964 - Accuracy 0.861829
+
+Test batch 20 - Balanced accuracy 0.860671 - Accuracy 0.862823
+
+Test batch 21 - Balanced accuracy 0.851996 - Accuracy 0.852883
+
+Test batch 22 - Balanced accuracy 0.863898 - Accuracy 0.863817
+
+Test batch 23 - Balanced accuracy 0.857226 - Accuracy 0.858847
+
+Test batch 24 - Balanced accuracy 0.845556 - Accuracy 0.843936
+
+Test batch 25 - Balanced accuracy 0.864534 - Accuracy 0.860835
+
+Test batch 26 - Balanced accuracy 0.880368 - Accuracy 0.880716
+
+Test batch 27 - Balanced accuracy 0.850938 - Accuracy 0.849901
+
+Test batch 28 - Balanced accuracy 0.863050 - Accuracy 0.861829
+
+Test batch 29 - Balanced accuracy 0.869199 - Accuracy 0.867793
+
+Test batch 30 - Balanced accuracy 0.863788 - Accuracy 0.864811
+
+Test batch 31 - Balanced accuracy 0.855666 - Accuracy 0.855865
+
+Test batch 32 - Balanced accuracy 0.863593 - Accuracy 0.863817
+
+Test batch 33 - Balanced accuracy 0.837694 - Accuracy 0.837972
+
+Test batch 34 - Balanced accuracy 0.876854 - Accuracy 0.876740
+
+Test batch 35 - Balanced accuracy 0.840598 - Accuracy 0.838966
+
+Test batch 36 - Balanced accuracy 0.873254 - Accuracy 0.871769
+
+Test batch 37 - Balanced accuracy 0.852989 - Accuracy 0.852883
+
+Test batch 38 - Balanced accuracy 0.839879 - Accuracy 0.838806
+
+Test batch 39 - Balanced accuracy 0.866559 - Accuracy 0.865672
+
+Test batch 40 - Balanced accuracy 0.860106 - Accuracy 0.859701
+
+Test batch 41 - Balanced accuracy 0.864485 - Accuracy 0.864677
+
+Test batch 42 - Balanced accuracy 0.858881 - Accuracy 0.858706
+
+Test batch 43 - Balanced accuracy 0.850602 - Accuracy 0.850746
+
+Test batch 44 - Balanced accuracy 0.879263 - Accuracy 0.879602
+
+Test batch 45 - Balanced accuracy 0.838250 - Accuracy 0.836816
+
+Test batch 46 - Balanced accuracy 0.869941 - Accuracy 0.870647
+
+Test batch 47 - Balanced accuracy 0.866287 - Accuracy 0.867662
+
+Test batch 48 - Balanced accuracy 0.867584 - Accuracy 0.866667
+
+Test batch 49 - Balanced accuracy 0.842612 - Accuracy 0.842786
+
+Test batch 50 - Balanced accuracy 0.856947 - Accuracy 0.858706
+
+Test batch 51 - Balanced accuracy 0.854615 - Accuracy 0.853731
+
+Test batch 52 - Balanced accuracy 0.843670 - Accuracy 0.843781
+
+Test batch 53 - Balanced accuracy 0.870226 - Accuracy 0.869652
+
+Test batch 54 - Balanced accuracy 0.861153 - Accuracy 0.861692
+
+Test batch 55 - Balanced accuracy 0.867841 - Accuracy 0.866667
+
+Test batch 56 - Balanced accuracy 0.868256 - Accuracy 0.869652
+
+Test batch 57 - Balanced accuracy 0.872922 - Accuracy 0.872637
+
+Test batch 58 - Balanced accuracy 0.859559 - Accuracy 0.858706
+
+Test batch 59 - Balanced accuracy 0.881711 - Accuracy 0.880597
+
+Test batch 60 - Balanced accuracy 0.859729 - Accuracy 0.862687
+
+Test batch 61 - Balanced accuracy 0.837888 - Accuracy 0.840796
+
+Test batch 62 - Balanced accuracy 0.862937 - Accuracy 0.863682
+
+Test batch 63 - Balanced accuracy 0.880824 - Accuracy 0.881592
+
+Test batch 64 - Balanced accuracy 0.869323 - Accuracy 0.869652
+
+Test batch 65 - Balanced accuracy 0.853050 - Accuracy 0.853731
+
+Test batch 66 - Balanced accuracy 0.857887 - Accuracy 0.857711
+
+Test batch 67 - Balanced accuracy 0.867439 - Accuracy 0.866667
+
+Test batch 68 - Balanced accuracy 0.880854 - Accuracy 0.881592
+
+Test batch 69 - Balanced accuracy 0.852856 - Accuracy 0.853731
+
+Test batch 70 - Balanced accuracy 0.846810 - Accuracy 0.845771
+
+Test batch 71 - Balanced accuracy 0.852962 - Accuracy 0.851741
+
+Test batch 72 - Balanced accuracy 0.870059 - Accuracy 0.870647
+
+Test batch 73 - Balanced accuracy 0.857630 - Accuracy 0.857711
+
+Test batch 74 - Balanced accuracy 0.857668 - Accuracy 0.856716
+
+Test batch 75 - Balanced accuracy 0.856939 - Accuracy 0.856716
+
+Test batch 76 - Balanced accuracy 0.866690 - Accuracy 0.868657
+
+Test batch 77 - Balanced accuracy 0.854235 - Accuracy 0.853731
+
+Test batch 78 - Balanced accuracy 0.869022 - Accuracy 0.869652
+
+Test batch 79 - Balanced accuracy 0.835413 - Accuracy 0.835821
+
+Test batch 80 - Balanced accuracy 0.851099 - Accuracy 0.850746
+
+Test batch 81 - Balanced accuracy 0.861800 - Accuracy 0.861692
+
+Test batch 82 - Balanced accuracy 0.845030 - Accuracy 0.846766
+
+Test batch 83 - Balanced accuracy 0.879552 - Accuracy 0.877612
+
+Test batch 84 - Balanced accuracy 0.859979 - Accuracy 0.859701
+
+Test batch 85 - Balanced accuracy 0.868990 - Accuracy 0.867662
+
+Test batch 86 - Balanced accuracy 0.849732 - Accuracy 0.850746
+
+Test batch 87 - Balanced accuracy 0.857900 - Accuracy 0.858706
+
+Test batch 88 - Balanced accuracy 0.854817 - Accuracy 0.853731
+
+Test batch 89 - Balanced accuracy 0.858922 - Accuracy 0.859701
+
+Test batch 90 - Balanced accuracy 0.857911 - Accuracy 0.857711
+
+Test batch 91 - Balanced accuracy 0.865212 - Accuracy 0.865672
+
+Test batch 92 - Balanced accuracy 0.853469 - Accuracy 0.851741
+
+Test batch 93 - Balanced accuracy 0.857904 - Accuracy 0.856716
+
+Test batch 94 - Balanced accuracy 0.855685 - Accuracy 0.857711
+
+Test batch 95 - Balanced accuracy 0.858434 - Accuracy 0.857711
+
+Test batch 96 - Balanced accuracy 0.877219 - Accuracy 0.877612
+
+Test batch 97 - Balanced accuracy 0.875316 - Accuracy 0.876617
+
