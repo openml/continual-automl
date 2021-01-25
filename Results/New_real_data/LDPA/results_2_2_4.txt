@@ -1,0 +1,219 @@
+Autosklearn_Option2.py
+4
+Test batch 1 - Test score 0.364916
+
+Drift in performance detected at sample 437
+Drift in performance detected at sample 809
+Drift in performance detected at sample 2731
+Drift in performance detected at sample 3112
+Drift in performance detected at sample 4586
+Drift in performance detected at sample 5106
+Drift in performance detected at sample 5923
+Drift in performance detected at sample 8081
+Test batch 2 - Test score 0.455417
+
+Drift in performance detected at sample 197
+Drift in performance detected at sample 313
+Drift in performance detected at sample 602
+Drift in performance detected at sample 1829
+Drift in performance detected at sample 1897
+Drift in performance detected at sample 2429
+Drift in performance detected at sample 2577
+Drift in performance detected at sample 3130
+Drift in performance detected at sample 3900
+Drift in performance detected at sample 5144
+Drift in performance detected at sample 5640
+Drift in performance detected at sample 5732
+Drift in performance detected at sample 7053
+Drift in performance detected at sample 7093
+Drift in performance detected at sample 7680
+Drift in performance detected at sample 7784
+Test batch 3 - Test score 0.237050
+
+Drift in performance detected at sample 46
+Drift in performance detected at sample 2305
+Drift in performance detected at sample 2549
+Drift in performance detected at sample 2979
+Drift in performance detected at sample 3799
+Drift in performance detected at sample 4690
+Drift in performance detected at sample 5898
+Drift in performance detected at sample 6714
+Drift in performance detected at sample 7415
+Drift in performance detected at sample 8091
+Test batch 4 - Test score 0.209996
+
+Drift in performance detected at sample 530
+Drift in performance detected at sample 1409
+Drift in performance detected at sample 2139
+Drift in performance detected at sample 2851
+Drift in performance detected at sample 3887
+Drift in performance detected at sample 4710
+Drift in performance detected at sample 5312
+Drift in performance detected at sample 5950
+Drift in performance detected at sample 6657
+Drift in performance detected at sample 7554
+Drift in performance detected at sample 8107
+Test batch 5 - Test score 0.198714
+
+Drift in performance detected at sample 569
+Drift in performance detected at sample 1481
+Drift in performance detected at sample 2225
+Drift in performance detected at sample 2908
+Drift in performance detected at sample 3538
+Drift in performance detected at sample 4144
+Drift in performance detected at sample 4901
+Drift in performance detected at sample 5510
+Drift in performance detected at sample 6256
+Drift in performance detected at sample 7155
+Drift in performance detected at sample 7878
+Test batch 6 - Test score 0.166323
+
+Drift in performance detected at sample 332
+Drift in performance detected at sample 869
+Drift in performance detected at sample 1582
+Drift in performance detected at sample 2484
+Drift in performance detected at sample 3271
+Drift in performance detected at sample 3912
+Drift in performance detected at sample 4865
+Drift in performance detected at sample 5648
+Drift in performance detected at sample 6341
+Drift in performance detected at sample 6887
+Drift in performance detected at sample 7547
+Test batch 7 - Test score 0.321606
+
+Drift in performance detected at sample 54
+Drift in performance detected at sample 1592
+Drift in performance detected at sample 2237
+Drift in performance detected at sample 2982
+Drift in performance detected at sample 5462
+Drift in performance detected at sample 5941
+Drift in performance detected at sample 7841
+Test batch 8 - Test score 0.333131
+
+Drift in performance detected at sample 226
+Drift in performance detected at sample 1151
+Drift in performance detected at sample 3653
+Drift in performance detected at sample 3963
+Drift in performance detected at sample 5980
+Drift in performance detected at sample 6496
+Drift in performance detected at sample 7528
+Test batch 9 - Test score 0.311173
+
+Drift in performance detected at sample 1663
+Drift in performance detected at sample 1941
+Drift in performance detected at sample 3909
+Drift in performance detected at sample 4485
+Drift in performance detected at sample 5395
+Drift in performance detected at sample 7990
+Test batch 10 - Test score 0.321242
+
+Drift in performance detected at sample 52
+Drift in performance detected at sample 2142
+Drift in performance detected at sample 2816
+Drift in performance detected at sample 3688
+Drift in performance detected at sample 6186
+Drift in performance detected at sample 6555
+Drift in performance detected at sample 7161
+Drift in performance detected at sample 8057
+[WARNING] [2021-01-22 15:28:18,778:smac.intensification.intensification.Intensifier] Challenger was the same as the current incumbent; Skipping challenger
+[WARNING] [2021-01-22 15:28:18,778:smac.intensification.intensification.Intensifier] Challenger was the same as the current incumbent; Skipping challenger
+Test batch 11 - Test score 0.220915
+
+Drift in performance detected at sample 709
+Drift in performance detected at sample 1865
+Drift in performance detected at sample 2987
+Drift in performance detected at sample 3742
+Drift in performance detected at sample 4555
+Drift in performance detected at sample 5405
+Drift in performance detected at sample 6517
+Drift in performance detected at sample 7205
+Drift in performance detected at sample 8071
+Test batch 12 - Test score 0.248332
+
+Drift in performance detected at sample 766
+Drift in performance detected at sample 1679
+Drift in performance detected at sample 2303
+Drift in performance detected at sample 2824
+Drift in performance detected at sample 3562
+Drift in performance detected at sample 4592
+Drift in performance detected at sample 5435
+Drift in performance detected at sample 6250
+Drift in performance detected at sample 7234
+Drift in performance detected at sample 7988
+Test batch 13 - Test score 0.208298
+
+Drift in performance detected at sample 363
+Drift in performance detected at sample 1158
+Drift in performance detected at sample 1872
+Drift in performance detected at sample 2782
+Drift in performance detected at sample 3359
+Drift in performance detected at sample 3990
+Drift in performance detected at sample 4822
+Drift in performance detected at sample 5669
+Drift in performance detected at sample 6166
+Drift in performance detected at sample 6715
+Drift in performance detected at sample 7402
+Test batch 14 - Test score 0.195560
+
+Drift in performance detected at sample 58
+Drift in performance detected at sample 751
+Drift in performance detected at sample 1463
+Drift in performance detected at sample 2456
+Drift in performance detected at sample 3187
+Drift in performance detected at sample 3811
+Drift in performance detected at sample 4434
+Drift in performance detected at sample 5179
+Drift in performance detected at sample 6165
+Drift in performance detected at sample 7320
+Test batch 15 - Test score 0.281208
+
+Drift in performance detected at sample 592
+Drift in performance detected at sample 1991
+Drift in performance detected at sample 3345
+Drift in performance detected at sample 4325
+Drift in performance detected at sample 5119
+Drift in performance detected at sample 6049
+Drift in performance detected at sample 7059
+Drift in performance detected at sample 8133
+Test batch 16 - Test score 0.244692
+
+Drift in performance detected at sample 776
+Drift in performance detected at sample 2208
+Drift in performance detected at sample 3214
+Drift in performance detected at sample 4331
+Drift in performance detected at sample 4947
+Drift in performance detected at sample 5744
+Drift in performance detected at sample 6975
+Drift in performance detected at sample 7879
+[WARNING] [2021-01-22 16:08:40,319:smac.intensification.intensification.Intensifier] Challenger was the same as the current incumbent; Skipping challenger
+[WARNING] [2021-01-22 16:08:40,319:smac.intensification.intensification.Intensifier] Challenger was the same as the current incumbent; Skipping challenger
+Test batch 17 - Test score 0.225403
+
+Drift in performance detected at sample 630
+Drift in performance detected at sample 2243
+Drift in performance detected at sample 3419
+Drift in performance detected at sample 4893
+Drift in performance detected at sample 5415
+Drift in performance detected at sample 6604
+Drift in performance detected at sample 7708
+Test batch 18 - Test score 0.302438
+
+Drift in performance detected at sample 610
+Drift in performance detected at sample 1603
+Drift in performance detected at sample 3027
+Drift in performance detected at sample 4260
+Drift in performance detected at sample 5243
+Drift in performance detected at sample 5683
+Drift in performance detected at sample 7056
+Drift in performance detected at sample 7993
+[WARNING] [2021-01-22 16:22:11,267:smac.intensification.intensification.Intensifier] Challenger was the same as the current incumbent; Skipping challenger
+[WARNING] [2021-01-22 16:22:11,267:smac.intensification.intensification.Intensifier] Challenger was the same as the current incumbent; Skipping challenger
+Test batch 19 - Test score 0.252578
+
+Drift in performance detected at sample 906
+Drift in performance detected at sample 1899
+Drift in performance detected at sample 3609
+Drift in performance detected at sample 4676
+Drift in performance detected at sample 5622
+Drift in performance detected at sample 6314
+Drift in performance detected at sample 7459

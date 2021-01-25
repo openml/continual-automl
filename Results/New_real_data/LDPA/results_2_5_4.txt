@@ -1,0 +1,43 @@
+Autosklearn_Option5.py
+4
+[WARNING] [2021-01-22 14:45:11,740:EnsembleBuilder(1):3357e179baf08ad540939482e5869ba7] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 14:45:11,743:EnsembleBuilder(1):3357e179baf08ad540939482e5869ba7] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 14:48:54,312:EnsembleBuilder(1):3357e179baf08ad540939482e5869ba7] Memory Exception -- restart with less ensemle_nbest: 25
+Test batch 1 - Test score 0.244450
+
+Test batch 2 - Test score 0.298192
+
+Test batch 3 - Test score 0.174451
+
+Test batch 4 - Test score 0.209996
+
+Test batch 5 - Test score 0.198714
+
+Test batch 6 - Test score 0.175786
+
+Test batch 7 - Test score 0.292976
+
+Test batch 8 - Test score 0.349509
+
+Test batch 9 - Test score 0.247240
+
+Test batch 10 - Test score 0.308140
+
+Test batch 11 - Test score 0.220915
+
+Test batch 12 - Test score 0.248332
+
+Test batch 13 - Test score 0.208298
+
+Test batch 14 - Test score 0.195560
+
+Test batch 15 - Test score 0.281208
+
+Test batch 16 - Test score 0.244692
+
+Test batch 17 - Test score 0.225403
+
+Test batch 18 - Test score 0.302438
+
+Test batch 19 - Test score 0.252578
+

@@ -1,0 +1,107 @@
+Autosklearn_Option6.py
+4
+[WARNING] [2021-01-17 22:29:14,683:EnsembleBuilder(1):3357e179baf08ad540939482e5869ba7] No models better than random - using Dummy Score!
+[WARNING] [2021-01-17 22:29:14,687:EnsembleBuilder(1):3357e179baf08ad540939482e5869ba7] No models better than random - using Dummy Score!
+[WARNING] [2021-01-17 22:35:20,681:EnsembleBuilder(1):3357e179baf08ad540939482e5869ba7] Memory Exception -- restart with less ensemle_nbest: 25
+Test batch 1 - Balanced accuracy 0.100190 - Accuracy 0.364794
+
+Drift in performance detected at sample 1975
+Drift in performance detected at sample 2605
+Drift in performance detected at sample 4608
+Drift in performance detected at sample 7180
+Drift in performance detected at sample 7925
+Test batch 2 - Balanced accuracy 0.100000 - Accuracy 0.445226
+
+Drift in performance detected at sample 1884
+Drift in performance detected at sample 4552
+Drift in performance detected at sample 5111
+Drift in performance detected at sample 7094
+Test batch 3 - Balanced accuracy 0.113670 - Accuracy 0.245663
+
+Drift in performance detected at sample 1455
+Drift in performance detected at sample 2108
+Drift in performance detected at sample 3682
+Drift in performance detected at sample 4803
+Drift in performance detected at sample 5838
+Drift in performance detected at sample 8099
+Test batch 4 - Balanced accuracy 0.189125 - Accuracy 0.415383
+
+Drift in performance detected at sample 428
+Drift in performance detected at sample 2624
+Drift in performance detected at sample 2750
+Drift in performance detected at sample 5865
+Drift in performance detected at sample 6545
+Test batch 5 - Balanced accuracy 0.160855 - Accuracy 0.471188
+
+Drift in performance detected at sample 531
+Drift in performance detected at sample 572
+Drift in performance detected at sample 3457
+Drift in performance detected at sample 4310
+Drift in performance detected at sample 6187
+Drift in performance detected at sample 6244
+Test batch 6 - Balanced accuracy 0.121721 - Accuracy 0.177484
+
+Drift in performance detected at sample 1710
+Drift in performance detected at sample 1802
+Drift in performance detected at sample 2382
+Drift in performance detected at sample 2423
+Test batch 7 - Balanced accuracy 0.100000 - Accuracy 0.219459
+
+Drift in performance detected at sample 954
+Drift in performance detected at sample 1890
+Drift in performance detected at sample 2590
+Drift in performance detected at sample 4680
+Drift in performance detected at sample 5766
+Drift in performance detected at sample 7106
+Drift in performance detected at sample 8088
+Test batch 8 - Balanced accuracy 0.108945 - Accuracy 0.353269
+
+Drift in performance detected at sample 3538
+Drift in performance detected at sample 5646
+Drift in performance detected at sample 5993
+Test batch 9 - Balanced accuracy 0.100000 - Accuracy 0.149703
+
+Drift in performance detected at sample 2433
+Drift in performance detected at sample 5769
+Test batch 10 - Balanced accuracy 0.115535 - Accuracy 0.321242
+
+Drift in performance detected at sample 2170
+Drift in performance detected at sample 5323
+Drift in performance detected at sample 6124
+Drift in performance detected at sample 7956
+Test batch 11 - Balanced accuracy 0.137875 - Accuracy 0.405920
+
+Drift in performance detected at sample 647
+Drift in performance detected at sample 4442
+Drift in performance detected at sample 5290
+Drift in performance detected at sample 7942
+Drift in performance detected at sample 7982
+Test batch 12 - Balanced accuracy 0.098199 - Accuracy 0.354847
+
+Drift in performance detected at sample 2747
+Drift in performance detected at sample 3447
+Drift in performance detected at sample 6126
+Test batch 13 - Balanced accuracy 0.109974 - Accuracy 0.164867
+
+Drift in performance detected at sample 2032
+Drift in performance detected at sample 5562
+Drift in performance detected at sample 7537
+Test batch 14 - Balanced accuracy 0.051069 - Accuracy 0.116220
+
+Drift in performance detected at sample 3685
+Test batch 15 - Balanced accuracy 0.100000 - Accuracy 0.113915
+
+Test batch 16 - Balanced accuracy 0.100000 - Accuracy 0.123984
+
+Test batch 17 - Balanced accuracy 0.100000 - Accuracy 0.135752
+
+Test batch 18 - Balanced accuracy 0.103363 - Accuracy 0.251971
+
+Drift in performance detected at sample 1467
+Drift in performance detected at sample 1552
+Drift in performance detected at sample 5636
+Drift in performance detected at sample 6878
+Test batch 19 - Balanced accuracy 0.116234 - Accuracy 0.164746
+
+Drift in performance detected at sample 4556
+Drift in performance detected at sample 7745

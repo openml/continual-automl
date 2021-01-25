@@ -1,0 +1,358 @@
+Autosklearn_Option3.py
+4
+[WARNING] [2021-01-12 11:43:12,556:EnsembleBuilder(1):3357e179baf08ad540939482e5869ba7] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 11:43:12,560:EnsembleBuilder(1):3357e179baf08ad540939482e5869ba7] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 11:48:02,942:EnsembleBuilder(1):3357e179baf08ad540939482e5869ba7] Memory Exception -- restart with less ensemle_nbest: 25
+Test batch 1 - Test score 0.373165
+
+Drift in performance detected at sample 437
+Drift in performance detected at sample 842
+Drift in performance detected at sample 2746
+Drift in performance detected at sample 3108
+Drift in performance detected at sample 3433
+Drift in performance detected at sample 4507
+Drift in performance detected at sample 5124
+Drift in performance detected at sample 5320
+Drift in performance detected at sample 5873
+Drift in performance detected at sample 8096
+[WARNING] [2021-01-12 11:58:00,483:EnsembleBuilder(1):a808d21bb88a2e8bf6a0df0b70f46e22] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 11:58:00,489:EnsembleBuilder(1):a808d21bb88a2e8bf6a0df0b70f46e22] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 11:58:02,493:EnsembleBuilder(1):a808d21bb88a2e8bf6a0df0b70f46e22] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 11:58:04,498:EnsembleBuilder(1):a808d21bb88a2e8bf6a0df0b70f46e22] No models better than random - using Dummy Score!
+Test batch 2 - Test score 0.178697
+
+Drift in performance detected at sample 194
+Drift in performance detected at sample 258
+Drift in performance detected at sample 448
+Drift in performance detected at sample 499
+Drift in performance detected at sample 3762
+Drift in performance detected at sample 3984
+Drift in performance detected at sample 4855
+Drift in performance detected at sample 5079
+Drift in performance detected at sample 5667
+Drift in performance detected at sample 5853
+Drift in performance detected at sample 5895
+[WARNING] [2021-01-12 12:07:55,444:EnsembleBuilder(1):0ba6f4ffcb29952c34f282913d0423e9] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 12:07:55,450:EnsembleBuilder(1):0ba6f4ffcb29952c34f282913d0423e9] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 12:07:57,454:EnsembleBuilder(1):0ba6f4ffcb29952c34f282913d0423e9] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 12:07:59,459:EnsembleBuilder(1):0ba6f4ffcb29952c34f282913d0423e9] No models better than random - using Dummy Score!
+Test batch 3 - Test score 0.222613
+
+Drift in performance detected at sample 1083
+Drift in performance detected at sample 1589
+Drift in performance detected at sample 2234
+Drift in performance detected at sample 3012
+Drift in performance detected at sample 3793
+Drift in performance detected at sample 4776
+Drift in performance detected at sample 5879
+Drift in performance detected at sample 6720
+Drift in performance detected at sample 7413
+Drift in performance detected at sample 8132
+[WARNING] [2021-01-12 12:17:51,992:EnsembleBuilder(1):791931b7ae251db19015335e01865dca] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 12:17:51,999:EnsembleBuilder(1):791931b7ae251db19015335e01865dca] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 12:17:54,003:EnsembleBuilder(1):791931b7ae251db19015335e01865dca] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 12:17:56,008:EnsembleBuilder(1):791931b7ae251db19015335e01865dca] No models better than random - using Dummy Score!
+Test batch 4 - Test score 0.412350
+
+Drift in performance detected at sample 243
+Drift in performance detected at sample 307
+Drift in performance detected at sample 383
+Drift in performance detected at sample 425
+Drift in performance detected at sample 478
+Drift in performance detected at sample 1428
+Drift in performance detected at sample 1630
+Drift in performance detected at sample 2077
+Drift in performance detected at sample 2238
+Drift in performance detected at sample 2631
+Drift in performance detected at sample 2734
+Drift in performance detected at sample 2788
+Drift in performance detected at sample 2827
+Drift in performance detected at sample 3248
+Drift in performance detected at sample 3420
+Drift in performance detected at sample 3651
+Drift in performance detected at sample 3693
+Drift in performance detected at sample 4274
+Drift in performance detected at sample 4424
+Drift in performance detected at sample 4472
+Drift in performance detected at sample 4622
+Drift in performance detected at sample 4688
+Drift in performance detected at sample 5417
+Drift in performance detected at sample 5696
+Drift in performance detected at sample 5852
+Drift in performance detected at sample 6352
+Drift in performance detected at sample 6439
+Drift in performance detected at sample 6486
+Drift in performance detected at sample 6548
+Drift in performance detected at sample 6599
+Drift in performance detected at sample 7553
+[WARNING] [2021-01-12 12:27:46,931:EnsembleBuilder(1):4f379b9ad71fdd747ccf185bf5200319] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 12:27:46,936:EnsembleBuilder(1):4f379b9ad71fdd747ccf185bf5200319] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 12:27:48,940:EnsembleBuilder(1):4f379b9ad71fdd747ccf185bf5200319] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 12:27:50,945:EnsembleBuilder(1):4f379b9ad71fdd747ccf185bf5200319] No models better than random - using Dummy Score!
+Test batch 5 - Test score 0.472643
+
+Drift in performance detected at sample 572
+Drift in performance detected at sample 679
+Drift in performance detected at sample 822
+Drift in performance detected at sample 1013
+Drift in performance detected at sample 1073
+Drift in performance detected at sample 1129
+Drift in performance detected at sample 1242
+Drift in performance detected at sample 1320
+Drift in performance detected at sample 1696
+Drift in performance detected at sample 2181
+Drift in performance detected at sample 4446
+Drift in performance detected at sample 4489
+Drift in performance detected at sample 4705
+Drift in performance detected at sample 4808
+Drift in performance detected at sample 6007
+Drift in performance detected at sample 6057
+Drift in performance detected at sample 6146
+Drift in performance detected at sample 6789
+Drift in performance detected at sample 6929
+Drift in performance detected at sample 7011
+Drift in performance detected at sample 7378
+Drift in performance detected at sample 7823
+[WARNING] [2021-01-12 12:37:41,825:EnsembleBuilder(1):271c98c8288364f75db16eec7bd0f632] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 12:37:41,831:EnsembleBuilder(1):271c98c8288364f75db16eec7bd0f632] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 12:37:43,835:EnsembleBuilder(1):271c98c8288364f75db16eec7bd0f632] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 12:37:45,840:EnsembleBuilder(1):271c98c8288364f75db16eec7bd0f632] No models better than random - using Dummy Score!
+Test batch 6 - Test score 0.398277
+
+Drift in performance detected at sample 1733
+Drift in performance detected at sample 1777
+Drift in performance detected at sample 1969
+Drift in performance detected at sample 2403
+Drift in performance detected at sample 3313
+Drift in performance detected at sample 4872
+Drift in performance detected at sample 4976
+Drift in performance detected at sample 6254
+Drift in performance detected at sample 7548
+[WARNING] [2021-01-12 12:47:36,702:EnsembleBuilder(1):d1b7ae41030b67322dd9e42efdca2417] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 12:47:36,708:EnsembleBuilder(1):d1b7ae41030b67322dd9e42efdca2417] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 12:47:38,712:EnsembleBuilder(1):d1b7ae41030b67322dd9e42efdca2417] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 12:47:40,716:EnsembleBuilder(1):d1b7ae41030b67322dd9e42efdca2417] No models better than random - using Dummy Score!
+Test batch 7 - Test score 0.220915
+
+Drift in performance detected at sample 255
+Drift in performance detected at sample 1053
+Drift in performance detected at sample 1729
+Drift in performance detected at sample 2671
+Drift in performance detected at sample 3342
+Drift in performance detected at sample 4329
+Drift in performance detected at sample 4609
+Drift in performance detected at sample 5499
+Drift in performance detected at sample 6559
+Drift in performance detected at sample 7175
+Drift in performance detected at sample 7979
+[WARNING] [2021-01-12 12:57:31,553:EnsembleBuilder(1):d30a0d93f3319d8ba87bd5a7f9697e6e] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 12:57:31,559:EnsembleBuilder(1):d30a0d93f3319d8ba87bd5a7f9697e6e] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 12:57:33,563:EnsembleBuilder(1):d30a0d93f3319d8ba87bd5a7f9697e6e] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 12:57:35,567:EnsembleBuilder(1):d30a0d93f3319d8ba87bd5a7f9697e6e] No models better than random - using Dummy Score!
+Test batch 8 - Test score 0.348781
+
+Drift in performance detected at sample 258
+Drift in performance detected at sample 1171
+Drift in performance detected at sample 1215
+Drift in performance detected at sample 1256
+Drift in performance detected at sample 2044
+Drift in performance detected at sample 3415
+Drift in performance detected at sample 4021
+Drift in performance detected at sample 4116
+Drift in performance detected at sample 4203
+Drift in performance detected at sample 4463
+Drift in performance detected at sample 6733
+Drift in performance detected at sample 7597
+Drift in performance detected at sample 7648
+[WARNING] [2021-01-12 13:07:26,896:EnsembleBuilder(1):71b4bf296e745158061c25af01ad7491] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 13:07:26,901:EnsembleBuilder(1):71b4bf296e745158061c25af01ad7491] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 13:07:28,905:EnsembleBuilder(1):71b4bf296e745158061c25af01ad7491] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 13:07:30,910:EnsembleBuilder(1):71b4bf296e745158061c25af01ad7491] No models better than random - using Dummy Score!
+Test batch 9 - Test score 0.239840
+
+Drift in performance detected at sample 313
+Drift in performance detected at sample 1029
+Drift in performance detected at sample 1614
+Drift in performance detected at sample 2572
+Drift in performance detected at sample 3210
+Drift in performance detected at sample 6929
+Drift in performance detected at sample 7067
+Drift in performance detected at sample 7268
+Drift in performance detected at sample 8057
+[WARNING] [2021-01-12 13:17:22,048:EnsembleBuilder(1):9373eb147cce82e5f8293351547d2921] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 13:17:22,054:EnsembleBuilder(1):9373eb147cce82e5f8293351547d2921] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 13:17:24,058:EnsembleBuilder(1):9373eb147cce82e5f8293351547d2921] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 13:17:26,063:EnsembleBuilder(1):9373eb147cce82e5f8293351547d2921] No models better than random - using Dummy Score!
+Test batch 10 - Test score 0.329370
+
+Drift in performance detected at sample 82
+Drift in performance detected at sample 370
+Drift in performance detected at sample 3137
+Drift in performance detected at sample 3657
+Drift in performance detected at sample 4181
+Drift in performance detected at sample 6065
+Drift in performance detected at sample 6585
+Drift in performance detected at sample 7024
+Drift in performance detected at sample 7124
+Drift in performance detected at sample 8125
+[WARNING] [2021-01-12 13:27:17,321:EnsembleBuilder(1):ecc4318d17a98ad300e5d5f37e7fe477] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 13:27:17,327:EnsembleBuilder(1):ecc4318d17a98ad300e5d5f37e7fe477] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 13:27:19,331:EnsembleBuilder(1):ecc4318d17a98ad300e5d5f37e7fe477] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 13:27:21,335:EnsembleBuilder(1):ecc4318d17a98ad300e5d5f37e7fe477] No models better than random - using Dummy Score!
+Test batch 11 - Test score 0.411865
+
+Drift in performance detected at sample 237
+Drift in performance detected at sample 360
+Drift in performance detected at sample 598
+Drift in performance detected at sample 1251
+Drift in performance detected at sample 1302
+Drift in performance detected at sample 1614
+Drift in performance detected at sample 1661
+Drift in performance detected at sample 2248
+Drift in performance detected at sample 2948
+Drift in performance detected at sample 5596
+Drift in performance detected at sample 5825
+Drift in performance detected at sample 6010
+Drift in performance detected at sample 6417
+Drift in performance detected at sample 6853
+Drift in performance detected at sample 6953
+Drift in performance detected at sample 7046
+Drift in performance detected at sample 7546
+Drift in performance detected at sample 8003
+[WARNING] [2021-01-12 13:37:12,589:EnsembleBuilder(1):b4f8972227639c65a3155293f5bfdf16] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 13:37:12,595:EnsembleBuilder(1):b4f8972227639c65a3155293f5bfdf16] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 13:37:14,599:EnsembleBuilder(1):b4f8972227639c65a3155293f5bfdf16] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 13:37:16,604:EnsembleBuilder(1):b4f8972227639c65a3155293f5bfdf16] No models better than random - using Dummy Score!
+Test batch 12 - Test score 0.417930
+
+Drift in performance detected at sample 303
+Drift in performance detected at sample 672
+Drift in performance detected at sample 800
+Drift in performance detected at sample 1719
+Drift in performance detected at sample 1837
+Drift in performance detected at sample 2267
+Drift in performance detected at sample 2379
+Drift in performance detected at sample 3299
+Drift in performance detected at sample 3398
+Drift in performance detected at sample 3464
+Drift in performance detected at sample 4704
+Drift in performance detected at sample 5453
+Drift in performance detected at sample 6855
+Drift in performance detected at sample 7025
+Drift in performance detected at sample 7071
+Drift in performance detected at sample 7169
+Drift in performance detected at sample 7216
+Drift in performance detected at sample 8045
+[WARNING] [2021-01-12 13:47:07,862:EnsembleBuilder(1):136ea995ea2bf4abd876107cfb1aeb0b] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 13:47:07,868:EnsembleBuilder(1):136ea995ea2bf4abd876107cfb1aeb0b] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 13:47:09,872:EnsembleBuilder(1):136ea995ea2bf4abd876107cfb1aeb0b] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 13:47:11,876:EnsembleBuilder(1):136ea995ea2bf4abd876107cfb1aeb0b] No models better than random - using Dummy Score!
+Test batch 13 - Test score 0.295766
+
+Drift in performance detected at sample 236
+Drift in performance detected at sample 869
+Drift in performance detected at sample 2007
+Drift in performance detected at sample 2724
+Drift in performance detected at sample 2804
+Drift in performance detected at sample 2869
+Drift in performance detected at sample 3013
+Drift in performance detected at sample 3090
+Drift in performance detected at sample 3154
+Drift in performance detected at sample 3216
+Drift in performance detected at sample 3779
+Drift in performance detected at sample 3838
+Drift in performance detected at sample 3890
+Drift in performance detected at sample 4794
+Drift in performance detected at sample 6126
+Drift in performance detected at sample 7569
+[WARNING] [2021-01-12 13:57:02,970:EnsembleBuilder(1):fd36338b4906338b62fc16e08fa91195] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 13:57:02,975:EnsembleBuilder(1):fd36338b4906338b62fc16e08fa91195] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 13:57:04,979:EnsembleBuilder(1):fd36338b4906338b62fc16e08fa91195] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 13:57:06,983:EnsembleBuilder(1):fd36338b4906338b62fc16e08fa91195] No models better than random - using Dummy Score!
+Test batch 14 - Test score 0.175664
+
+Drift in performance detected at sample 80
+Drift in performance detected at sample 835
+Drift in performance detected at sample 1461
+Drift in performance detected at sample 5232
+Drift in performance detected at sample 6265
+[WARNING] [2021-01-12 14:06:57,730:EnsembleBuilder(1):b8895df3e982f378a3debab2b0ae08a0] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 14:06:57,736:EnsembleBuilder(1):b8895df3e982f378a3debab2b0ae08a0] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 14:06:59,740:EnsembleBuilder(1):b8895df3e982f378a3debab2b0ae08a0] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 14:07:01,745:EnsembleBuilder(1):b8895df3e982f378a3debab2b0ae08a0] No models better than random - using Dummy Score!
+Test batch 15 - Test score 0.364430
+
+Drift in performance detected at sample 156
+Drift in performance detected at sample 347
+Drift in performance detected at sample 1107
+Drift in performance detected at sample 1511
+Drift in performance detected at sample 1564
+Drift in performance detected at sample 1615
+Drift in performance detected at sample 1761
+Drift in performance detected at sample 3318
+Drift in performance detected at sample 6136
+Drift in performance detected at sample 6649
+Drift in performance detected at sample 6980
+Drift in performance detected at sample 8195
+[WARNING] [2021-01-12 14:16:52,755:EnsembleBuilder(1):6318dc30dd3dba3a26bf218bc318ce6c] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 14:16:52,761:EnsembleBuilder(1):6318dc30dd3dba3a26bf218bc318ce6c] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 14:16:54,764:EnsembleBuilder(1):6318dc30dd3dba3a26bf218bc318ce6c] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 14:16:56,769:EnsembleBuilder(1):6318dc30dd3dba3a26bf218bc318ce6c] No models better than random - using Dummy Score!
+Test batch 16 - Test score 0.268713
+
+Drift in performance detected at sample 240
+Drift in performance detected at sample 707
+Drift in performance detected at sample 1937
+Drift in performance detected at sample 1988
+Drift in performance detected at sample 2510
+Drift in performance detected at sample 3190
+Drift in performance detected at sample 6244
+Drift in performance detected at sample 6423
+Drift in performance detected at sample 6567
+Drift in performance detected at sample 7127
+[WARNING] [2021-01-12 14:26:47,614:EnsembleBuilder(1):cbbe4c8ebaf61468d30ee2fcbcd27c09] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 14:26:47,619:EnsembleBuilder(1):cbbe4c8ebaf61468d30ee2fcbcd27c09] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 14:26:49,623:EnsembleBuilder(1):cbbe4c8ebaf61468d30ee2fcbcd27c09] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 14:26:51,628:EnsembleBuilder(1):cbbe4c8ebaf61468d30ee2fcbcd27c09] No models better than random - using Dummy Score!
+Test batch 17 - Test score 0.314449
+
+Drift in performance detected at sample 151
+Drift in performance detected at sample 515
+Drift in performance detected at sample 1210
+Drift in performance detected at sample 1271
+Drift in performance detected at sample 1766
+Drift in performance detected at sample 1822
+Drift in performance detected at sample 1939
+Drift in performance detected at sample 2627
+Drift in performance detected at sample 3307
+[WARNING] [2021-01-12 14:36:42,992:EnsembleBuilder(1):64009ecbc4857666e01a423b4da2b027] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 14:36:42,998:EnsembleBuilder(1):64009ecbc4857666e01a423b4da2b027] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 14:36:45,002:EnsembleBuilder(1):64009ecbc4857666e01a423b4da2b027] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 14:36:47,007:EnsembleBuilder(1):64009ecbc4857666e01a423b4da2b027] No models better than random - using Dummy Score!
+Test batch 18 - Test score 0.103239
+
+Drift in performance detected at sample 827
+Drift in performance detected at sample 1826
+Drift in performance detected at sample 3165
+[WARNING] [2021-01-12 14:46:37,960:EnsembleBuilder(1):8220efeb46d47b200c57aa882738539e] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 14:46:37,966:EnsembleBuilder(1):8220efeb46d47b200c57aa882738539e] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 14:46:39,970:EnsembleBuilder(1):8220efeb46d47b200c57aa882738539e] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 14:46:41,975:EnsembleBuilder(1):8220efeb46d47b200c57aa882738539e] No models better than random - using Dummy Score!
+Test batch 19 - Test score 0.245663
+
+Drift in performance detected at sample 2237
+Drift in performance detected at sample 2289
+Drift in performance detected at sample 2403
+Drift in performance detected at sample 2454
+Drift in performance detected at sample 2501
+Drift in performance detected at sample 2777
+Drift in performance detected at sample 3014
+Drift in performance detected at sample 3059
+Drift in performance detected at sample 3139
+Drift in performance detected at sample 3791
+Drift in performance detected at sample 5572
+Drift in performance detected at sample 7652
+[WARNING] [2021-01-12 14:56:32,896:EnsembleBuilder(1):37f624782a25be93ae5d94bfb1840f99] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 14:56:32,902:EnsembleBuilder(1):37f624782a25be93ae5d94bfb1840f99] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 14:56:34,906:EnsembleBuilder(1):37f624782a25be93ae5d94bfb1840f99] No models better than random - using Dummy Score!
+[WARNING] [2021-01-12 14:56:36,911:EnsembleBuilder(1):37f624782a25be93ae5d94bfb1840f99] No models better than random - using Dummy Score!

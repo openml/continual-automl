@@ -1,0 +1,697 @@
+H2O_Option1.py
+21
+Checking whether there is an H2O instance running at http://localhost:54321 ..... not found.
+Attempting to start a local H2O server...
+  Java Version: openjdk version "11.0.9.1" 2020-11-04; OpenJDK Runtime Environment (build 11.0.9.1+1-post-Debian-1deb10u2); OpenJDK 64-Bit Server VM (build 11.0.9.1+1-post-Debian-1deb10u2, mixed mode, sharing)
+  Starting server from /home/bcelik/anaconda3/envs/H2O_env/lib/python3.7/site-packages/h2o/backend/bin/h2o.jar
+  Ice root: /scratch/tmp_f00es10
+  JVM stdout: /scratch/tmp_f00es10/h2o_bcelik_started_from_python.out
+  JVM stderr: /scratch/tmp_f00es10/h2o_bcelik_started_from_python.err
+  Server is running at http://127.0.0.1:54321
+Connecting to H2O server at http://127.0.0.1:54321 ... successful.
+Warning: Your H2O cluster version is too old (1 year, 5 months and 26 days)! Please download and install the latest version from http://h2o.ai/download/
+--------------------------  ---------------------------------------------------
+H2O cluster uptime:         01 secs
+H2O cluster timezone:       Europe/Amsterdam
+H2O data parsing timezone:  UTC
+H2O cluster version:        3.26.0.2
+H2O cluster version age:    1 year, 5 months and 26 days !!!
+H2O cluster name:           H2O_from_python_bcelik_7btexe
+H2O cluster total nodes:    1
+H2O cluster free memory:    22.50 Gb
+H2O cluster total cores:    16
+H2O cluster allowed cores:  16
+H2O cluster status:         accepting new members, healthy
+H2O connection url:         http://127.0.0.1:54321
+H2O connection proxy:
+H2O internal security:      False
+H2O API Extensions:         Amazon S3, XGBoost, Algos, AutoML, Core V3, Core V4
+Python version:             3.7.9 final
+--------------------------  ---------------------------------------------------
+Parse progress: [#########################################################] 100%
+AutoML progress: [########################################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 3 - Test score 0.818741 - Duration 631.802413
+
+Drift in performance detected at batch 3, sample 424
+Drift in performance detected at batch 3, sample 671
+Drift in performance detected at batch 3, sample 1567
+Drift in performance detected at batch 3, sample 1833
+Drift in performance detected at batch 3, sample 2675
+Drift in performance detected at batch 3, sample 3561
+Drift in performance detected at batch 3, sample 15624
+Drift in performance detected at batch 3, sample 17908
+Drift in performance detected at batch 3, sample 20248
+Drift in performance detected at batch 3, sample 21034
+Drift in performance detected at batch 3, sample 21757
+Drift in performance detected at batch 3, sample 21892
+Drift in performance detected at batch 3, sample 22050
+Drift in performance detected at batch 3, sample 22158
+Drift in performance detected at batch 3, sample 22283
+Drift in performance detected at batch 3, sample 22402
+Drift in performance detected at batch 3, sample 22482
+Drift in performance detected at batch 3, sample 22590
+Drift in performance detected at batch 3, sample 22750
+Drift in performance detected at batch 3, sample 22940
+Drift in performance detected at batch 3, sample 23239
+Drift in performance detected at batch 3, sample 23354
+Drift in performance detected at batch 3, sample 23438
+Drift in performance detected at batch 3, sample 23869
+Drift in performance detected at batch 3, sample 24060
+Drift in performance detected at batch 3, sample 24231
+Drift in performance detected at batch 3, sample 24344
+Drift in performance detected at batch 3, sample 24469
+Drift in performance detected at batch 3, sample 25145
+Drift in performance detected at batch 3, sample 25399
+Drift in performance detected at batch 3, sample 29534
+Drift in performance detected at batch 3, sample 32250
+Drift in performance detected at batch 3, sample 32904
+Drift in performance detected at batch 3, sample 33001
+Drift in performance detected at batch 3, sample 33115
+Drift in performance detected at batch 3, sample 33247
+Drift in performance detected at batch 3, sample 33379
+Drift in performance detected at batch 3, sample 33512
+Drift in performance detected at batch 3, sample 33616
+Drift in performance detected at batch 3, sample 33703
+Drift in performance detected at batch 3, sample 33756
+Drift in performance detected at batch 3, sample 33941
+Drift in performance detected at batch 3, sample 34128
+Drift in performance detected at batch 3, sample 34234
+Drift in performance detected at batch 3, sample 34372
+Drift in performance detected at batch 3, sample 34491
+Drift in performance detected at batch 3, sample 34567
+Drift in performance detected at batch 3, sample 34839
+Drift in performance detected at batch 3, sample 35045
+Drift in performance detected at batch 3, sample 35189
+Drift in performance detected at batch 3, sample 35293
+Drift in performance detected at batch 3, sample 35788
+Drift in performance detected at batch 3, sample 36148
+Drift in performance detected at batch 3, sample 41437
+Parse progress: [#########################################################] 100%
+xgboost Model Build progress: [###########################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 4 - Test score 0.719079 - Duration 668.887298
+
+Drift in performance detected at batch 4, sample 1821
+Drift in performance detected at batch 4, sample 1935
+Drift in performance detected at batch 4, sample 2161
+Drift in performance detected at batch 4, sample 2271
+Drift in performance detected at batch 4, sample 2401
+Drift in performance detected at batch 4, sample 2515
+Drift in performance detected at batch 4, sample 2625
+Drift in performance detected at batch 4, sample 2696
+Drift in performance detected at batch 4, sample 2761
+Drift in performance detected at batch 4, sample 2892
+Drift in performance detected at batch 4, sample 3069
+Drift in performance detected at batch 4, sample 3222
+Drift in performance detected at batch 4, sample 3347
+Drift in performance detected at batch 4, sample 3443
+Drift in performance detected at batch 4, sample 3520
+Drift in performance detected at batch 4, sample 3698
+Drift in performance detected at batch 4, sample 3874
+Drift in performance detected at batch 4, sample 4056
+Drift in performance detected at batch 4, sample 4188
+Drift in performance detected at batch 4, sample 4342
+Drift in performance detected at batch 4, sample 4757
+Drift in performance detected at batch 4, sample 11821
+Drift in performance detected at batch 4, sample 14125
+Drift in performance detected at batch 4, sample 16140
+Drift in performance detected at batch 4, sample 16770
+Drift in performance detected at batch 4, sample 16894
+Drift in performance detected at batch 4, sample 17014
+Drift in performance detected at batch 4, sample 17111
+Drift in performance detected at batch 4, sample 17209
+Drift in performance detected at batch 4, sample 17331
+Drift in performance detected at batch 4, sample 17409
+Drift in performance detected at batch 4, sample 17544
+Drift in performance detected at batch 4, sample 17732
+Drift in performance detected at batch 4, sample 17871
+Drift in performance detected at batch 4, sample 18008
+Drift in performance detected at batch 4, sample 18383
+Drift in performance detected at batch 4, sample 18578
+Drift in performance detected at batch 4, sample 18709
+Drift in performance detected at batch 4, sample 19024
+Drift in performance detected at batch 4, sample 19350
+Drift in performance detected at batch 4, sample 21959
+Drift in performance detected at batch 4, sample 23719
+Drift in performance detected at batch 4, sample 24351
+Drift in performance detected at batch 4, sample 24467
+Drift in performance detected at batch 4, sample 24591
+Drift in performance detected at batch 4, sample 24728
+Drift in performance detected at batch 4, sample 24836
+Drift in performance detected at batch 4, sample 24952
+Drift in performance detected at batch 4, sample 25016
+Drift in performance detected at batch 4, sample 25149
+Drift in performance detected at batch 4, sample 25277
+Drift in performance detected at batch 4, sample 25401
+Drift in performance detected at batch 4, sample 25532
+Drift in performance detected at batch 4, sample 26124
+Drift in performance detected at batch 4, sample 26405
+Drift in performance detected at batch 4, sample 26686
+Drift in performance detected at batch 4, sample 29429
+Drift in performance detected at batch 4, sample 31175
+Drift in performance detected at batch 4, sample 31260
+Drift in performance detected at batch 4, sample 31443
+Drift in performance detected at batch 4, sample 31588
+Drift in performance detected at batch 4, sample 31691
+Drift in performance detected at batch 4, sample 31775
+Drift in performance detected at batch 4, sample 31835
+Drift in performance detected at batch 4, sample 31997
+Drift in performance detected at batch 4, sample 32195
+Drift in performance detected at batch 4, sample 32299
+Drift in performance detected at batch 4, sample 32375
+Drift in performance detected at batch 4, sample 32551
+Drift in performance detected at batch 4, sample 32725
+Drift in performance detected at batch 4, sample 32865
+Drift in performance detected at batch 4, sample 32970
+Drift in performance detected at batch 4, sample 33252
+Drift in performance detected at batch 4, sample 38277
+Drift in performance detected at batch 4, sample 39976
+Drift in performance detected at batch 4, sample 40824
+Drift in performance detected at batch 4, sample 40904
+Drift in performance detected at batch 4, sample 41016
+Drift in performance detected at batch 4, sample 41103
+Drift in performance detected at batch 4, sample 41204
+Drift in performance detected at batch 4, sample 41261
+Drift in performance detected at batch 4, sample 41389
+Parse progress: [#########################################################] 100%
+xgboost Model Build progress: [###########################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 5 - Test score 0.634033 - Duration 705.595369
+
+Drift in performance detected at batch 5, sample 70
+Drift in performance detected at batch 5, sample 193
+Drift in performance detected at batch 5, sample 249
+Drift in performance detected at batch 5, sample 579
+Drift in performance detected at batch 5, sample 708
+Drift in performance detected at batch 5, sample 1011
+Drift in performance detected at batch 5, sample 1952
+Drift in performance detected at batch 5, sample 4170
+Drift in performance detected at batch 5, sample 4263
+Drift in performance detected at batch 5, sample 4362
+Drift in performance detected at batch 5, sample 4486
+Drift in performance detected at batch 5, sample 4600
+Drift in performance detected at batch 5, sample 4668
+Drift in performance detected at batch 5, sample 4739
+Drift in performance detected at batch 5, sample 4932
+Drift in performance detected at batch 5, sample 5072
+Drift in performance detected at batch 5, sample 5142
+Drift in performance detected at batch 5, sample 5282
+Drift in performance detected at batch 5, sample 5491
+Drift in performance detected at batch 5, sample 5886
+Drift in performance detected at batch 5, sample 7664
+Drift in performance detected at batch 5, sample 8601
+Drift in performance detected at batch 5, sample 8672
+Drift in performance detected at batch 5, sample 8811
+Drift in performance detected at batch 5, sample 8915
+Drift in performance detected at batch 5, sample 9003
+Drift in performance detected at batch 5, sample 9165
+Drift in performance detected at batch 5, sample 9293
+Drift in performance detected at batch 5, sample 9392
+Drift in performance detected at batch 5, sample 9467
+Drift in performance detected at batch 5, sample 9829
+Drift in performance detected at batch 5, sample 12538
+Drift in performance detected at batch 5, sample 14144
+Drift in performance detected at batch 5, sample 14510
+Drift in performance detected at batch 5, sample 14600
+Drift in performance detected at batch 5, sample 14714
+Drift in performance detected at batch 5, sample 14797
+Drift in performance detected at batch 5, sample 14866
+Drift in performance detected at batch 5, sample 15033
+Drift in performance detected at batch 5, sample 15109
+Drift in performance detected at batch 5, sample 15340
+Drift in performance detected at batch 5, sample 15472
+Drift in performance detected at batch 5, sample 15791
+Drift in performance detected at batch 5, sample 17448
+Drift in performance detected at batch 5, sample 17562
+Drift in performance detected at batch 5, sample 17655
+Drift in performance detected at batch 5, sample 17758
+Drift in performance detected at batch 5, sample 17839
+Drift in performance detected at batch 5, sample 17954
+Drift in performance detected at batch 5, sample 18056
+Drift in performance detected at batch 5, sample 18132
+Drift in performance detected at batch 5, sample 18255
+Drift in performance detected at batch 5, sample 18396
+Drift in performance detected at batch 5, sample 18696
+Drift in performance detected at batch 5, sample 20120
+Drift in performance detected at batch 5, sample 20218
+Drift in performance detected at batch 5, sample 20308
+Drift in performance detected at batch 5, sample 20417
+Drift in performance detected at batch 5, sample 20486
+Drift in performance detected at batch 5, sample 20587
+Drift in performance detected at batch 5, sample 20700
+Drift in performance detected at batch 5, sample 20810
+Drift in performance detected at batch 5, sample 20998
+Drift in performance detected at batch 5, sample 21153
+Drift in performance detected at batch 5, sample 23433
+Drift in performance detected at batch 5, sample 23647
+Drift in performance detected at batch 5, sample 23743
+Drift in performance detected at batch 5, sample 23812
+Drift in performance detected at batch 5, sample 25352
+Drift in performance detected at batch 5, sample 25439
+Drift in performance detected at batch 5, sample 25526
+Drift in performance detected at batch 5, sample 25635
+Drift in performance detected at batch 5, sample 25726
+Drift in performance detected at batch 5, sample 25841
+Drift in performance detected at batch 5, sample 26739
+Drift in performance detected at batch 5, sample 26825
+Drift in performance detected at batch 5, sample 26893
+Drift in performance detected at batch 5, sample 26976
+Drift in performance detected at batch 5, sample 28589
+Drift in performance detected at batch 5, sample 28734
+Drift in performance detected at batch 5, sample 29466
+Drift in performance detected at batch 5, sample 29623
+Drift in performance detected at batch 5, sample 29767
+Drift in performance detected at batch 5, sample 30227
+Drift in performance detected at batch 5, sample 30302
+Drift in performance detected at batch 5, sample 30389
+Drift in performance detected at batch 5, sample 31216
+Drift in performance detected at batch 5, sample 31565
+Drift in performance detected at batch 5, sample 31678
+Drift in performance detected at batch 5, sample 31933
+Drift in performance detected at batch 5, sample 33555
+Drift in performance detected at batch 5, sample 38546
+Drift in performance detected at batch 5, sample 40716
+Parse progress: [#########################################################] 100%
+xgboost Model Build progress: [###########################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 6 - Test score 0.985528 - Duration 742.560167
+
+Drift in performance detected at batch 6, sample 2289
+Drift in performance detected at batch 6, sample 5323
+Drift in performance detected at batch 6, sample 6689
+Drift in performance detected at batch 6, sample 7854
+Drift in performance detected at batch 6, sample 15049
+Drift in performance detected at batch 6, sample 18257
+Drift in performance detected at batch 6, sample 21158
+Drift in performance detected at batch 6, sample 23424
+Drift in performance detected at batch 6, sample 37300
+Parse progress: [#########################################################] 100%
+xgboost Model Build progress: [###########################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 7 - Test score 0.988784 - Duration 779.338226
+
+Drift in performance detected at batch 7, sample 1800
+Drift in performance detected at batch 7, sample 26366
+Drift in performance detected at batch 7, sample 29413
+Drift in performance detected at batch 7, sample 31773
+Drift in performance detected at batch 7, sample 33801
+Drift in performance detected at batch 7, sample 34762
+Drift in performance detected at batch 7, sample 41266
+Parse progress: [#########################################################] 100%
+xgboost Model Build progress: [###########################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 8 - Test score 0.985359 - Duration 816.354030
+
+Drift in performance detected at batch 8, sample 2967
+Drift in performance detected at batch 8, sample 5693
+Drift in performance detected at batch 8, sample 17053
+Drift in performance detected at batch 8, sample 20657
+Drift in performance detected at batch 8, sample 20880
+Drift in performance detected at batch 8, sample 21800
+Drift in performance detected at batch 8, sample 22172
+Drift in performance detected at batch 8, sample 23010
+Drift in performance detected at batch 8, sample 23828
+Drift in performance detected at batch 8, sample 35768
+Drift in performance detected at batch 8, sample 38098
+Drift in performance detected at batch 8, sample 40400
+Parse progress: [#########################################################] 100%
+xgboost Model Build progress: [###########################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 9 - Test score 0.772238 - Duration 853.508833
+
+Drift in performance detected at batch 9, sample 1756
+Drift in performance detected at batch 9, sample 5848
+Drift in performance detected at batch 9, sample 7369
+Drift in performance detected at batch 9, sample 7902
+Drift in performance detected at batch 9, sample 8053
+Drift in performance detected at batch 9, sample 8200
+Drift in performance detected at batch 9, sample 8388
+Drift in performance detected at batch 9, sample 8513
+Drift in performance detected at batch 9, sample 8623
+Drift in performance detected at batch 9, sample 8726
+Drift in performance detected at batch 9, sample 8905
+Drift in performance detected at batch 9, sample 9090
+Drift in performance detected at batch 9, sample 9274
+Drift in performance detected at batch 9, sample 9419
+Drift in performance detected at batch 9, sample 9540
+Drift in performance detected at batch 9, sample 10236
+Drift in performance detected at batch 9, sample 10773
+Drift in performance detected at batch 9, sample 11116
+Drift in performance detected at batch 9, sample 15056
+Drift in performance detected at batch 9, sample 18067
+Drift in performance detected at batch 9, sample 18162
+Drift in performance detected at batch 9, sample 18271
+Drift in performance detected at batch 9, sample 18384
+Drift in performance detected at batch 9, sample 18519
+Drift in performance detected at batch 9, sample 18608
+Drift in performance detected at batch 9, sample 18738
+Drift in performance detected at batch 9, sample 18833
+Drift in performance detected at batch 9, sample 18903
+Drift in performance detected at batch 9, sample 18984
+Drift in performance detected at batch 9, sample 19120
+Drift in performance detected at batch 9, sample 19329
+Drift in performance detected at batch 9, sample 19497
+Drift in performance detected at batch 9, sample 19608
+Drift in performance detected at batch 9, sample 19713
+Drift in performance detected at batch 9, sample 19803
+Drift in performance detected at batch 9, sample 19997
+Drift in performance detected at batch 9, sample 20174
+Drift in performance detected at batch 9, sample 20369
+Drift in performance detected at batch 9, sample 20481
+Drift in performance detected at batch 9, sample 20586
+Drift in performance detected at batch 9, sample 20924
+Drift in performance detected at batch 9, sample 21193
+Drift in performance detected at batch 9, sample 29154
+Drift in performance detected at batch 9, sample 31502
+Drift in performance detected at batch 9, sample 32327
+Drift in performance detected at batch 9, sample 35960
+Drift in performance detected at batch 9, sample 37886
+Drift in performance detected at batch 9, sample 38401
+Drift in performance detected at batch 9, sample 38501
+Drift in performance detected at batch 9, sample 38631
+Drift in performance detected at batch 9, sample 38769
+Drift in performance detected at batch 9, sample 38911
+Drift in performance detected at batch 9, sample 39010
+Drift in performance detected at batch 9, sample 39091
+Drift in performance detected at batch 9, sample 39324
+Drift in performance detected at batch 9, sample 39480
+Drift in performance detected at batch 9, sample 39590
+Drift in performance detected at batch 9, sample 40003
+Drift in performance detected at batch 9, sample 40260
+Parse progress: [#########################################################] 100%
+xgboost Model Build progress: [###########################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 10 - Test score 0.679450 - Duration 890.418339
+
+Drift in performance detected at batch 10, sample 3153
+Drift in performance detected at batch 10, sample 3269
+Drift in performance detected at batch 10, sample 3451
+Drift in performance detected at batch 10, sample 3585
+Drift in performance detected at batch 10, sample 3689
+Drift in performance detected at batch 10, sample 3788
+Drift in performance detected at batch 10, sample 3841
+Drift in performance detected at batch 10, sample 4009
+Drift in performance detected at batch 10, sample 4157
+Drift in performance detected at batch 10, sample 4279
+Drift in performance detected at batch 10, sample 4395
+Drift in performance detected at batch 10, sample 4462
+Drift in performance detected at batch 10, sample 4645
+Drift in performance detected at batch 10, sample 4809
+Drift in performance detected at batch 10, sample 4946
+Drift in performance detected at batch 10, sample 5167
+Drift in performance detected at batch 10, sample 9909
+Drift in performance detected at batch 10, sample 11736
+Drift in performance detected at batch 10, sample 13906
+Drift in performance detected at batch 10, sample 15849
+Drift in performance detected at batch 10, sample 15898
+Drift in performance detected at batch 10, sample 16016
+Drift in performance detected at batch 10, sample 16107
+Drift in performance detected at batch 10, sample 16212
+Drift in performance detected at batch 10, sample 16279
+Drift in performance detected at batch 10, sample 16719
+Drift in performance detected at batch 10, sample 16852
+Drift in performance detected at batch 10, sample 17016
+Drift in performance detected at batch 10, sample 17335
+Drift in performance detected at batch 10, sample 18550
+Drift in performance detected at batch 10, sample 20237
+Drift in performance detected at batch 10, sample 20312
+Drift in performance detected at batch 10, sample 20446
+Drift in performance detected at batch 10, sample 20552
+Drift in performance detected at batch 10, sample 20635
+Drift in performance detected at batch 10, sample 20694
+Drift in performance detected at batch 10, sample 20792
+Drift in performance detected at batch 10, sample 20941
+Drift in performance detected at batch 10, sample 21032
+Drift in performance detected at batch 10, sample 21129
+Drift in performance detected at batch 10, sample 21319
+Drift in performance detected at batch 10, sample 21439
+Drift in performance detected at batch 10, sample 21592
+Drift in performance detected at batch 10, sample 24094
+Drift in performance detected at batch 10, sample 25985
+Drift in performance detected at batch 10, sample 27728
+Drift in performance detected at batch 10, sample 27862
+Drift in performance detected at batch 10, sample 28044
+Drift in performance detected at batch 10, sample 28119
+Drift in performance detected at batch 10, sample 28360
+Drift in performance detected at batch 10, sample 30398
+Drift in performance detected at batch 10, sample 30507
+Drift in performance detected at batch 10, sample 30623
+Drift in performance detected at batch 10, sample 30715
+Drift in performance detected at batch 10, sample 30972
+Drift in performance detected at batch 10, sample 34796
+Drift in performance detected at batch 10, sample 34882
+Drift in performance detected at batch 10, sample 34955
+Drift in performance detected at batch 10, sample 35088
+Drift in performance detected at batch 10, sample 36140
+Drift in performance detected at batch 10, sample 36224
+Drift in performance detected at batch 10, sample 36310
+Drift in performance detected at batch 10, sample 36383
+Drift in performance detected at batch 10, sample 36475
+Drift in performance detected at batch 10, sample 36560
+Drift in performance detected at batch 10, sample 37428
+Drift in performance detected at batch 10, sample 37948
+Drift in performance detected at batch 10, sample 38409
+Drift in performance detected at batch 10, sample 38491
+Drift in performance detected at batch 10, sample 38656
+Drift in performance detected at batch 10, sample 39072
+Drift in performance detected at batch 10, sample 39155
+Drift in performance detected at batch 10, sample 39246
+Drift in performance detected at batch 10, sample 39368
+Drift in performance detected at batch 10, sample 39475
+Drift in performance detected at batch 10, sample 40287
+Drift in performance detected at batch 10, sample 40545
+Parse progress: [#########################################################] 100%
+xgboost Model Build progress: [###########################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 11 - Test score 0.983888 - Duration 927.530710
+
+Drift in performance detected at batch 11, sample 10967
+Drift in performance detected at batch 11, sample 13309
+Drift in performance detected at batch 11, sample 14851
+Drift in performance detected at batch 11, sample 16256
+Drift in performance detected at batch 11, sample 19551
+Drift in performance detected at batch 11, sample 24715
+Drift in performance detected at batch 11, sample 27667
+Drift in performance detected at batch 11, sample 31112
+Drift in performance detected at batch 11, sample 32500
+Drift in performance detected at batch 11, sample 40231
+Parse progress: [#########################################################] 100%
+xgboost Model Build progress: [###########################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 12 - Test score 0.988857 - Duration 965.394037
+
+Drift in performance detected at batch 12, sample 3428
+Drift in performance detected at batch 12, sample 6246
+Drift in performance detected at batch 12, sample 31286
+Drift in performance detected at batch 12, sample 34356
+Drift in performance detected at batch 12, sample 36570
+Drift in performance detected at batch 12, sample 37417
+Parse progress: [#########################################################] 100%
+xgboost Model Build progress: [###########################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 13 - Test score 0.983623 - Duration 1002.192803
+
+Drift in performance detected at batch 13, sample 2510
+Drift in performance detected at batch 13, sample 6721
+Drift in performance detected at batch 13, sample 15339
+Drift in performance detected at batch 13, sample 18742
+Drift in performance detected at batch 13, sample 19216
+Drift in performance detected at batch 13, sample 19471
+Drift in performance detected at batch 13, sample 20334
+Drift in performance detected at batch 13, sample 20633
+Drift in performance detected at batch 13, sample 21413
+Drift in performance detected at batch 13, sample 22169
+Drift in performance detected at batch 13, sample 32873
+Drift in performance detected at batch 13, sample 35615
+Drift in performance detected at batch 13, sample 38309
+Drift in performance detected at batch 13, sample 39882
+Parse progress: [#########################################################] 100%
+xgboost Model Build progress: [###########################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 14 - Test score 0.853449 - Duration 1038.325939
+
+Drift in performance detected at batch 14, sample 1238
+Drift in performance detected at batch 14, sample 4388
+Drift in performance detected at batch 14, sample 6281
+Drift in performance detected at batch 14, sample 12647
+Drift in performance detected at batch 14, sample 13585
+Drift in performance detected at batch 14, sample 14013
+Drift in performance detected at batch 14, sample 14134
+Drift in performance detected at batch 14, sample 14239
+Drift in performance detected at batch 14, sample 14351
+Drift in performance detected at batch 14, sample 14457
+Drift in performance detected at batch 14, sample 14629
+Drift in performance detected at batch 14, sample 14826
+Drift in performance detected at batch 14, sample 14973
+Drift in performance detected at batch 14, sample 15103
+Drift in performance detected at batch 14, sample 15189
+Drift in performance detected at batch 14, sample 15267
+Drift in performance detected at batch 14, sample 15322
+Drift in performance detected at batch 14, sample 15479
+Drift in performance detected at batch 14, sample 15678
+Drift in performance detected at batch 14, sample 15868
+Drift in performance detected at batch 14, sample 16019
+Drift in performance detected at batch 14, sample 16114
+Drift in performance detected at batch 14, sample 16474
+Drift in performance detected at batch 14, sample 16704
+Drift in performance detected at batch 14, sample 23731
+Drift in performance detected at batch 14, sample 26458
+Drift in performance detected at batch 14, sample 28000
+Drift in performance detected at batch 14, sample 31154
+Drift in performance detected at batch 14, sample 32962
+Drift in performance detected at batch 14, sample 37581
+Drift in performance detected at batch 14, sample 37980
+Drift in performance detected at batch 14, sample 38059
+Drift in performance detected at batch 14, sample 38236
+Drift in performance detected at batch 14, sample 38345
+Drift in performance detected at batch 14, sample 38441
+Drift in performance detected at batch 14, sample 38541
+Drift in performance detected at batch 14, sample 38601
+Drift in performance detected at batch 14, sample 38744
+Drift in performance detected at batch 14, sample 38880
+Drift in performance detected at batch 14, sample 38996
+Drift in performance detected at batch 14, sample 39094
+Drift in performance detected at batch 14, sample 39181
+Drift in performance detected at batch 14, sample 39320
+Drift in performance detected at batch 14, sample 39496
+Drift in performance detected at batch 14, sample 39642
+Drift in performance detected at batch 14, sample 39887
+Drift in performance detected at batch 14, sample 40150
+Parse progress: [#########################################################] 100%
+xgboost Model Build progress: [###########################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 15 - Test score 0.830391 - Duration 1075.148953
+
+Drift in performance detected at batch 15, sample 4318
+Drift in performance detected at batch 15, sample 5364
+Drift in performance detected at batch 15, sample 7990
+Drift in performance detected at batch 15, sample 10844
+Drift in performance detected at batch 15, sample 11756
+Drift in performance detected at batch 15, sample 11858
+Drift in performance detected at batch 15, sample 11981
+Drift in performance detected at batch 15, sample 12065
+Drift in performance detected at batch 15, sample 12143
+Drift in performance detected at batch 15, sample 12281
+Drift in performance detected at batch 15, sample 12390
+Drift in performance detected at batch 15, sample 12493
+Drift in performance detected at batch 15, sample 12584
+Drift in performance detected at batch 15, sample 12826
+Drift in performance detected at batch 15, sample 12956
+Drift in performance detected at batch 15, sample 13224
+Drift in performance detected at batch 15, sample 17441
+Drift in performance detected at batch 15, sample 19300
+Drift in performance detected at batch 15, sample 20829
+Drift in performance detected at batch 15, sample 20937
+Drift in performance detected at batch 15, sample 21004
+Drift in performance detected at batch 15, sample 21097
+Drift in performance detected at batch 15, sample 21168
+Drift in performance detected at batch 15, sample 21267
+Drift in performance detected at batch 15, sample 21364
+Drift in performance detected at batch 15, sample 21448
+Drift in performance detected at batch 15, sample 21567
+Drift in performance detected at batch 15, sample 21687
+Drift in performance detected at batch 15, sample 21871
+Drift in performance detected at batch 15, sample 24201
+Drift in performance detected at batch 15, sample 25155
+Drift in performance detected at batch 15, sample 25881
+Drift in performance detected at batch 15, sample 25982
+Drift in performance detected at batch 15, sample 26065
+Drift in performance detected at batch 15, sample 26277
+Drift in performance detected at batch 15, sample 26413
+Drift in performance detected at batch 15, sample 27213
+Drift in performance detected at batch 15, sample 28019
+Drift in performance detected at batch 15, sample 28405
+Drift in performance detected at batch 15, sample 28499
+Drift in performance detected at batch 15, sample 28591
+Drift in performance detected at batch 15, sample 28691
+Drift in performance detected at batch 15, sample 29617
+Drift in performance detected at batch 15, sample 29728
+Drift in performance detected at batch 15, sample 34117
+Drift in performance detected at batch 15, sample 39826
+Drift in performance detected at batch 15, sample 41430
+Parse progress: [#########################################################] 100%
+xgboost Model Build progress: [###########################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 16 - Test score 0.988736 - Duration 1112.313804
+
+Drift in performance detected at batch 16, sample 3054
+Drift in performance detected at batch 16, sample 4639
+Drift in performance detected at batch 16, sample 5541
+Drift in performance detected at batch 16, sample 12898
+Drift in performance detected at batch 16, sample 16833
+Drift in performance detected at batch 16, sample 19977
+Drift in performance detected at batch 16, sample 21068
+Drift in performance detected at batch 16, sample 25766
+Drift in performance detected at batch 16, sample 32105
+Drift in performance detected at batch 16, sample 36648
+Parse progress: [#########################################################] 100%
+xgboost Model Build progress: [###########################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 17 - Test score 0.988326 - Duration 1149.457227
+
+Drift in performance detected at batch 17, sample 14956
+Drift in performance detected at batch 17, sample 17371
+Drift in performance detected at batch 17, sample 19231
+Drift in performance detected at batch 17, sample 20987
+Drift in performance detected at batch 17, sample 26931
+Drift in performance detected at batch 17, sample 31131
+Drift in performance detected at batch 17, sample 32722
+Parse progress: [#########################################################] 100%
+xgboost Model Build progress: [###########################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 18 - Test score 0.983406 - Duration 1187.610368
+
+Drift in performance detected at batch 18, sample 288
+Drift in performance detected at batch 18, sample 12418
+Drift in performance detected at batch 18, sample 15074
+Drift in performance detected at batch 18, sample 17008
+Drift in performance detected at batch 18, sample 18673
+Drift in performance detected at batch 18, sample 21221
+Drift in performance detected at batch 18, sample 23984
+Drift in performance detected at batch 18, sample 26846
+Drift in performance detected at batch 18, sample 33348
+Drift in performance detected at batch 18, sample 41137
+Parse progress: [#########################################################] 100%
+xgboost Model Build progress: [###########################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 19 - Test score 0.917125 - Duration 1223.747759
+
+Drift in performance detected at batch 19, sample 2018
+Drift in performance detected at batch 19, sample 3430
+Drift in performance detected at batch 19, sample 5640
+Drift in performance detected at batch 19, sample 8449
+Drift in performance detected at batch 19, sample 12985
+Drift in performance detected at batch 19, sample 19103
+Drift in performance detected at batch 19, sample 20707
+Drift in performance detected at batch 19, sample 23371
+Drift in performance detected at batch 19, sample 26209
+Drift in performance detected at batch 19, sample 30052
+Drift in performance detected at batch 19, sample 31454
+Drift in performance detected at batch 19, sample 34620
+Drift in performance detected at batch 19, sample 35955
+Drift in performance detected at batch 19, sample 37009
+Drift in performance detected at batch 19, sample 37930
+Drift in performance detected at batch 19, sample 38757
+Drift in performance detected at batch 19, sample 39823
+Drift in performance detected at batch 19, sample 40302
+Parse progress: [#########################################################] 100%
+xgboost Model Build progress: [###########################################] 100%
+H2O session _sid_97fc closed.

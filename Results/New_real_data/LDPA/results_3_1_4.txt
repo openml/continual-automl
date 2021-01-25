@@ -1,0 +1,285 @@
+GAMA_Option1.py
+4
+Starting to `fit`
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 1 - Test score 0.486473
+
+Drift in performance detected at sample 1974
+Drift in performance detected at sample 2072
+Drift in performance detected at sample 2957
+Drift in performance detected at sample 4466
+Drift in performance detected at sample 4644
+Drift in performance detected at sample 7190
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 2 - Test score 0.560233
+
+Drift in performance detected at sample 6
+Drift in performance detected at sample 95
+Drift in performance detected at sample 1136
+Drift in performance detected at sample 1362
+Drift in performance detected at sample 1546
+Drift in performance detected at sample 1909
+Drift in performance detected at sample 4554
+Drift in performance detected at sample 6683
+Drift in performance detected at sample 7153
+Drift in performance detected at sample 8046
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 3 - Test score 0.516923
+
+Drift in performance detected at sample 1461
+Drift in performance detected at sample 2380
+Drift in performance detected at sample 2516
+Drift in performance detected at sample 3752
+Drift in performance detected at sample 4020
+Drift in performance detected at sample 4564
+Drift in performance detected at sample 4626
+Drift in performance detected at sample 5810
+Drift in performance detected at sample 8005
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 4 - Test score 0.478467
+
+Drift in performance detected at sample 800
+Drift in performance detected at sample 1621
+Drift in performance detected at sample 2302
+Drift in performance detected at sample 2810
+Drift in performance detected at sample 2859
+Drift in performance detected at sample 3187
+Drift in performance detected at sample 3764
+Drift in performance detected at sample 4017
+Drift in performance detected at sample 4119
+Drift in performance detected at sample 5865
+Drift in performance detected at sample 6916
+Drift in performance detected at sample 7545
+Drift in performance detected at sample 7622
+Drift in performance detected at sample 7819
+Drift in performance detected at sample 8081
+Drift in performance detected at sample 8185
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 5 - Test score 0.477981
+
+Drift in performance detected at sample 123
+Drift in performance detected at sample 493
+Drift in performance detected at sample 557
+Drift in performance detected at sample 1493
+Drift in performance detected at sample 3440
+Drift in performance detected at sample 4321
+Drift in performance detected at sample 4404
+Drift in performance detected at sample 4857
+Drift in performance detected at sample 4912
+Drift in performance detected at sample 5027
+Drift in performance detected at sample 5086
+Drift in performance detected at sample 5155
+Drift in performance detected at sample 5212
+Drift in performance detected at sample 5788
+Drift in performance detected at sample 6203
+Drift in performance detected at sample 6246
+Drift in performance detected at sample 7062
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 6 - Test score 0.487929
+
+Drift in performance detected at sample 785
+Drift in performance detected at sample 1687
+Drift in performance detected at sample 1828
+Drift in performance detected at sample 2400
+Drift in performance detected at sample 3272
+Drift in performance detected at sample 3381
+Drift in performance detected at sample 3521
+Drift in performance detected at sample 3863
+Drift in performance detected at sample 3914
+Drift in performance detected at sample 6804
+Drift in performance detected at sample 7699
+Drift in performance detected at sample 7821
+Drift in performance detected at sample 7900
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 7 - Test score 0.489992
+
+Drift in performance detected at sample 1182
+Drift in performance detected at sample 1328
+Drift in performance detected at sample 1722
+Drift in performance detected at sample 1761
+Drift in performance detected at sample 4580
+Drift in performance detected at sample 5387
+Drift in performance detected at sample 5751
+Drift in performance detected at sample 6548
+Drift in performance detected at sample 6779
+Drift in performance detected at sample 7566
+Drift in performance detected at sample 7900
+Drift in performance detected at sample 7962
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 8 - Test score 0.513527
+
+Drift in performance detected at sample 71
+Drift in performance detected at sample 930
+Drift in performance detected at sample 3554
+Drift in performance detected at sample 3798
+Drift in performance detected at sample 4535
+Drift in performance detected at sample 4613
+Drift in performance detected at sample 4685
+Drift in performance detected at sample 6036
+Drift in performance detected at sample 7112
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 9 - Test score 0.439403
+
+Drift in performance detected at sample 816
+Drift in performance detected at sample 1525
+Drift in performance detected at sample 2505
+Drift in performance detected at sample 2556
+Drift in performance detected at sample 2749
+Drift in performance detected at sample 2926
+Drift in performance detected at sample 3466
+Drift in performance detected at sample 3580
+Drift in performance detected at sample 3962
+Drift in performance detected at sample 7076
+Drift in performance detected at sample 8142
+Drift in performance detected at sample 8221
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 10 - Test score 0.456145
+
+Drift in performance detected at sample 1756
+Drift in performance detected at sample 2182
+Drift in performance detected at sample 2279
+Drift in performance detected at sample 3189
+Drift in performance detected at sample 3293
+Drift in performance detected at sample 5665
+Drift in performance detected at sample 6288
+Drift in performance detected at sample 7141
+Drift in performance detected at sample 8044
+Drift in performance detected at sample 8187
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 11 - Test score 0.468033
+
+Drift in performance detected at sample 91
+Drift in performance detected at sample 185
+Drift in performance detected at sample 659
+Drift in performance detected at sample 713
+Drift in performance detected at sample 980
+Drift in performance detected at sample 1159
+Drift in performance detected at sample 1726
+Drift in performance detected at sample 4630
+Drift in performance detected at sample 4848
+Drift in performance detected at sample 5333
+Drift in performance detected at sample 5614
+Drift in performance detected at sample 5684
+Drift in performance detected at sample 7203
+Drift in performance detected at sample 7430
+Drift in performance detected at sample 7974
+Drift in performance detected at sample 8035
+Drift in performance detected at sample 8156
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 12 - Test score 0.449594
+
+Drift in performance detected at sample 176
+Drift in performance detected at sample 700
+Drift in performance detected at sample 868
+Drift in performance detected at sample 2780
+Drift in performance detected at sample 2982
+Drift in performance detected at sample 3740
+Drift in performance detected at sample 5428
+Drift in performance detected at sample 6242
+Drift in performance detected at sample 6693
+Drift in performance detected at sample 7123
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 13 - Test score 0.431518
+
+Drift in performance detected at sample 3496
+Drift in performance detected at sample 3948
+Drift in performance detected at sample 4233
+Drift in performance detected at sample 4731
+Drift in performance detected at sample 4798
+Drift in performance detected at sample 7605
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 14 - Test score 0.484411
+
+Drift in performance detected at sample 821
+Drift in performance detected at sample 922
+Drift in performance detected at sample 1055
+Drift in performance detected at sample 1402
+Drift in performance detected at sample 1460
+Drift in performance detected at sample 1900
+Drift in performance detected at sample 2309
+Drift in performance detected at sample 2398
+Drift in performance detected at sample 4749
+Drift in performance detected at sample 5342
+Drift in performance detected at sample 5406
+Drift in performance detected at sample 5470
+Drift in performance detected at sample 6082
+Drift in performance detected at sample 7211
+Drift in performance detected at sample 7409
+Drift in performance detected at sample 7582
+Drift in performance detected at sample 7752
+Drift in performance detected at sample 7873
+Drift in performance detected at sample 8040
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 15 - Test score 0.500789
+
+Drift in performance detected at sample 399
+Drift in performance detected at sample 447
+Drift in performance detected at sample 5003
+Drift in performance detected at sample 5986
+Drift in performance detected at sample 6371
+Drift in performance detected at sample 6989
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 16 - Test score 0.482349
+
+Drift in performance detected at sample 633
+Drift in performance detected at sample 720
+Drift in performance detected at sample 765
+Drift in performance detected at sample 816
+Drift in performance detected at sample 4871
+Drift in performance detected at sample 5745
+Drift in performance detected at sample 5935
+Drift in performance detected at sample 6886
+Drift in performance detected at sample 7951
+Drift in performance detected at sample 8101
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 17 - Test score 0.386267
+
+Drift in performance detected at sample 559
+Drift in performance detected at sample 605
+Drift in performance detected at sample 2113
+Drift in performance detected at sample 2215
+Drift in performance detected at sample 2349
+Drift in performance detected at sample 2462
+Drift in performance detected at sample 2574
+Drift in performance detected at sample 5357
+Drift in performance detected at sample 6720
+Drift in performance detected at sample 6771
+Drift in performance detected at sample 6829
+Drift in performance detected at sample 6986
+Drift in performance detected at sample 7618
+Drift in performance detected at sample 7672
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 18 - Test score 0.437583
+
+Drift in performance detected at sample 948
+Drift in performance detected at sample 1566
+Drift in performance detected at sample 1615
+Drift in performance detected at sample 1844
+Drift in performance detected at sample 1974
+Drift in performance detected at sample 2986
+Drift in performance detected at sample 3310
+Drift in performance detected at sample 5650
+Drift in performance detected at sample 5765
+Drift in performance detected at sample 7144
+Drift in performance detected at sample 7207
+Drift in performance detected at sample 7951
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 19 - Test score 0.379595
+
+Drift in performance detected at sample 815
+Drift in performance detected at sample 1172
+Drift in performance detected at sample 1802
+Drift in performance detected at sample 1864
+Drift in performance detected at sample 1913
+Drift in performance detected at sample 2064
+Drift in performance detected at sample 2201
+Drift in performance detected at sample 2332
+Drift in performance detected at sample 2542
+Drift in performance detected at sample 3497
+Drift in performance detected at sample 3636
+Drift in performance detected at sample 3731
+Drift in performance detected at sample 3842
+Drift in performance detected at sample 3909
+Drift in performance detected at sample 6221
+Drift in performance detected at sample 7662
+Drift in performance detected at sample 7707

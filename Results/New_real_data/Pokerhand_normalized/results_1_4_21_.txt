@@ -1,0 +1,147 @@
+H2O_Option4.py
+21
+Checking whether there is an H2O instance running at http://localhost:54321 ..... not found.
+Attempting to start a local H2O server...
+  Java Version: openjdk version "11.0.9.1" 2020-11-04; OpenJDK Runtime Environment (build 11.0.9.1+1-post-Debian-1deb10u2); OpenJDK 64-Bit Server VM (build 11.0.9.1+1-post-Debian-1deb10u2, mixed mode, sharing)
+  Starting server from /home/bcelik/anaconda3/envs/H2O_env/lib/python3.7/site-packages/h2o/backend/bin/h2o.jar
+  Ice root: /scratch/tmp4v3upgux
+  JVM stdout: /scratch/tmp4v3upgux/h2o_bcelik_started_from_python.out
+  JVM stderr: /scratch/tmp4v3upgux/h2o_bcelik_started_from_python.err
+  Server is running at http://127.0.0.1:54321
+Connecting to H2O server at http://127.0.0.1:54321 ... successful.
+Warning: Your H2O cluster version is too old (1 year, 5 months and 26 days)! Please download and install the latest version from http://h2o.ai/download/
+--------------------------  ---------------------------------------------------
+H2O cluster uptime:         01 secs
+H2O cluster timezone:       Europe/Amsterdam
+H2O data parsing timezone:  UTC
+H2O cluster version:        3.26.0.2
+H2O cluster version age:    1 year, 5 months and 26 days !!!
+H2O cluster name:           H2O_from_python_bcelik_1cs97s
+H2O cluster total nodes:    1
+H2O cluster free memory:    22.50 Gb
+H2O cluster total cores:    16
+H2O cluster allowed cores:  16
+H2O cluster status:         accepting new members, healthy
+H2O connection url:         http://127.0.0.1:54321
+H2O connection proxy:
+H2O internal security:      False
+H2O API Extensions:         Amazon S3, XGBoost, Algos, AutoML, Core V3, Core V4
+Python version:             3.7.9 final
+--------------------------  ---------------------------------------------------
+Parse progress: [#########################################################] 100%
+AutoML progress: [########################################################] 100%
+Parse progress: [#########################################################] 100%
+stackedensemble prediction progress: [####################################] 100%
+Test batch 1 - Test score 0.985384 - Duration 745.220941
+
+Parse progress: [#########################################################] 100%
+AutoML progress: [########################################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 2 - Test score 0.755740 - Duration 1375.885870
+
+Parse progress: [#########################################################] 100%
+AutoML progress: [########################################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 3 - Test score 0.728847 - Duration 2007.642226
+
+Parse progress: [#########################################################] 100%
+AutoML progress: [########################################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 4 - Test score 0.716136 - Duration 2640.092944
+
+Parse progress: [#########################################################] 100%
+AutoML progress: [########################################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 5 - Test score 0.631307 - Duration 3273.301407
+
+Parse progress: [#########################################################] 100%
+AutoML progress: [########################################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 6 - Test score 0.986758 - Duration 3906.361122
+
+Parse progress: [#########################################################] 100%
+AutoML progress: [########################################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 7 - Test score 0.987385 - Duration 4538.136351
+
+Parse progress: [#########################################################] 100%
+AutoML progress: [########################################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 8 - Test score 0.779137 - Duration 5169.879497
+
+Parse progress: [#########################################################] 100%
+AutoML progress: [########################################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 9 - Test score 0.769103 - Duration 5803.094840
+
+Parse progress: [#########################################################] 100%
+AutoML progress: [########################################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 10 - Test score 0.674385 - Duration 6434.498371
+
+Parse progress: [#########################################################] 100%
+AutoML progress: [########################################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 11 - Test score 0.986686 - Duration 7067.779445
+
+Parse progress: [#########################################################] 100%
+AutoML progress: [########################################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 12 - Test score 0.987024 - Duration 7701.688892
+
+Parse progress: [#########################################################] 100%
+AutoML progress: [########################################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 13 - Test score 0.884491 - Duration 8333.154243
+
+Parse progress: [#########################################################] 100%
+AutoML progress: [########################################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 14 - Test score 0.850289 - Duration 8964.622254
+
+Parse progress: [#########################################################] 100%
+AutoML progress: [########################################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 15 - Test score 0.827255 - Duration 9597.758883
+
+Parse progress: [#########################################################] 100%
+AutoML progress: [########################################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 16 - Test score 0.990280 - Duration 10229.450439
+
+Parse progress: [#########################################################] 100%
+AutoML progress: [########################################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 17 - Test score 0.985528 - Duration 10863.433966
+
+Parse progress: [#########################################################] 100%
+AutoML progress: [########################################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 18 - Test score 0.980656 - Duration 11495.571610
+
+Parse progress: [#########################################################] 100%
+AutoML progress: [########################################################] 100%
+Parse progress: [#########################################################] 100%
+xgboost prediction progress: [############################################] 100%
+Test batch 19 - Test score 0.911047 - Duration 12127.906498
+
+Parse progress: [#########################################################] 100%
+AutoML progress: [########################################################] 100%
+H2O session _sid_a5bc closed.

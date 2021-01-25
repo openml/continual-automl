@@ -1,0 +1,54 @@
+GAMA_Option4.py
+4
+Starting to `fit`
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 3 - Test score 0.565571
+
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 4 - Test score 0.566420
+
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 5 - Test score 0.634235
+
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 6 - Test score 0.502002
+
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 7 - Test score 0.398641
+
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 8 - Test score 0.573820
+
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 9 - Test score 0.574669
+
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 10 - Test score 0.508431
+
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 11 - Test score 0.486352
+
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 12 - Test score 0.599418
+
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 13 - Test score 0.530147
+
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 14 - Test score 0.501880
+
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 15 - Test score 0.353755
+
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 16 - Test score 0.574912
+
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 17 - Test score 0.490477
+
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 18 - Test score 0.480286
+
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 19 - Test score 0.507097
+

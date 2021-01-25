@@ -1,0 +1,174 @@
+Autosklearn_Option4.py
+21
+[WARNING] [2021-01-22 14:22:18,189:EnsembleBuilder(1):0093c620d26730cff62d4e170992f758] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 14:22:18,193:EnsembleBuilder(1):0093c620d26730cff62d4e170992f758] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 14:22:20,197:EnsembleBuilder(1):0093c620d26730cff62d4e170992f758] No models better than random - using Dummy Score!
+Test batch 1 - Test score 0.980753
+
+[WARNING] [2021-01-22 14:32:15,872:EnsembleBuilder(1):cb7574aaf51ea851beed289e90bad9fe] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 14:32:15,882:EnsembleBuilder(1):cb7574aaf51ea851beed289e90bad9fe] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 14:32:17,886:EnsembleBuilder(1):cb7574aaf51ea851beed289e90bad9fe] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 14:32:19,892:EnsembleBuilder(1):cb7574aaf51ea851beed289e90bad9fe] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 14:32:21,898:EnsembleBuilder(1):cb7574aaf51ea851beed289e90bad9fe] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 14:32:23,904:EnsembleBuilder(1):cb7574aaf51ea851beed289e90bad9fe] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 14:32:25,910:EnsembleBuilder(1):cb7574aaf51ea851beed289e90bad9fe] No models better than random - using Dummy Score!
+Test batch 2 - Test score 0.758466
+
+[WARNING] [2021-01-22 14:42:10,962:EnsembleBuilder(1):0eafc0fcd34f6037a9db4897579b46ac] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 14:42:10,971:EnsembleBuilder(1):0eafc0fcd34f6037a9db4897579b46ac] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 14:42:12,975:EnsembleBuilder(1):0eafc0fcd34f6037a9db4897579b46ac] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 14:42:14,980:EnsembleBuilder(1):0eafc0fcd34f6037a9db4897579b46ac] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 14:42:16,984:EnsembleBuilder(1):0eafc0fcd34f6037a9db4897579b46ac] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 14:42:18,990:EnsembleBuilder(1):0eafc0fcd34f6037a9db4897579b46ac] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 14:42:20,996:EnsembleBuilder(1):0eafc0fcd34f6037a9db4897579b46ac] No models better than random - using Dummy Score!
+Test batch 3 - Test score 0.823275
+
+[WARNING] [2021-01-22 14:52:06,108:EnsembleBuilder(1):473e7c04c9e8a5fb6148154e387ecce1] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 14:52:06,118:EnsembleBuilder(1):473e7c04c9e8a5fb6148154e387ecce1] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 14:52:08,122:EnsembleBuilder(1):473e7c04c9e8a5fb6148154e387ecce1] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 14:52:10,128:EnsembleBuilder(1):473e7c04c9e8a5fb6148154e387ecce1] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 14:52:12,134:EnsembleBuilder(1):473e7c04c9e8a5fb6148154e387ecce1] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 14:52:14,140:EnsembleBuilder(1):473e7c04c9e8a5fb6148154e387ecce1] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 14:52:16,146:EnsembleBuilder(1):473e7c04c9e8a5fb6148154e387ecce1] No models better than random - using Dummy Score!
+Test batch 4 - Test score 0.793054
+
+[WARNING] [2021-01-22 15:02:01,255:EnsembleBuilder(1):bb0dd30ad74ba1883c94f133b77b1e5d] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:02:01,265:EnsembleBuilder(1):bb0dd30ad74ba1883c94f133b77b1e5d] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:02:03,269:EnsembleBuilder(1):bb0dd30ad74ba1883c94f133b77b1e5d] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:02:05,275:EnsembleBuilder(1):bb0dd30ad74ba1883c94f133b77b1e5d] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:02:07,282:EnsembleBuilder(1):bb0dd30ad74ba1883c94f133b77b1e5d] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:02:09,288:EnsembleBuilder(1):bb0dd30ad74ba1883c94f133b77b1e5d] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:02:11,294:EnsembleBuilder(1):bb0dd30ad74ba1883c94f133b77b1e5d] No models better than random - using Dummy Score!
+Test batch 5 - Test score 0.598119
+
+[WARNING] [2021-01-22 15:11:56,397:EnsembleBuilder(1):3c9f9eb805d7bc020b4ccb5b5a037a77] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:11:56,408:EnsembleBuilder(1):3c9f9eb805d7bc020b4ccb5b5a037a77] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:11:58,412:EnsembleBuilder(1):3c9f9eb805d7bc020b4ccb5b5a037a77] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:12:00,418:EnsembleBuilder(1):3c9f9eb805d7bc020b4ccb5b5a037a77] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:12:02,425:EnsembleBuilder(1):3c9f9eb805d7bc020b4ccb5b5a037a77] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:12:04,431:EnsembleBuilder(1):3c9f9eb805d7bc020b4ccb5b5a037a77] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:12:06,437:EnsembleBuilder(1):3c9f9eb805d7bc020b4ccb5b5a037a77] No models better than random - using Dummy Score!
+Test batch 6 - Test score 0.783044
+
+[WARNING] [2021-01-22 15:21:51,472:EnsembleBuilder(1):52d5de14fbe55b83097e82908a0d8d32] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:21:51,483:EnsembleBuilder(1):52d5de14fbe55b83097e82908a0d8d32] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:21:53,487:EnsembleBuilder(1):52d5de14fbe55b83097e82908a0d8d32] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:21:55,493:EnsembleBuilder(1):52d5de14fbe55b83097e82908a0d8d32] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:21:57,500:EnsembleBuilder(1):52d5de14fbe55b83097e82908a0d8d32] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:21:59,506:EnsembleBuilder(1):52d5de14fbe55b83097e82908a0d8d32] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:22:01,513:EnsembleBuilder(1):52d5de14fbe55b83097e82908a0d8d32] No models better than random - using Dummy Score!
+Test batch 7 - Test score 0.973637
+
+[WARNING] [2021-01-22 15:31:46,651:EnsembleBuilder(1):68f16d00877e3e420cd738d64fdec9b5] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:31:46,662:EnsembleBuilder(1):68f16d00877e3e420cd738d64fdec9b5] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:31:48,666:EnsembleBuilder(1):68f16d00877e3e420cd738d64fdec9b5] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:31:50,671:EnsembleBuilder(1):68f16d00877e3e420cd738d64fdec9b5] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:31:52,678:EnsembleBuilder(1):68f16d00877e3e420cd738d64fdec9b5] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:31:54,684:EnsembleBuilder(1):68f16d00877e3e420cd738d64fdec9b5] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:31:56,691:EnsembleBuilder(1):68f16d00877e3e420cd738d64fdec9b5] No models better than random - using Dummy Score!
+Test batch 8 - Test score 0.783526
+
+[WARNING] [2021-01-22 15:41:41,795:EnsembleBuilder(1):f5c68f77a093dae3746bec240c8ef03c] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:41:41,805:EnsembleBuilder(1):f5c68f77a093dae3746bec240c8ef03c] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:41:43,809:EnsembleBuilder(1):f5c68f77a093dae3746bec240c8ef03c] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:41:45,814:EnsembleBuilder(1):f5c68f77a093dae3746bec240c8ef03c] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:41:47,820:EnsembleBuilder(1):f5c68f77a093dae3746bec240c8ef03c] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:41:49,826:EnsembleBuilder(1):f5c68f77a093dae3746bec240c8ef03c] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:41:51,833:EnsembleBuilder(1):f5c68f77a093dae3746bec240c8ef03c] No models better than random - using Dummy Score!
+Test batch 9 - Test score 0.777231
+
+[WARNING] [2021-01-22 15:51:36,894:EnsembleBuilder(1):1990884e8433a5a85131d399a2c6cc4e] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:51:36,906:EnsembleBuilder(1):1990884e8433a5a85131d399a2c6cc4e] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:51:38,910:EnsembleBuilder(1):1990884e8433a5a85131d399a2c6cc4e] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:51:40,915:EnsembleBuilder(1):1990884e8433a5a85131d399a2c6cc4e] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:51:42,921:EnsembleBuilder(1):1990884e8433a5a85131d399a2c6cc4e] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:51:44,927:EnsembleBuilder(1):1990884e8433a5a85131d399a2c6cc4e] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 15:51:46,933:EnsembleBuilder(1):1990884e8433a5a85131d399a2c6cc4e] No models better than random - using Dummy Score!
+Test batch 10 - Test score 0.761939
+
+[WARNING] [2021-01-22 16:01:32,148:EnsembleBuilder(1):b8305f536402d61913315389f2d42315] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:01:32,158:EnsembleBuilder(1):b8305f536402d61913315389f2d42315] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:01:34,162:EnsembleBuilder(1):b8305f536402d61913315389f2d42315] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:01:36,167:EnsembleBuilder(1):b8305f536402d61913315389f2d42315] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:01:38,173:EnsembleBuilder(1):b8305f536402d61913315389f2d42315] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:01:40,179:EnsembleBuilder(1):b8305f536402d61913315389f2d42315] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:01:42,186:EnsembleBuilder(1):b8305f536402d61913315389f2d42315] No models better than random - using Dummy Score!
+Test batch 11 - Test score 0.833985
+
+[WARNING] [2021-01-22 16:11:27,274:EnsembleBuilder(1):03019e2c603b59552f5bee4feda54e3f] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:11:27,284:EnsembleBuilder(1):03019e2c603b59552f5bee4feda54e3f] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:11:29,288:EnsembleBuilder(1):03019e2c603b59552f5bee4feda54e3f] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:11:31,293:EnsembleBuilder(1):03019e2c603b59552f5bee4feda54e3f] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:11:33,299:EnsembleBuilder(1):03019e2c603b59552f5bee4feda54e3f] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:11:35,305:EnsembleBuilder(1):03019e2c603b59552f5bee4feda54e3f] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:11:37,311:EnsembleBuilder(1):03019e2c603b59552f5bee4feda54e3f] No models better than random - using Dummy Score!
+Test batch 12 - Test score 0.829932
+
+[WARNING] [2021-01-22 16:21:22,458:EnsembleBuilder(1):3ef3ad829bfb0d96c28b6efa9bc7222a] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:21:22,468:EnsembleBuilder(1):3ef3ad829bfb0d96c28b6efa9bc7222a] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:21:24,472:EnsembleBuilder(1):3ef3ad829bfb0d96c28b6efa9bc7222a] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:21:26,478:EnsembleBuilder(1):3ef3ad829bfb0d96c28b6efa9bc7222a] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:21:28,484:EnsembleBuilder(1):3ef3ad829bfb0d96c28b6efa9bc7222a] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:21:30,491:EnsembleBuilder(1):3ef3ad829bfb0d96c28b6efa9bc7222a] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:21:32,497:EnsembleBuilder(1):3ef3ad829bfb0d96c28b6efa9bc7222a] No models better than random - using Dummy Score!
+Test batch 13 - Test score 0.865991
+
+[WARNING] [2021-01-22 16:31:17,608:EnsembleBuilder(1):b55a631864f4b120b05b0bb9588a0e56] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:31:17,617:EnsembleBuilder(1):b55a631864f4b120b05b0bb9588a0e56] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:31:19,622:EnsembleBuilder(1):b55a631864f4b120b05b0bb9588a0e56] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:31:21,628:EnsembleBuilder(1):b55a631864f4b120b05b0bb9588a0e56] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:31:23,633:EnsembleBuilder(1):b55a631864f4b120b05b0bb9588a0e56] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:31:25,639:EnsembleBuilder(1):b55a631864f4b120b05b0bb9588a0e56] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:31:27,645:EnsembleBuilder(1):b55a631864f4b120b05b0bb9588a0e56] No models better than random - using Dummy Score!
+Test batch 14 - Test score 0.859600
+
+[WARNING] [2021-01-22 16:41:12,843:EnsembleBuilder(1):a821f4ee8025ac11558746de43a4e749] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:41:12,853:EnsembleBuilder(1):a821f4ee8025ac11558746de43a4e749] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:41:14,857:EnsembleBuilder(1):a821f4ee8025ac11558746de43a4e749] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:41:16,863:EnsembleBuilder(1):a821f4ee8025ac11558746de43a4e749] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:41:18,869:EnsembleBuilder(1):a821f4ee8025ac11558746de43a4e749] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:41:20,875:EnsembleBuilder(1):a821f4ee8025ac11558746de43a4e749] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:41:22,881:EnsembleBuilder(1):a821f4ee8025ac11558746de43a4e749] No models better than random - using Dummy Score!
+Test batch 15 - Test score 0.873758
+
+[WARNING] [2021-01-22 16:51:07,949:EnsembleBuilder(1):78b75c35ee563f85c9a3cbcba005c0dc] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:51:07,961:EnsembleBuilder(1):78b75c35ee563f85c9a3cbcba005c0dc] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:51:09,965:EnsembleBuilder(1):78b75c35ee563f85c9a3cbcba005c0dc] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:51:11,970:EnsembleBuilder(1):78b75c35ee563f85c9a3cbcba005c0dc] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:51:13,977:EnsembleBuilder(1):78b75c35ee563f85c9a3cbcba005c0dc] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:51:15,983:EnsembleBuilder(1):78b75c35ee563f85c9a3cbcba005c0dc] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 16:51:17,989:EnsembleBuilder(1):78b75c35ee563f85c9a3cbcba005c0dc] No models better than random - using Dummy Score!
+Test batch 16 - Test score 0.915027
+
+[WARNING] [2021-01-22 17:01:03,055:EnsembleBuilder(1):51fc9881c42da8ecc8054ae1ce48f452] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 17:01:03,066:EnsembleBuilder(1):51fc9881c42da8ecc8054ae1ce48f452] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 17:01:05,070:EnsembleBuilder(1):51fc9881c42da8ecc8054ae1ce48f452] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 17:01:07,075:EnsembleBuilder(1):51fc9881c42da8ecc8054ae1ce48f452] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 17:01:09,081:EnsembleBuilder(1):51fc9881c42da8ecc8054ae1ce48f452] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 17:01:11,087:EnsembleBuilder(1):51fc9881c42da8ecc8054ae1ce48f452] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 17:01:13,093:EnsembleBuilder(1):51fc9881c42da8ecc8054ae1ce48f452] No models better than random - using Dummy Score!
+Test batch 17 - Test score 0.988447
+
+[WARNING] [2021-01-22 17:10:58,235:EnsembleBuilder(1):eb91927f80f9c4960c085b964cdd5239] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 17:10:58,245:EnsembleBuilder(1):eb91927f80f9c4960c085b964cdd5239] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 17:11:00,249:EnsembleBuilder(1):eb91927f80f9c4960c085b964cdd5239] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 17:11:02,254:EnsembleBuilder(1):eb91927f80f9c4960c085b964cdd5239] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 17:11:04,259:EnsembleBuilder(1):eb91927f80f9c4960c085b964cdd5239] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 17:11:06,265:EnsembleBuilder(1):eb91927f80f9c4960c085b964cdd5239] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 17:11:08,272:EnsembleBuilder(1):eb91927f80f9c4960c085b964cdd5239] No models better than random - using Dummy Score!
+Test batch 18 - Test score 0.990521
+
+[WARNING] [2021-01-22 17:20:53,372:EnsembleBuilder(1):d89cf63ea015753be8b5dd67b3a30fac] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 17:20:53,383:EnsembleBuilder(1):d89cf63ea015753be8b5dd67b3a30fac] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 17:20:55,386:EnsembleBuilder(1):d89cf63ea015753be8b5dd67b3a30fac] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 17:20:57,391:EnsembleBuilder(1):d89cf63ea015753be8b5dd67b3a30fac] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 17:20:59,397:EnsembleBuilder(1):d89cf63ea015753be8b5dd67b3a30fac] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 17:21:01,403:EnsembleBuilder(1):d89cf63ea015753be8b5dd67b3a30fac] No models better than random - using Dummy Score!
+Test batch 19 - Test score 0.985794
+
+[WARNING] [2021-01-22 17:30:48,466:EnsembleBuilder(1):039005818fd48f04550c3ec101dabf0c] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 17:30:48,476:EnsembleBuilder(1):039005818fd48f04550c3ec101dabf0c] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 17:30:50,480:EnsembleBuilder(1):039005818fd48f04550c3ec101dabf0c] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 17:30:52,485:EnsembleBuilder(1):039005818fd48f04550c3ec101dabf0c] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 17:30:54,491:EnsembleBuilder(1):039005818fd48f04550c3ec101dabf0c] No models better than random - using Dummy Score!
+[WARNING] [2021-01-22 17:30:56,497:EnsembleBuilder(1):039005818fd48f04550c3ec101dabf0c] No models better than random - using Dummy Score!

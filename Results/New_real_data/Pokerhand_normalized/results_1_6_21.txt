@@ -1,0 +1,1525 @@
+H2O_Option6.py
+21
+Checking whether there is an H2O instance running at http://localhost:54321 ..... not found.
+Attempting to start a local H2O server...
+  Java Version: openjdk version "11.0.9.1" 2020-11-04; OpenJDK Runtime Environment (build 11.0.9.1+1-post-Debian-1deb10u2); OpenJDK 64-Bit Server VM (build 11.0.9.1+1-post-Debian-1deb10u2, mixed mode, sharing)
+  Starting server from /home/bcelik/anaconda3/envs/H2O_env/lib/python3.7/site-packages/h2o/backend/bin/h2o.jar
+  Ice root: /scratch/tmpwnu5akf5
+  JVM stdout: /scratch/tmpwnu5akf5/h2o_bcelik_started_from_python.out
+  JVM stderr: /scratch/tmpwnu5akf5/h2o_bcelik_started_from_python.err
+  Server is running at http://127.0.0.1:54321
+Connecting to H2O server at http://127.0.0.1:54321 ... successful.
+Warning: Your H2O cluster version is too old (1 year, 5 months and 26 days)! Please download and install the latest version from http://h2o.ai/download/
+--------------------------  ---------------------------------------------------
+H2O cluster uptime:         01 secs
+H2O cluster timezone:       Europe/Amsterdam
+H2O data parsing timezone:  UTC
+H2O cluster version:        3.26.0.2
+H2O cluster version age:    1 year, 5 months and 26 days !!!
+H2O cluster name:           H2O_from_python_bcelik_840pgg
+H2O cluster total nodes:    1
+H2O cluster free memory:    32 Gb
+H2O cluster total cores:    16
+H2O cluster allowed cores:  16
+H2O cluster status:         accepting new members, healthy
+H2O connection url:         http://127.0.0.1:54321
+H2O connection proxy:
+H2O internal security:      False
+H2O API Extensions:         Amazon S3, XGBoost, Algos, AutoML, Core V3, Core V4
+Python version:             3.7.9 final
+--------------------------  ---------------------------------------------------
+Parse progress: [#########################################################] 100%
+drf Model Build progress: [###############################################] 100%
+gbm Grid Build progress: [################################################] 100%
+stackedensemble Model Build progress: [###################################] 100%
+Parse progress: [#########################################################] 100%
+stackedensemble prediction progress: [####################################] 100%
+Test batch 3 - Test score 0.814785 - Duration 126.383199
+
+Drift in performance detected in batch 3 at sample 666
+Drift in performance detected in batch 3 at sample 1469
+Drift in performance detected in batch 3 at sample 1831
+Drift in performance detected in batch 3 at sample 2774
+Drift in performance detected in batch 3 at sample 3794
+Drift in performance detected in batch 3 at sample 4140
+Drift in performance detected in batch 3 at sample 4974
+Drift in performance detected in batch 3 at sample 5975
+Drift in performance detected in batch 3 at sample 7437
+Drift in performance detected in batch 3 at sample 10333
+Drift in performance detected in batch 3 at sample 12302
+Drift in performance detected in batch 3 at sample 21717
+Drift in performance detected in batch 3 at sample 21842
+Drift in performance detected in batch 3 at sample 21957
+Drift in performance detected in batch 3 at sample 22111
+Drift in performance detected in batch 3 at sample 22247
+Drift in performance detected in batch 3 at sample 22372
+Drift in performance detected in batch 3 at sample 22461
+Drift in performance detected in batch 3 at sample 22591
+Drift in performance detected in batch 3 at sample 22750
+Drift in performance detected in batch 3 at sample 22940
+Drift in performance detected in batch 3 at sample 23239
+Drift in performance detected in batch 3 at sample 23354
+Drift in performance detected in batch 3 at sample 23438
+Drift in performance detected in batch 3 at sample 23868
+Drift in performance detected in batch 3 at sample 24059
+Drift in performance detected in batch 3 at sample 24209
+Drift in performance detected in batch 3 at sample 24342
+Drift in performance detected in batch 3 at sample 24461
+Drift in performance detected in batch 3 at sample 25041
+Drift in performance detected in batch 3 at sample 25353
+Drift in performance detected in batch 3 at sample 32866
+Drift in performance detected in batch 3 at sample 32995
+Drift in performance detected in batch 3 at sample 33114
+Drift in performance detected in batch 3 at sample 33246
+Drift in performance detected in batch 3 at sample 33377
+Drift in performance detected in batch 3 at sample 33511
+Drift in performance detected in batch 3 at sample 33621
+Drift in performance detected in batch 3 at sample 33705
+Drift in performance detected in batch 3 at sample 33757
+Drift in performance detected in batch 3 at sample 33943
+Drift in performance detected in batch 3 at sample 34131
+Drift in performance detected in batch 3 at sample 34272
+Drift in performance detected in batch 3 at sample 34384
+Drift in performance detected in batch 3 at sample 34515
+Drift in performance detected in batch 3 at sample 34575
+Drift in performance detected in batch 3 at sample 34839
+Drift in performance detected in batch 3 at sample 35045
+Drift in performance detected in batch 3 at sample 35198
+Drift in performance detected in batch 3 at sample 35294
+Drift in performance detected in batch 3 at sample 35655
+Drift in performance detected in batch 3 at sample 35977
+Parse progress: [#########################################################] 100%
+Model Details
+=============
+H2OGradientBoostingEstimator :  Gradient Boosting Machine
+Model Key:  gbm_grid_model_6
+
+Model Summary: 
+    number_of_trees    number_of_internal_trees    model_size_in_bytes    min_depth    max_depth    mean_depth    min_leaves    max_leaves    mean_leaves
+--  -----------------  --------------------------  ---------------------  -----------  -----------  ------------  ------------  ------------  -------------
+    5                  35                          3652                   2            2            2             3             4             3.71429
+
+
+ModelMetricsMultinomial: gbm
+** Reported on train data. **
+
+MSE: 0.4665505799853504
+RMSE: 0.68304507902872
+LogLoss: 1.1766249366286166
+Mean Per-Class Error: 0.7073965877958461
+Confusion Matrix: Row labels: Actual class; Column labels: Predicted class
+
+1      2      3     4    5    6    7    Error      Rate
+-----  -----  ----  ---  ---  ---  ---  ---------  ----------------
+21473  32157  0     0    0    0    0    0.599608   32,157 / 53,630
+3905   62912  0     0    0    0    0    0.0584432  3,905 / 66,817
+1079   1082   984   0    0    0    0    0.687122   2,161 / 3,145
+0      228    0     0    0    0    0    1          228 / 228
+0      255    0     0    0    0    0    1          255 / 255
+135    65     42    0    0    12   0    0.952756   242 / 254
+19     14     0     0    0    1    18   0.653846   34 / 52
+26611  96713  1026  0    0    13   18   0.313408   38,982 / 124,381
+Top-7 Hit Ratios: 
+k    hit_ratio
+---  -----------
+1    0.686592
+2    0.977722
+3    0.995007
+4    0.998802
+5    0.999879
+6    0.999992
+7    1
+
+ModelMetricsMultinomial: gbm
+** Reported on cross-validation data. **
+
+MSE: 0.4666153334449756
+RMSE: 0.6830924779595919
+LogLoss: 1.1767170334480002
+Mean Per-Class Error: 0.708999141631964
+Confusion Matrix: Row labels: Actual class; Column labels: Predicted class
+
+1      2      3     4    5    6    7    Error      Rate
+-----  -----  ----  ---  ---  ---  ---  ---------  ----------------
+20792  32838  0     0    0    0    0    0.612307   32,838 / 53,630
+3803   63014  0     0    0    0    0    0.0569167  3,803 / 66,817
+1028   1096   1021  0    0    0    0    0.675358   2,124 / 3,145
+0      228    0     0    0    0    0    1          228 / 228
+0      255    0     0    0    0    0    1          255 / 255
+136    61     48    0    0    9    0    0.964567   245 / 254
+19     14     0     0    0    1    18   0.653846   34 / 52
+25778  97506  1069  0    0    10   18   0.31779    39,527 / 124,381
+Top-7 Hit Ratios: 
+k    hit_ratio
+---  -----------
+1    0.68221
+2    0.977641
+3    0.995096
+4    0.998834
+5    0.999888
+6    0.999992
+7    1
+Cross-Validation Metrics Summary: 
+                         mean       sd           cv_1_valid    cv_2_valid    cv_3_valid    cv_4_valid    cv_5_valid    cv_6_valid    cv_7_valid    cv_8_valid    cv_9_valid    cv_10_valid
+-----------------------  ---------  -----------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  -------------
+accuracy                 0.682219   0.00860536   0.694723      0.691294      0.661891      0.685368      0.683364      0.692437      0.656432      0.687376      0.686899      0.68241
+err                      0.317781   0.00860536   0.305277      0.308706      0.338109      0.314632      0.316636      0.307563      0.343568      0.312624      0.313101      0.31759
+err_count                3952.7     110.496      3801          3819          4201          3892          3938          3843          4297          3935          3874          3927
+logloss                  1.17672    0.00192279   1.1727        1.17494       1.18106       1.17833       1.17702       1.17343       1.18012       1.17544       1.17498       1.17917
+max_per_class_error      1          0            1             1             1             1             1             1             1             1             1             1
+mean_per_class_accuracy  0.291948   0.0282196    0.258245      0.236207      0.2646        0.310239      0.262166      0.316386      0.273671      0.30299       0.382786      0.312194
+mean_per_class_error     0.708052   0.0282196    0.741755      0.763793      0.7354        0.689761      0.737834      0.683614      0.726329      0.69701       0.617214      0.687806
+mse                      0.466616   0.000690413  0.465259      0.465837      0.468213      0.467246      0.466845      0.46529       0.467805      0.466236      0.466103      0.467327
+r2                       -0.240934  0.029094     -0.267451     -0.282927     -0.186847     -0.283744     -0.186438     -0.269824     -0.245761     -0.187381     -0.287318     -0.211652
+rmse                     0.683093   0.000505333  0.682099      0.682523      0.684261      0.683554      0.683261      0.682122      0.683963      0.682815      0.682717      0.683613
+Scoring History: 
+    timestamp            duration    number_of_trees    training_rmse    training_logloss    training_classification_error
+--  -------------------  ----------  -----------------  ---------------  ------------------  -------------------------------
+    2021-01-22 15:30:11  20.172 sec  0                  0.857143         1.94591             0.52984
+    2021-01-22 15:30:11  20.210 sec  1                  0.81259          1.68043             0.326424
+    2021-01-22 15:30:11  20.239 sec  2                  0.774032         1.50082             0.336209
+    2021-01-22 15:30:11  20.266 sec  3                  0.739983         1.36659             0.32759
+    2021-01-22 15:30:11  20.294 sec  4                  0.709735         1.26171             0.336209
+    2021-01-22 15:30:11  20.325 sec  5                  0.683045         1.17662             0.313408
+Variable Importances: 
+variable    relative_importance    scaled_importance    percentage
+----------  ---------------------  -------------------  ------------
+C4          15851.9                1                    0.564799
+C6          8265.87                0.521443             0.29451
+C8          2858.97                0.180354             0.101864
+C2          985.622                0.0621768            0.0351174
+C10         58.1543                0.00366859           0.00207202
+C7          23.3333                0.00147196           0.00083136
+C3          14.7217                0.000928701          0.00052453
+C5          4.56401                0.000287915          0.000162614
+C9          3.32517                0.000209764          0.000118475
+gbm Model Build progress: [###############################################] 100%
+Model Details
+=============
+H2OGradientBoostingEstimator :  Gradient Boosting Machine
+Model Key:  gbm_grid_model_10
+
+Model Summary: 
+    number_of_trees    number_of_internal_trees    model_size_in_bytes    min_depth    max_depth    mean_depth    min_leaves    max_leaves    mean_leaves
+--  -----------------  --------------------------  ---------------------  -----------  -----------  ------------  ------------  ------------  -------------
+    5                  35                          3651                   2            2            2             3             4             3.71429
+
+
+ModelMetricsMultinomial: gbm
+** Reported on train data. **
+
+MSE: 0.4665505799853504
+RMSE: 0.68304507902872
+LogLoss: 1.1766249366286166
+Mean Per-Class Error: 0.7073965877958461
+Confusion Matrix: Row labels: Actual class; Column labels: Predicted class
+
+1      2      3     4    5    6    7    Error      Rate
+-----  -----  ----  ---  ---  ---  ---  ---------  ----------------
+21473  32157  0     0    0    0    0    0.599608   32,157 / 53,630
+3905   62912  0     0    0    0    0    0.0584432  3,905 / 66,817
+1079   1082   984   0    0    0    0    0.687122   2,161 / 3,145
+0      228    0     0    0    0    0    1          228 / 228
+0      255    0     0    0    0    0    1          255 / 255
+135    65     42    0    0    12   0    0.952756   242 / 254
+19     14     0     0    0    1    18   0.653846   34 / 52
+26611  96713  1026  0    0    13   18   0.313408   38,982 / 124,381
+Top-7 Hit Ratios: 
+k    hit_ratio
+---  -----------
+1    0.686592
+2    0.977722
+3    0.995007
+4    0.998802
+5    0.999879
+6    0.999992
+7    1
+
+ModelMetricsMultinomial: gbm
+** Reported on cross-validation data. **
+
+MSE: 0.4666153334449756
+RMSE: 0.6830924779595919
+LogLoss: 1.1767170334480002
+Mean Per-Class Error: 0.708999141631964
+Confusion Matrix: Row labels: Actual class; Column labels: Predicted class
+
+1      2      3     4    5    6    7    Error      Rate
+-----  -----  ----  ---  ---  ---  ---  ---------  ----------------
+20792  32838  0     0    0    0    0    0.612307   32,838 / 53,630
+3803   63014  0     0    0    0    0    0.0569167  3,803 / 66,817
+1028   1096   1021  0    0    0    0    0.675358   2,124 / 3,145
+0      228    0     0    0    0    0    1          228 / 228
+0      255    0     0    0    0    0    1          255 / 255
+136    61     48    0    0    9    0    0.964567   245 / 254
+19     14     0     0    0    1    18   0.653846   34 / 52
+25778  97506  1069  0    0    10   18   0.31779    39,527 / 124,381
+Top-7 Hit Ratios: 
+k    hit_ratio
+---  -----------
+1    0.68221
+2    0.977641
+3    0.995096
+4    0.998834
+5    0.999888
+6    0.999992
+7    1
+Cross-Validation Metrics Summary: 
+                         mean       sd           cv_1_valid    cv_2_valid    cv_3_valid    cv_4_valid    cv_5_valid    cv_6_valid    cv_7_valid    cv_8_valid    cv_9_valid    cv_10_valid
+-----------------------  ---------  -----------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  -------------
+accuracy                 0.682219   0.00860536   0.694723      0.691294      0.661891      0.685368      0.683364      0.692437      0.656432      0.687376      0.686899      0.68241
+err                      0.317781   0.00860536   0.305277      0.308706      0.338109      0.314632      0.316636      0.307563      0.343568      0.312624      0.313101      0.31759
+err_count                3952.7     110.496      3801          3819          4201          3892          3938          3843          4297          3935          3874          3927
+logloss                  1.17672    0.00192279   1.1727        1.17494       1.18106       1.17833       1.17702       1.17343       1.18012       1.17544       1.17498       1.17917
+max_per_class_error      1          0            1             1             1             1             1             1             1             1             1             1
+mean_per_class_accuracy  0.291948   0.0282196    0.258245      0.236207      0.2646        0.310239      0.262166      0.316386      0.273671      0.30299       0.382786      0.312194
+mean_per_class_error     0.708052   0.0282196    0.741755      0.763793      0.7354        0.689761      0.737834      0.683614      0.726329      0.69701       0.617214      0.687806
+mse                      0.466616   0.000690413  0.465259      0.465837      0.468213      0.467246      0.466845      0.46529       0.467805      0.466236      0.466103      0.467327
+r2                       -0.240934  0.029094     -0.267451     -0.282927     -0.186847     -0.283744     -0.186438     -0.269824     -0.245761     -0.187381     -0.287318     -0.211652
+rmse                     0.683093   0.000505333  0.682099      0.682523      0.684261      0.683554      0.683261      0.682122      0.683963      0.682815      0.682717      0.683613
+Scoring History: 
+    timestamp            duration    number_of_trees    training_rmse    training_logloss    training_classification_error
+--  -------------------  ----------  -----------------  ---------------  ------------------  -------------------------------
+    2021-01-22 15:30:24  32.721 sec  0                  0.857143         1.94591             0.52984
+    2021-01-22 15:30:24  32.759 sec  1                  0.81259          1.68043             0.326424
+    2021-01-22 15:30:24  32.787 sec  2                  0.774032         1.50082             0.336209
+    2021-01-22 15:30:24  32.819 sec  3                  0.739983         1.36659             0.32759
+    2021-01-22 15:30:24  32.848 sec  4                  0.709735         1.26171             0.336209
+    2021-01-22 15:30:24  32.873 sec  5                  0.683045         1.17662             0.313408
+Variable Importances: 
+variable    relative_importance    scaled_importance    percentage
+----------  ---------------------  -------------------  ------------
+C4          15851.9                1                    0.564799
+C6          8265.87                0.521443             0.29451
+C8          2858.97                0.180354             0.101864
+C2          985.622                0.0621768            0.0351174
+C10         58.1543                0.00366859           0.00207202
+C7          23.3333                0.00147196           0.00083136
+C3          14.7217                0.000928701          0.00052453
+C5          4.56401                0.000287915          0.000162614
+C9          3.32517                0.000209764          0.000118475
+gbm Model Build progress: [###############################################] 100%
+Model Details
+=============
+H2OGradientBoostingEstimator :  Gradient Boosting Machine
+Model Key:  gbm_grid_model_1
+
+Model Summary: 
+    number_of_trees    number_of_internal_trees    model_size_in_bytes    min_depth    max_depth    mean_depth    min_leaves    max_leaves    mean_leaves
+--  -----------------  --------------------------  ---------------------  -----------  -----------  ------------  ------------  ------------  -------------
+    5                  35                          3649                   2            2            2             3             4             3.71429
+
+
+ModelMetricsMultinomial: gbm
+** Reported on train data. **
+
+MSE: 0.4686738935283463
+RMSE: 0.6845976143168674
+LogLoss: 1.1797312031376739
+Mean Per-Class Error: 0.7045104622333209
+Confusion Matrix: Row labels: Actual class; Column labels: Predicted class
+
+1      2      3     4    5    6    7    Error     Rate
+-----  -----  ----  ---  ---  ---  ---  --------  ----------------
+20653  32977  0     0    0    0    0    0.614898  32,977 / 53,630
+7359   59458  0     0    0    0    0    0.110137  7,359 / 66,817
+999    1024   1122  0    0    0    0    0.643243  2,023 / 3,145
+86     142    0     0    0    0    0    1         228 / 228
+14     241    0     0    0    0    0    1         255 / 255
+105    70     56    0    0    23   0    0.909449  231 / 254
+18     14     1     0    0    1    18   0.653846  34 / 52
+29234  93926  1179  0    0    24   18   0.346572  43,107 / 124,381
+Top-7 Hit Ratios: 
+k    hit_ratio
+---  -----------
+1    0.653428
+2    0.984355
+3    0.99479
+4    0.998681
+5    0.999687
+6    1
+7    1
+
+ModelMetricsMultinomial: gbm
+** Reported on cross-validation data. **
+
+MSE: 0.46871469543968997
+RMSE: 0.6846274135905529
+LogLoss: 1.1799364307905045
+Mean Per-Class Error: 0.7101347591962005
+Confusion Matrix: Row labels: Actual class; Column labels: Predicted class
+
+1      2      3     4    5    6    7    Error     Rate
+-----  -----  ----  ---  ---  ---  ---  --------  ----------------
+20653  32977  0     0    0    0    0    0.614898  32,977 / 53,630
+7359   59458  0     0    0    0    0    0.110137  7,359 / 66,817
+999    1024   1122  0    0    0    0    0.643243  2,023 / 3,145
+86     142    0     0    0    0    0    1         228 / 228
+14     241    0     0    0    0    0    1         255 / 255
+109    72     60    0    0    13   0    0.948819  241 / 254
+18     14     1     0    0    1    18   0.653846  34 / 52
+29238  93928  1183  0    0    14   18   0.346653  43,117 / 124,381
+Top-7 Hit Ratios: 
+k    hit_ratio
+---  -----------
+1    0.653347
+2    0.982883
+3    0.994662
+4    0.99869
+5    0.999614
+6    1
+7    1
+Cross-Validation Metrics Summary: 
+                         mean       sd           cv_1_valid    cv_2_valid    cv_3_valid    cv_4_valid    cv_5_valid    cv_6_valid    cv_7_valid    cv_8_valid    cv_9_valid    cv_10_valid
+-----------------------  ---------  -----------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  -------------
+accuracy                 0.653346   0.00242248   0.660027      0.655404      0.651831      0.651576      0.655142      0.654982      0.648277      0.653849      0.65449       0.647877
+err                      0.346654   0.00242248   0.339973      0.344596      0.348169      0.348424      0.344858      0.345018      0.351723      0.346151      0.34551       0.352123
+err_count                4311.7     33.2401      4233          4263          4326          4310          4289          4311          4399          4357          4275          4354
+logloss                  1.17994    0.00185328   1.17483       1.1789        1.18328       1.1802        1.17948       1.17805       1.18365       1.17962       1.17828       1.18307
+max_per_class_error      1          0            1             1             1             1             1             1             1             1             1             1
+mean_per_class_accuracy  0.290576   0.0261449    0.255015      0.233478      0.270246      0.307348      0.2652        0.309377      0.282654      0.297981      0.373858      0.310599
+mean_per_class_error     0.709424   0.0261449    0.744985      0.766522      0.729754      0.692652      0.7348        0.690623      0.717346      0.702019      0.626143      0.689401
+mse                      0.468715   0.000637899  0.467009      0.468355      0.469895      0.468892      0.468487      0.467997      0.470067      0.468537      0.468203      0.469708
+r2                       -0.246525  0.0293945    -0.272218     -0.289859     -0.19111      -0.288265     -0.190611     -0.277213     -0.251784     -0.193241     -0.293119     -0.217825
+rmse                     0.684627   0.000465887  0.683381      0.684364      0.685489      0.684756      0.684461      0.684103      0.685615      0.684498      0.684254      0.685352
+Scoring History: 
+    timestamp            duration    number_of_trees    training_rmse    training_logloss    training_classification_error
+--  -------------------  ----------  -----------------  ---------------  ------------------  -------------------------------
+    2021-01-22 15:29:55  3.930 sec   0                  0.857143         1.94591             0.52984
+    2021-01-22 15:29:55  4.338 sec   1                  0.813161         1.68308             0.346604
+    2021-01-22 15:29:55  4.364 sec   2                  0.774631         1.50247             0.346572
+    2021-01-22 15:29:55  4.387 sec   3                  0.740929         1.36938             0.346572
+    2021-01-22 15:29:55  4.410 sec   4                  0.711223         1.26587             0.346572
+    2021-01-22 15:29:55  4.432 sec   5                  0.684598         1.17973             0.346572
+Variable Importances: 
+variable    relative_importance    scaled_importance    percentage
+----------  ---------------------  -------------------  ------------
+C6          14072.5                1                    0.531879
+C4          10498.2                0.746011             0.396787
+C8          1149.83                0.0817074            0.0434584
+C2          628.376                0.0446528            0.0237499
+C10         64.1612                0.00455933           0.00242501
+C3          15.3374                0.00108989           0.000579688
+C5          10.7171                0.000761567          0.000405061
+C9          10.3323                0.000734217          0.000390514
+C7          8.62122                0.00061263           0.000325845
+gbm Model Build progress: [###############################################] 100%
+Model Details
+=============
+H2OGradientBoostingEstimator :  Gradient Boosting Machine
+Model Key:  gbm_grid_model_4
+
+Model Summary: 
+    number_of_trees    number_of_internal_trees    model_size_in_bytes    min_depth    max_depth    mean_depth    min_leaves    max_leaves    mean_leaves
+--  -----------------  --------------------------  ---------------------  -----------  -----------  ------------  ------------  ------------  -------------
+    5                  35                          3650                   2            2            2             3             4             3.71429
+
+
+ModelMetricsMultinomial: gbm
+** Reported on train data. **
+
+MSE: 0.4686738935283463
+RMSE: 0.6845976143168674
+LogLoss: 1.1797312031376739
+Mean Per-Class Error: 0.7045104622333209
+Confusion Matrix: Row labels: Actual class; Column labels: Predicted class
+
+1      2      3     4    5    6    7    Error     Rate
+-----  -----  ----  ---  ---  ---  ---  --------  ----------------
+20653  32977  0     0    0    0    0    0.614898  32,977 / 53,630
+7359   59458  0     0    0    0    0    0.110137  7,359 / 66,817
+999    1024   1122  0    0    0    0    0.643243  2,023 / 3,145
+86     142    0     0    0    0    0    1         228 / 228
+14     241    0     0    0    0    0    1         255 / 255
+105    70     56    0    0    23   0    0.909449  231 / 254
+18     14     1     0    0    1    18   0.653846  34 / 52
+29234  93926  1179  0    0    24   18   0.346572  43,107 / 124,381
+Top-7 Hit Ratios: 
+k    hit_ratio
+---  -----------
+1    0.653428
+2    0.984355
+3    0.99479
+4    0.998681
+5    0.999687
+6    1
+7    1
+
+ModelMetricsMultinomial: gbm
+** Reported on cross-validation data. **
+
+MSE: 0.46871469543968997
+RMSE: 0.6846274135905529
+LogLoss: 1.1799364307905045
+Mean Per-Class Error: 0.7101347591962005
+Confusion Matrix: Row labels: Actual class; Column labels: Predicted class
+
+1      2      3     4    5    6    7    Error     Rate
+-----  -----  ----  ---  ---  ---  ---  --------  ----------------
+20653  32977  0     0    0    0    0    0.614898  32,977 / 53,630
+7359   59458  0     0    0    0    0    0.110137  7,359 / 66,817
+999    1024   1122  0    0    0    0    0.643243  2,023 / 3,145
+86     142    0     0    0    0    0    1         228 / 228
+14     241    0     0    0    0    0    1         255 / 255
+109    72     60    0    0    13   0    0.948819  241 / 254
+18     14     1     0    0    1    18   0.653846  34 / 52
+29238  93928  1183  0    0    14   18   0.346653  43,117 / 124,381
+Top-7 Hit Ratios: 
+k    hit_ratio
+---  -----------
+1    0.653347
+2    0.982883
+3    0.994662
+4    0.99869
+5    0.999614
+6    1
+7    1
+Cross-Validation Metrics Summary: 
+                         mean       sd           cv_1_valid    cv_2_valid    cv_3_valid    cv_4_valid    cv_5_valid    cv_6_valid    cv_7_valid    cv_8_valid    cv_9_valid    cv_10_valid
+-----------------------  ---------  -----------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  -------------
+accuracy                 0.653346   0.00242248   0.660027      0.655404      0.651831      0.651576      0.655142      0.654982      0.648277      0.653849      0.65449       0.647877
+err                      0.346654   0.00242248   0.339973      0.344596      0.348169      0.348424      0.344858      0.345018      0.351723      0.346151      0.34551       0.352123
+err_count                4311.7     33.2401      4233          4263          4326          4310          4289          4311          4399          4357          4275          4354
+logloss                  1.17994    0.00185328   1.17483       1.1789        1.18328       1.1802        1.17948       1.17805       1.18365       1.17962       1.17828       1.18307
+max_per_class_error      1          0            1             1             1             1             1             1             1             1             1             1
+mean_per_class_accuracy  0.290576   0.0261449    0.255015      0.233478      0.270246      0.307348      0.2652        0.309377      0.282654      0.297981      0.373858      0.310599
+mean_per_class_error     0.709424   0.0261449    0.744985      0.766522      0.729754      0.692652      0.7348        0.690623      0.717346      0.702019      0.626143      0.689401
+mse                      0.468715   0.000637899  0.467009      0.468355      0.469895      0.468892      0.468487      0.467997      0.470067      0.468537      0.468203      0.469708
+r2                       -0.246525  0.0293945    -0.272218     -0.289859     -0.19111      -0.288265     -0.190611     -0.277213     -0.251784     -0.193241     -0.293119     -0.217825
+rmse                     0.684627   0.000465887  0.683381      0.684364      0.685489      0.684756      0.684461      0.684103      0.685615      0.684498      0.684254      0.685352
+Scoring History: 
+    timestamp            duration    number_of_trees    training_rmse    training_logloss    training_classification_error
+--  -------------------  ----------  -----------------  ---------------  ------------------  -------------------------------
+    2021-01-22 15:30:05  13.757 sec  0                  0.857143         1.94591             0.52984
+    2021-01-22 15:30:05  13.793 sec  1                  0.813161         1.68308             0.346604
+    2021-01-22 15:30:05  13.819 sec  2                  0.774631         1.50247             0.346572
+    2021-01-22 15:30:05  13.843 sec  3                  0.740929         1.36938             0.346572
+    2021-01-22 15:30:05  13.867 sec  4                  0.711223         1.26587             0.346572
+    2021-01-22 15:30:05  13.892 sec  5                  0.684598         1.17973             0.346572
+Variable Importances: 
+variable    relative_importance    scaled_importance    percentage
+----------  ---------------------  -------------------  ------------
+C6          14072.5                1                    0.531879
+C4          10498.2                0.746011             0.396787
+C8          1149.83                0.0817074            0.0434584
+C2          628.376                0.0446528            0.0237499
+C10         64.1612                0.00455933           0.00242501
+C3          15.3374                0.00108989           0.000579688
+C5          10.7171                0.000761567          0.000405061
+C9          10.3323                0.000734217          0.000390514
+C7          8.62122                0.00061263           0.000325845
+gbm Model Build progress: [###############################################] 100%
+Model Details
+=============
+H2OGradientBoostingEstimator :  Gradient Boosting Machine
+Model Key:  gbm_grid_model_9
+
+Model Summary: 
+    number_of_trees    number_of_internal_trees    model_size_in_bytes    min_depth    max_depth    mean_depth    min_leaves    max_leaves    mean_leaves
+--  -----------------  --------------------------  ---------------------  -----------  -----------  ------------  ------------  ------------  -------------
+    5                  35                          3688                   2            2            2             3             4             3.8
+
+
+ModelMetricsMultinomial: gbm
+** Reported on train data. **
+
+MSE: 0.47112781896235917
+RMSE: 0.6863875136993381
+LogLoss: 1.1824417132314284
+Mean Per-Class Error: 0.7067252911804639
+Confusion Matrix: Row labels: Actual class; Column labels: Predicted class
+
+1      2      3     4    5    6    7    Error     Rate
+-----  -----  ----  ---  ---  ---  ---  --------  ----------------
+23403  30227  0     0    0    0    0    0.563621  30,227 / 53,630
+7837   58980  0     0    0    0    0    0.117291  7,837 / 66,817
+1082   1079   984   0    0    0    0    0.687122  2,161 / 3,145
+86     142    0     0    0    0    0    1         228 / 228
+14     241    0     0    0    0    0    1         255 / 255
+131    55     49    0    0    19   0    0.925197  235 / 254
+19     14     0     0    0    1    18   0.653846  34 / 52
+32572  90738  1033  0    0    20   18   0.329447  40,977 / 124,381
+Top-7 Hit Ratios: 
+k    hit_ratio
+---  -----------
+1    0.670553
+2    0.976612
+3    0.99643
+4    0.9991
+5    0.999944
+6    1
+7    1
+
+ModelMetricsMultinomial: gbm
+** Reported on cross-validation data. **
+
+MSE: 0.4712216626129397
+RMSE: 0.6864558708416293
+LogLoss: 1.182680791996037
+Mean Per-Class Error: 0.7112247287507676
+Confusion Matrix: Row labels: Actual class; Column labels: Predicted class
+
+1      2      3     4    5    6    7    Error     Rate
+-----  -----  ----  ---  ---  ---  ---  --------  ----------------
+23403  30227  0     0    0    0    0    0.563621  30,227 / 53,630
+7837   58980  0     0    0    0    0    0.117291  7,837 / 66,817
+1082   1079   984   0    0    0    0    0.687122  2,161 / 3,145
+86     142    0     0    0    0    0    1         228 / 228
+14     241    0     0    0    0    0    1         255 / 255
+139    55     49    0    0    11   0    0.956693  243 / 254
+19     14     0     0    0    1    18   0.653846  34 / 52
+32580  90738  1033  0    0    12   18   0.329512  40,985 / 124,381
+Top-7 Hit Ratios: 
+k    hit_ratio
+---  -----------
+1    0.670488
+2    0.976636
+3    0.996358
+4    0.998995
+5    0.999839
+6    0.999984
+7    1
+Cross-Validation Metrics Summary: 
+                         mean       sd           cv_1_valid    cv_2_valid    cv_3_valid    cv_4_valid    cv_5_valid    cv_6_valid    cv_7_valid    cv_8_valid    cv_9_valid    cv_10_valid
+-----------------------  ---------  -----------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  -------------
+accuracy                 0.670483   0.00263531   0.677857      0.67343       0.666398      0.668149      0.671223      0.673149      0.665947      0.672599      0.670169      0.665912
+err                      0.329517   0.00263531   0.322143      0.32657       0.333602      0.331851      0.328777      0.326851      0.334053      0.327401      0.329831      0.334088
+err_count                4098.5     32.9943      4011          4040          4145          4105          4089          4084          4178          4121          4081          4131
+logloss                  1.18268    0.00171611   1.17894       1.18084       1.18605       1.18321       1.18298       1.17967       1.18544       1.18279       1.181         1.18589
+max_per_class_error      1          0            1             1             1             1             1             1             1             1             1             1
+mean_per_class_accuracy  0.289538   0.0265385    0.254799      0.232499      0.269083      0.302385      0.259898      0.312354      0.283772      0.297687      0.374262      0.308644
+mean_per_class_error     0.710462   0.0265385    0.745201      0.767501      0.730917      0.697615      0.740102      0.687646      0.716228      0.702313      0.625737      0.691357
+mse                      0.471222   0.000598454  0.47          0.470433      0.472376      0.471765      0.471118      0.47004       0.472187      0.471328      0.470803      0.472169
+r2                       -0.253188  0.0294656    -0.280367     -0.295583     -0.197399     -0.296161     -0.197297     -0.282789     -0.257428     -0.200349     -0.300299     -0.224206
+rmse                     0.686456   0.000435921  0.685566      0.685881      0.687296      0.686852      0.68638       0.685595      0.687159      0.686534      0.686151      0.687146
+Scoring History: 
+    timestamp            duration    number_of_trees    training_rmse    training_logloss    training_classification_error
+--  -------------------  ----------  -----------------  ---------------  ------------------  -------------------------------
+    2021-01-22 15:30:20  29.237 sec  0                  0.857143         1.94591             0.52984
+    2021-01-22 15:30:20  29.268 sec  1                  0.81271          1.68126             0.344747
+    2021-01-22 15:30:20  29.297 sec  2                  0.77544          1.5048              0.329544
+    2021-01-22 15:30:20  29.316 sec  3                  0.744067         1.37718             0.329504
+    2021-01-22 15:30:20  29.337 sec  4                  0.71291          1.2672              0.329504
+    2021-01-22 15:30:20  29.358 sec  5                  0.686388         1.18244             0.329447
+Variable Importances: 
+variable    relative_importance    scaled_importance    percentage
+----------  ---------------------  -------------------  ------------
+C4          10541.8                1                    0.437654
+C6          7773.43                0.737391             0.322722
+C8          4462.56                0.42332              0.185268
+C2          1141.14                0.108249             0.0473755
+C5          119.977                0.0113811            0.00498097
+C10         26.4956                0.00251339           0.00109999
+C9          18.703                 0.00177418           0.000776476
+C7          2.97531                0.000282239          0.000123523
+C3          0                      0                    0
+gbm Model Build progress: [###############################################] 100%
+Model Details
+=============
+H2OGradientBoostingEstimator :  Gradient Boosting Machine
+Model Key:  gbm_grid_model_5
+
+Model Summary: 
+    number_of_trees    number_of_internal_trees    model_size_in_bytes    min_depth    max_depth    mean_depth    min_leaves    max_leaves    mean_leaves
+--  -----------------  --------------------------  ---------------------  -----------  -----------  ------------  ------------  ------------  -------------
+    5                  35                          3657                   2            2            1.91429       1             4             3.71429
+
+
+ModelMetricsMultinomial: gbm
+** Reported on train data. **
+
+MSE: 0.4871812035255613
+RMSE: 0.6979836699562256
+LogLoss: 1.2143079097171992
+Mean Per-Class Error: 0.7957262357223732
+Confusion Matrix: Row labels: Actual class; Column labels: Predicted class
+
+1      2      3    4    5    6    7    Error      Rate
+-----  -----  ---  ---  ---  ---  ---  ---------  ----------------
+21640  31990  0    0    0    0    0    0.596494   31,990 / 53,630
+6151   60666  0    0    0    0    0    0.0920574  6,151 / 66,817
+1881   1040   224  0    0    0    0    0.928776   2,921 / 3,145
+119    109    0    0    0    0    0    1          228 / 228
+5      250    0    0    0    0    0    1          255 / 255
+174    66     2    0    0    12   0    0.952756   242 / 254
+18     15     18   0    0    1    0    1          52 / 52
+29988  94136  244  0    0    13   0    0.336378   41,839 / 124,381
+Top-7 Hit Ratios: 
+k    hit_ratio
+---  -----------
+1    0.663622
+2    0.975607
+3    0.983824
+4    0.996165
+5    0.999293
+6    0.999968
+7    1
+
+ModelMetricsMultinomial: gbm
+** Reported on cross-validation data. **
+
+MSE: 0.48723539902580765
+RMSE: 0.6980224917764525
+LogLoss: 1.2144643629520742
+Mean Per-Class Error: 0.7977006435790539
+Confusion Matrix: Row labels: Actual class; Column labels: Predicted class
+
+1      2      3    4    5    6    7    Error      Rate
+-----  -----  ---  ---  ---  ---  ---  ---------  ----------------
+21818  31812  0    0    0    0    0    0.593175   31,812 / 53,630
+6244   60573  0    0    0    0    0    0.0934493  6,244 / 66,817
+1888   1033   224  0    0    0    0    0.928776   2,921 / 3,145
+121    107    0    0    0    0    0    1          228 / 228
+5      250    0    0    0    0    0    1          255 / 255
+174    70     2    0    0    8    0    0.968504   246 / 254
+18     15     18   0    0    1    0    1          52 / 52
+30268  93860  244  0    0    9    0    0.335727   41,758 / 124,381
+Top-7 Hit Ratios: 
+k    hit_ratio
+---  -----------
+1    0.664273
+2    0.975551
+3    0.984178
+4    0.995988
+5    0.999494
+6    0.99996
+7    1
+Cross-Validation Metrics Summary: 
+                         mean       sd           cv_1_valid    cv_2_valid    cv_3_valid    cv_4_valid    cv_5_valid    cv_6_valid    cv_7_valid    cv_8_valid    cv_9_valid    cv_10_valid
+-----------------------  ---------  -----------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  -------------
+accuracy                 0.664272   0.00277881   0.671432      0.667852      0.662616      0.66055       0.66672       0.665146      0.658111      0.665369      0.665724      0.659199
+err                      0.335728   0.00277881   0.328568      0.332148      0.337384      0.33945       0.33328       0.334854      0.341889      0.334631      0.334276      0.340801
+err_count                4175.8     37.3253      4091          4109          4192          4199          4145          4184          4276          4212          4136          4214
+logloss                  1.21446    0.00131583   1.21256       1.21237       1.21599       1.21399       1.21478       1.21217       1.21667       1.2154        1.21296       1.21774
+max_per_class_error      1          0            1             1             1             1             1             1             1             1             1             1
+mean_per_class_accuracy  0.202089   0.0034693    0.198495      0.20225       0.200095      0.212158      0.20528       0.198453      0.199066      0.209408      0.197503      0.198179
+mean_per_class_error     0.797911   0.0034693    0.801505      0.79775       0.799905      0.787842      0.794721      0.801547      0.800934      0.790592      0.802496      0.801821
+mse                      0.487235   0.00040235   0.486723      0.486413      0.487584      0.487218      0.487229      0.486552      0.488009      0.487494      0.48692       0.488208
+r2                       -0.295786  0.0306956    -0.325923     -0.339592     -0.235948     -0.338618     -0.238242     -0.327851     -0.299564     -0.241519     -0.344812     -0.26579
+rmse                     0.698022   0.000288188  0.697656      0.697433      0.698272      0.69801       0.698018      0.697533      0.698577      0.698208      0.697796      0.698719
+Scoring History: 
+    timestamp            duration    number_of_trees    training_rmse    training_logloss    training_classification_error
+--  -------------------  ----------  -----------------  ---------------  ------------------  -------------------------------
+    2021-01-22 15:30:08  16.714 sec  0                  0.857143         1.94591             0.52984
+    2021-01-22 15:30:08  16.743 sec  1                  0.814817         1.69196             0.377341
+    2021-01-22 15:30:08  16.762 sec  2                  0.782769         1.53516             0.352988
+    2021-01-22 15:30:08  16.787 sec  3                  0.752618         1.40812             0.361052
+    2021-01-22 15:30:08  16.810 sec  4                  0.723304         1.29937             0.342375
+    2021-01-22 15:30:08  16.834 sec  5                  0.697984         1.21431             0.336378
+Variable Importances: 
+variable    relative_importance    scaled_importance    percentage
+----------  ---------------------  -------------------  ------------
+C4          5578.92                1                    0.360179
+C6          5123.79                0.918418             0.330795
+C8          3017.14                0.54081              0.194788
+C2          1177.76                0.211108             0.0760367
+C10         260.287                0.0466553            0.0168043
+C9          170.851                0.0306244            0.0110303
+C5          120.452                0.0215905            0.00777643
+C7          40.1194                0.00719125           0.00259014
+C3          0                      0                    0
+gbm Model Build progress: [###############################################] 100%
+Model Details
+=============
+H2OGradientBoostingEstimator :  Gradient Boosting Machine
+Model Key:  gbm_grid_model_8
+
+Model Summary: 
+    number_of_trees    number_of_internal_trees    model_size_in_bytes    min_depth    max_depth    mean_depth    min_leaves    max_leaves    mean_leaves
+--  -----------------  --------------------------  ---------------------  -----------  -----------  ------------  ------------  ------------  -------------
+    5                  35                          3728                   2            2            2             3             4             3.88571
+
+
+ModelMetricsMultinomial: gbm
+** Reported on train data. **
+
+MSE: 0.48923366455064493
+RMSE: 0.6994524033489662
+LogLoss: 1.2179699046150585
+Mean Per-Class Error: 0.8130368710074186
+Confusion Matrix: Row labels: Actual class; Column labels: Predicted class
+
+1      2      3    4    5    6    7    Error      Rate
+-----  -----  ---  ---  ---  ---  ---  ---------  ----------------
+19271  34359  0    0    0    0    0    0.640668   34,359 / 53,630
+6622   60195  0    0    0    0    0    0.0991065  6,622 / 66,817
+2113   1028   4    0    0    0    0    0.998728   3,141 / 3,145
+86     142    0    0    0    0    0    1          228 / 228
+14     241    0    0    0    0    0    1          255 / 255
+151    88     3    0    0    12   0    0.952756   242 / 254
+37     15     0    0    0    0    0    1          52 / 52
+28294  96068  7    0    0    12   0    0.36098    44,899 / 124,381
+Top-7 Hit Ratios: 
+k    hit_ratio
+---  -----------
+1    0.63902
+2    0.975229
+3    0.996061
+4    0.99926
+5    0.999679
+6    0.99996
+7    1
+
+ModelMetricsMultinomial: gbm
+** Reported on cross-validation data. **
+
+MSE: 0.49042952352415603
+RMSE: 0.7003067353125744
+LogLoss: 1.220966632555946
+Mean Per-Class Error: 0.8156087634135877
+Confusion Matrix: Row labels: Actual class; Column labels: Predicted class
+
+1      2      3    4    5    6    7    Error      Rate
+-----  -----  ---  ---  ---  ---  ---  ---------  ----------------
+19134  34496  0    0    0    0    0    0.643222   34,496 / 53,630
+6602   60215  0    0    0    0    0    0.0988072  6,602 / 66,817
+2113   1028   4    0    0    0    0    0.998728   3,141 / 3,145
+86     142    0    0    0    0    0    1          228 / 228
+14     241    0    0    0    0    0    1          255 / 255
+150    91     5    0    0    8    0    0.968504   246 / 254
+37     15     0    0    0    0    0    1          52 / 52
+28136  96228  9    0    0    8    0    0.361952   45,020 / 124,381
+Top-7 Hit Ratios: 
+k    hit_ratio
+---  -----------
+1    0.638048
+2    0.974835
+3    0.992362
+4    0.998561
+5    0.999614
+6    0.999976
+7    1
+Cross-Validation Metrics Summary: 
+                         mean       sd           cv_1_valid    cv_2_valid    cv_3_valid    cv_4_valid    cv_5_valid    cv_6_valid    cv_7_valid    cv_8_valid    cv_9_valid    cv_10_valid
+-----------------------  ---------  -----------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  -------------
+accuracy                 0.638048   0.00344547   0.646775      0.642955      0.637264      0.637187      0.639865      0.640896      0.632926      0.635576      0.638568      0.628467
+err                      0.361952   0.00344547   0.353225      0.357045      0.362736      0.362813      0.360135      0.359104      0.367074      0.364424      0.361432      0.371533
+err_count                4502       46.6508      4398          4417          4507          4488          4479          4487          4591          4587          4472          4594
+logloss                  1.22097    0.00233293   1.2155        1.21604       1.21969       1.22366       1.22413       1.2221        1.22603       1.21928       1.22321       1.22001
+max_per_class_error      1          0            1             1             1             1             1             1             1             1             1             1
+mean_per_class_accuracy  0.184227   0.00419832   0.181671      0.18698       0.183008      0.198721      0.18538       0.179383      0.178628      0.189307      0.180592      0.178597
+mean_per_class_error     0.815773   0.00419832   0.818329      0.81302       0.816992      0.801279      0.81462       0.820617      0.821372      0.810693      0.819408      0.821403
+mse                      0.490429   0.000920325  0.488634      0.488608      0.489489      0.491737      0.491533      0.491085      0.492284      0.489656      0.491643      0.489622
+r2                       -0.304326  0.0319243    -0.331129     -0.345639     -0.240778     -0.351032     -0.249179     -0.340221     -0.310946     -0.247026     -0.357858     -0.269457
+rmse                     0.700306   0.00065712   0.699024      0.699005      0.699635      0.701239      0.701094      0.700774      0.701629      0.699754      0.701173      0.69973
+Scoring History: 
+    timestamp            duration    number_of_trees    training_rmse    training_logloss    training_classification_error
+--  -------------------  ----------  -----------------  ---------------  ------------------  -------------------------------
+    2021-01-22 15:30:17  26.134 sec  0                  0.857143         1.94591             0.52984
+    2021-01-22 15:30:17  26.178 sec  1                  0.815412         1.694               0.374366
+    2021-01-22 15:30:17  26.197 sec  2                  0.781622         1.52942             0.374366
+    2021-01-22 15:30:17  26.216 sec  3                  0.75291          1.4081              0.374294
+    2021-01-22 15:30:17  26.235 sec  4                  0.727398         1.31212             0.377984
+    2021-01-22 15:30:17  26.255 sec  5                  0.699452         1.21797             0.36098
+Variable Importances: 
+variable    relative_importance    scaled_importance    percentage
+----------  ---------------------  -------------------  ------------
+C6          6576.75                1                    0.483827
+C4          4752.03                0.72255              0.349589
+C8          1212.25                0.184323             0.0891804
+C10         626.104                0.0951995            0.0460601
+C2          232.138                0.0352967            0.0170775
+C9          115.411                0.0175484            0.00849038
+C7          40.68                  0.00618543           0.00299268
+C5          37.8311                0.00575224           0.00278309
+C3          0                      0                    0
+gbm Model Build progress: [###############################################] 100%
+Model Details
+=============
+H2OGradientBoostingEstimator :  Gradient Boosting Machine
+Model Key:  gbm_grid_model_7
+
+Model Summary: 
+    number_of_trees    number_of_internal_trees    model_size_in_bytes    min_depth    max_depth    mean_depth    min_leaves    max_leaves    mean_leaves
+--  -----------------  --------------------------  ---------------------  -----------  -----------  ------------  ------------  ------------  -------------
+    5                  35                          3621                   2            2            1.88571       1             4             3.62857
+
+
+ModelMetricsMultinomial: gbm
+** Reported on train data. **
+
+MSE: 0.4908836376263
+RMSE: 0.7006308854356194
+LogLoss: 1.2229015189359143
+Mean Per-Class Error: 0.7677563286001432
+Confusion Matrix: Row labels: Actual class; Column labels: Predicted class
+
+1      2      3     4    5    6    7    Error     Rate
+-----  -----  ----  ---  ---  ---  ---  --------  ----------------
+16044  37586  0     0    0    0    0    0.700839  37,586 / 53,630
+6073   60744  0     0    0    0    0    0.09089   6,073 / 66,817
+1112   1024   1009  0    0    0    0    0.679173  2,136 / 3,145
+86     142    0     0    0    0    0    1         228 / 228
+14     241    0     0    0    0    0    1         255 / 255
+106    84     59    0    0    5    0    0.980315  249 / 254
+27     18     1     0    0    2    4    0.923077  48 / 52
+23462  99839  1069  0    0    7    4    0.374454  46,575 / 124,381
+Top-7 Hit Ratios: 
+k    hit_ratio
+---  -----------
+1    0.625546
+2    0.977722
+3    0.980608
+4    0.998038
+5    0.999638
+6    1
+7    1
+
+ModelMetricsMultinomial: gbm
+** Reported on cross-validation data. **
+
+MSE: 0.49061214707404194
+RMSE: 0.7004371114340259
+LogLoss: 1.2222672000139914
+Mean Per-Class Error: 0.7629150999515962
+Confusion Matrix: Row labels: Actual class; Column labels: Predicted class
+
+1      2      3     4    5    6    7    Error     Rate
+-----  -----  ----  ---  ---  ---  ---  --------  ----------------
+16044  37586  0     0    0    0    0    0.700839  37,586 / 53,630
+6073   60744  0     0    0    0    0    0.09089   6,073 / 66,817
+1114   1024   1007  0    0    0    0    0.679809  2,138 / 3,145
+86     142    0     0    0    0    0    1         228 / 228
+14     241    0     0    0    0    0    1         255 / 255
+106    84     60    0    0    4    0    0.984252  250 / 254
+27     16     1     0    0    2    6    0.884615  46 / 52
+23464  99837  1068  0    0    6    6    0.374462  46,576 / 124,381
+Top-7 Hit Ratios: 
+k    hit_ratio
+---  -----------
+1    0.625538
+2    0.977521
+3    0.981516
+4    0.998046
+5    0.999622
+6    0.999992
+7    1
+Cross-Validation Metrics Summary: 
+                         mean       sd           cv_1_valid    cv_2_valid    cv_3_valid    cv_4_valid    cv_5_valid    cv_6_valid    cv_7_valid    cv_8_valid    cv_9_valid    cv_10_valid
+-----------------------  ---------  -----------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  -------------
+accuracy                 0.625535   0.00216517   0.629588      0.628648      0.626237      0.624495      0.626276      0.629772      0.621092      0.625566      0.622323      0.621351
+err                      0.374465   0.00216517   0.370412      0.371352      0.373763      0.375505      0.373724      0.370228      0.378908      0.374434      0.377677      0.378649
+err_count                4657.6     30.0719      4612          4594          4644          4645          4648          4626          4739          4713          4673          4682
+logloss                  1.22226    0.00169722   1.2196        1.22109       1.22511       1.22297       1.22373       1.22023       1.22549       1.22418       1.22244       1.21778
+max_per_class_error      1          0            1             1             1             1             1             1             1             1             1             1
+mean_per_class_accuracy  0.236269   0.0142779    0.238221      0.212505      0.237245      0.234161      0.221359      0.249932      0.216934      0.225887      0.287303      0.239137
+mean_per_class_error     0.763732   0.0142779    0.761779      0.787495      0.762755      0.765839      0.778641      0.750068      0.783066      0.774113      0.712697      0.760863
+mse                      0.49061    0.000662147  0.489872      0.490148      0.491465      0.491075      0.491091      0.490042      0.491764      0.491279      0.490908      0.488455
+r2                       -0.304779  0.0313261    -0.334502     -0.349877     -0.245787     -0.349214     -0.248056     -0.337376     -0.309563     -0.251158     -0.355828     -0.266433
+rmse                     0.700435   0.000472888  0.699909      0.700105      0.701045      0.700767      0.700779      0.70003       0.701259      0.700913      0.700649      0.698896
+Scoring History: 
+    timestamp            duration    number_of_trees    training_rmse    training_logloss    training_classification_error
+--  -------------------  ----------  -----------------  ---------------  ------------------  -------------------------------
+    2021-01-22 15:30:14  23.179 sec  0                  0.857143         1.94591             0.52984
+    2021-01-22 15:30:14  23.227 sec  1                  0.815327         1.69353             0.373256
+    2021-01-22 15:30:14  23.247 sec  2                  0.779089         1.52                0.366865
+    2021-01-22 15:30:14  23.266 sec  3                  0.752628         1.4086              0.371697
+    2021-01-22 15:30:14  23.286 sec  4                  0.729286         1.32032             0.372412
+    2021-01-22 15:30:14  23.306 sec  5                  0.700631         1.2229              0.374454
+Variable Importances: 
+variable    relative_importance    scaled_importance    percentage
+----------  ---------------------  -------------------  ------------
+C6          9316.67                1                    0.573148
+C4          4478.09                0.480654             0.275486
+C8          1180.23                0.126679             0.072606
+C10         879.903                0.0944439            0.0541303
+C2          235.68                 0.0252966            0.0144987
+C9          105.495                0.0113232            0.00648989
+C5          31.3039                0.00335999           0.00192577
+C7          27.8979                0.00299441           0.00171624
+C3          0                      0                    0
+gbm Model Build progress: [###############################################] 100%
+Model Details
+=============
+H2OGradientBoostingEstimator :  Gradient Boosting Machine
+Model Key:  gbm_grid_model_3
+
+Model Summary: 
+    number_of_trees    number_of_internal_trees    model_size_in_bytes    min_depth    max_depth    mean_depth    min_leaves    max_leaves    mean_leaves
+--  -----------------  --------------------------  ---------------------  -----------  -----------  ------------  ------------  ------------  -------------
+    5                  35                          3555                   2            2            1.91429       1             4             3.48571
+
+
+ModelMetricsMultinomial: gbm
+** Reported on train data. **
+
+MSE: 0.5030118616634626
+RMSE: 0.7092332914235362
+LogLoss: 1.2488360203889286
+Mean Per-Class Error: 0.8278676184575138
+Confusion Matrix: Row labels: Actual class; Column labels: Predicted class
+
+1      2      3    4    5    6    7    Error     Rate
+-----  -----  ---  ---  ---  ---  ---  --------  ----------------
+16579  37051  0    0    0    0    0    0.690863  37,051 / 53,630
+6963   59854  0    0    0    0    0    0.10421   6,963 / 66,817
+1366   1779   0    0    0    0    0    1         3,145 / 3,145
+167    61     0    0    0    0    0    1         228 / 228
+19     236    0    0    0    0    0    1         255 / 255
+109    145    0    0    0    0    0    1         254 / 254
+20     32     0    0    0    0    0    1         52 / 52
+25223  99158  0    0    0    0    0    0.385493  47,948 / 124,381
+Top-7 Hit Ratios: 
+k    hit_ratio
+---  -----------
+1    0.614507
+2    0.968371
+3    0.987353
+4    0.995787
+5    0.999614
+6    0.999968
+7    1
+
+ModelMetricsMultinomial: gbm
+** Reported on cross-validation data. **
+
+MSE: 0.5040970231575113
+RMSE: 0.7099979036289553
+LogLoss: 1.2517588196727372
+Mean Per-Class Error: 0.8287396755297226
+Confusion Matrix: Row labels: Actual class; Column labels: Predicted class
+
+1      2       3    4    5    6    7    Error      Rate
+-----  ------  ---  ---  ---  ---  ---  ---------  ----------------
+16002  37628   0    0    0    0    0    0.701622   37,628 / 53,630
+6652   60165   0    0    0    0    0    0.0995555  6,652 / 66,817
+1331   1814    0    0    0    0    0    1          3,145 / 3,145
+156    72      0    0    0    0    0    1          228 / 228
+18     237     0    0    0    0    0    1          255 / 255
+109    145     0    0    0    0    0    1          254 / 254
+20     32      0    0    0    0    0    1          52 / 52
+24288  100093  0    0    0    0    0    0.387632   48,214 / 124,381
+Top-7 Hit Ratios: 
+k    hit_ratio
+---  -----------
+1    0.612368
+2    0.968653
+3    0.985617
+4    0.99668
+5    0.999558
+6    0.99996
+7    1
+Cross-Validation Metrics Summary: 
+                         mean       sd          cv_1_valid    cv_2_valid    cv_3_valid    cv_4_valid    cv_5_valid    cv_6_valid    cv_7_valid    cv_8_valid    cv_9_valid    cv_10_valid
+-----------------------  ---------  ----------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  -------------
+accuracy                 0.612391   0.00541244  0.619549      0.617088      0.616097      0.613015      0.614216      0.619528      0.611977      0.591563      0.611574      0.6093
+err                      0.387609   0.00541244  0.380451      0.382912      0.383903      0.386985      0.385784      0.380472      0.388023      0.408437      0.388426      0.3907
+err_count                4821.4     79.5721     4737          4737          4770          4787          4798          4754          4853          5141          4806          4831
+logloss                  1.25173    0.00553867  1.24622       1.24018       1.24311       1.25468       1.25607       1.25286       1.25676       1.268         1.25462       1.24478
+max_per_class_error      1          0           1             1             1             1             1             1             1             1             1             1
+mean_per_class_accuracy  0.171289   0.00168575  0.172904      0.172213      0.171342      0.17146       0.172937      0.172191      0.171868      0.164315      0.171465      0.172191
+mean_per_class_error     0.828711   0.00168575  0.827095      0.827787      0.828658      0.82854       0.827063      0.827809      0.828132      0.835685      0.828535      0.827809
+mse                      0.504086   0.00217302  0.502184      0.499459      0.500311      0.505559      0.505875      0.504915      0.50615       0.509842      0.505564      0.500999
+r2                       -0.340594  0.0321265   -0.36804      -0.37552      -0.268211     -0.389009     -0.285629     -0.377964     -0.347872     -0.298433     -0.396304     -0.298953
+rmse                     0.709987   0.00153015  0.708649      0.706724      0.707327      0.711027      0.711249      0.710574      0.711442      0.714032      0.71103       0.707812
+Scoring History: 
+    timestamp            duration    number_of_trees    training_rmse    training_logloss    training_classification_error
+--  -------------------  ----------  -----------------  ---------------  ------------------  -------------------------------
+    2021-01-22 15:30:01  10.547 sec  0                  0.857143         1.94591             0.52984
+    2021-01-22 15:30:02  10.575 sec  1                  0.81579          1.6958              0.376898
+    2021-01-22 15:30:02  10.593 sec  2                  0.783777         1.5377              0.378008
+    2021-01-22 15:30:02  10.611 sec  3                  0.755333         1.41653             0.377453
+    2021-01-22 15:30:02  10.629 sec  4                  0.732544         1.3299              0.385493
+    2021-01-22 15:30:02  10.646 sec  5                  0.709233         1.24884             0.385493
+Variable Importances: 
+variable    relative_importance    scaled_importance    percentage
+----------  ---------------------  -------------------  ------------
+C6          5613.07                1                    0.851592
+C10         772.471                0.13762              0.117196
+C2          104.218                0.0185671            0.0158116
+C9          65.5966                0.0116864            0.00995205
+C7          26.1799                0.00466409           0.0039719
+C5          9.72793                0.00173308           0.00147588
+C3          0                      0                    0
+C4          0                      0                    0
+C8          0                      0                    0
+gbm Model Build progress: [###############################################] 100%
+Model Details
+=============
+H2OGradientBoostingEstimator :  Gradient Boosting Machine
+Model Key:  gbm_grid_model_2
+
+Model Summary: 
+    number_of_trees    number_of_internal_trees    model_size_in_bytes    min_depth    max_depth    mean_depth    min_leaves    max_leaves    mean_leaves
+--  -----------------  --------------------------  ---------------------  -----------  -----------  ------------  ------------  ------------  -------------
+    5                  35                          3565                   2            2            1.77143       1             4             3.48571
+
+
+ModelMetricsMultinomial: gbm
+** Reported on train data. **
+
+MSE: 0.5059568326185364
+RMSE: 0.7113064266675343
+LogLoss: 1.259906158873915
+Mean Per-Class Error: 0.8194783486319241
+Confusion Matrix: Row labels: Actual class; Column labels: Predicted class
+
+1      2       3    4    5    6    7    Error      Rate
+-----  ------  ---  ---  ---  ---  ---  ---------  ----------------
+15392  38238   0    0    0    0    0    0.712996   38,238 / 53,630
+4802   62015   0    0    0    0    0    0.0718679  4,802 / 66,817
+2102   1039    4    0    0    0    0    0.998728   3,141 / 3,145
+86     142     0    0    0    0    0    1          228 / 228
+1      254     0    0    0    0    0    1          255 / 255
+148    91      3    0    0    12   0    0.952756   242 / 254
+37     15      0    0    0    0    0    1          52 / 52
+22568  101794  7    0    0    12   0    0.377534   46,958 / 124,381
+Top-7 Hit Ratios: 
+k    hit_ratio
+---  -----------
+1    0.622466
+2    0.97539
+3    0.980375
+4    0.997894
+5    0.999614
+6    1
+7    1
+
+ModelMetricsMultinomial: gbm
+** Reported on cross-validation data. **
+
+MSE: 0.5059885522483959
+RMSE: 0.7113287230587528
+LogLoss: 1.2600358810570782
+Mean Per-Class Error: 0.8217444718889911
+Confusion Matrix: Row labels: Actual class; Column labels: Predicted class
+
+1      2       3    4    5    6    7    Error      Rate
+-----  ------  ---  ---  ---  ---  ---  ---------  ----------------
+15434  38196   0    0    0    0    0    0.712213   38,196 / 53,630
+4862   61955   0    0    0    0    0    0.0727659  4,862 / 66,817
+2102   1039    4    0    0    0    0    0.998728   3,141 / 3,145
+86     142     0    0    0    0    0    1          228 / 228
+3      252     0    0    0    0    0    1          255 / 255
+147    94      5    0    0    8    0    0.968504   246 / 254
+36     15      0    0    0    1    0    1          52 / 52
+22670  101693  9    0    0    9    0    0.37771    46,980 / 124,381
+Top-7 Hit Ratios: 
+k    hit_ratio
+---  -----------
+1    0.62229
+2    0.975213
+3    0.980254
+4    0.997845
+5    0.999518
+6    0.999984
+7    1
+Cross-Validation Metrics Summary: 
+                         mean       sd           cv_1_valid    cv_2_valid    cv_3_valid    cv_4_valid    cv_5_valid    cv_6_valid    cv_7_valid    cv_8_valid    cv_9_valid    cv_10_valid
+-----------------------  ---------  -----------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  -------------
+accuracy                 0.622291   0.00289942   0.629508      0.62889       0.622455      0.621908      0.620407      0.62457       0.616375      0.621673      0.619009      0.618116
+err                      0.377709   0.00289942   0.370492      0.37111       0.377545      0.378092      0.379593      0.37543       0.383625      0.378327      0.380991      0.381884
+err_count                4698       41.6353      4613          4591          4691          4677          4721          4691          4798          4762          4714          4722
+logloss                  1.26003    0.00149405   1.25674       1.25728       1.26131       1.25974       1.26121       1.25752       1.2628        1.26144       1.25961       1.26267
+max_per_class_error      1          0            1             1             1             1             1             1             1             1             1             1
+mean_per_class_accuracy  0.178086   0.0042667    0.174947      0.181208      0.176698      0.192674      0.178225      0.172986      0.172361      0.183998      0.173298      0.174469
+mean_per_class_error     0.821914   0.0042667    0.825053      0.818792      0.823302      0.807326      0.821775      0.827014      0.827639      0.816002      0.826702      0.82553
+mse                      0.505988   0.000485014  0.504971      0.504984      0.506224      0.506016      0.506323      0.50513       0.506921      0.506485      0.506039      0.506787
+r2                       -0.345654  0.0317846    -0.375632     -0.390738     -0.283199     -0.390265     -0.286767     -0.378552     -0.349925     -0.289883     -0.397616     -0.31396
+rmse                     0.711328   0.000340964  0.710613      0.710622      0.711494      0.711348      0.711564      0.710725      0.711984      0.711677      0.711364      0.711889
+Scoring History: 
+    timestamp            duration    number_of_trees    training_rmse    training_logloss    training_classification_error
+--  -------------------  ----------  -----------------  ---------------  ------------------  -------------------------------
+    2021-01-22 15:29:59  7.694 sec   0                  0.857143         1.94591             0.52984
+    2021-01-22 15:29:59  7.723 sec   1                  0.815412         1.694               0.374366
+    2021-01-22 15:29:59  7.741 sec   2                  0.79148          1.58003             0.373256
+    2021-01-22 15:29:59  7.759 sec   3                  0.764511         1.45935             0.373289
+    2021-01-22 15:29:59  7.777 sec   4                  0.740714         1.36449             0.373843
+    2021-01-22 15:29:59  7.795 sec   5                  0.711306         1.25991             0.377534
+Variable Importances: 
+variable    relative_importance    scaled_importance    percentage
+----------  ---------------------  -------------------  ------------
+C6          6188.5                 1                    0.466592
+C4          4812.66                0.777678             0.362858
+C8          1212.25                0.195887             0.0913993
+C10         639.98                 0.103414             0.0482524
+C2          230.042                0.0371725            0.0173444
+C9          115.198                0.0186149            0.00868557
+C7          38.6866                0.00625137           0.00291684
+C5          25.8738                0.00418094           0.0019508
+C3          0                      0                    0
+gbm Model Build progress: [###############################################] 100%
+Model Details
+=============
+H2ORandomForestEstimator :  Distributed Random Forest
+Model Key:  DRF_model_python_1611325752870_1
+
+Model Summary: 
+    number_of_trees    number_of_internal_trees    model_size_in_bytes    min_depth    max_depth    mean_depth    min_leaves    max_leaves    mean_leaves
+--  -----------------  --------------------------  ---------------------  -----------  -----------  ------------  ------------  ------------  -------------
+    5                  35                          623881                 4            20           16.4          5             6298          1416.6
+
+
+ModelMetricsMultinomial: drf
+** Reported on train data. **
+
+MSE: 0.026856640580844218
+RMSE: 0.1638799578375715
+LogLoss: 0.4332079835563586
+Mean Per-Class Error: 0.16767313105391515
+Confusion Matrix: Row labels: Actual class; Column labels: Predicted class
+
+1      2      3     4    5    6    7    Error       Rate
+-----  -----  ----  ---  ---  ---  ---  ----------  ---------------
+46641  1541   9     2    0    0    0    0.0322038   1,552 / 48,193
+436    59655  4     0    0    6    0    0.00742084  446 / 60,101
+97     58     2652  0    0    13   0    0.0595745   168 / 2,820
+5      2      0     204  0    0    0    0.0331754   7 / 211
+26     4      0     0    193  0    0    0.134529    30 / 223
+43     45     51    0    0    89   1    0.611354    140 / 229
+2      5      4     0    0    2    31   0.295455    13 / 44
+47250  61310  2720  206  193  110  32   0.0210694   2,356 / 111,821
+Top-7 Hit Ratios: 
+k    hit_ratio
+---  -----------
+1    0.978931
+2    0.992613
+3    0.992658
+4    0.992658
+5    0.992658
+6    0.992658
+7    1
+
+ModelMetricsMultinomial: drf
+** Reported on cross-validation data. **
+
+MSE: 0.014957706250909966
+RMSE: 0.12230170174985287
+LogLoss: 0.08121577457482136
+Mean Per-Class Error: 0.10789961805942906
+Confusion Matrix: Row labels: Actual class; Column labels: Predicted class
+
+1      2      3     4    5    6    7    Error       Rate
+-----  -----  ----  ---  ---  ---  ---  ----------  -------------
+53445  184    0     1    0    0    0    0.00344956  185 / 53,630
+397    66414  6     0    0    0    0    0.0060314   403 / 66,817
+31     3      3100  0    0    11   0    0.0143084   45 / 3,145
+0      0      0     228  0    0    0    0           0 / 228
+2      9      0     0    244  0    0    0.0431373   11 / 255
+19     26     81    0    0    128  0    0.496063    126 / 254
+1      0      9     0    0    0    42   0.192308    10 / 52
+53895  66636  3196  229  244  139  42   0.00627105  780 / 124,381
+Top-7 Hit Ratios: 
+k    hit_ratio
+---  -----------
+1    0.993729
+2    0.999116
+3    0.999292
+4    0.999292
+5    0.999301
+6    0.999301
+7    1
+Cross-Validation Metrics Summary: 
+                         mean        sd           cv_1_valid    cv_2_valid    cv_3_valid    cv_4_valid    cv_5_valid    cv_6_valid    cv_7_valid    cv_8_valid    cv_9_valid    cv_10_valid
+-----------------------  ----------  -----------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  -------------
+accuracy                 0.993734    0.000732893  0.992852      0.99418       0.993964      0.994907      0.99413       0.993757      0.993044      0.991261      0.994666      0.994581
+err                      0.00626573  0.000732893  0.00714802    0.00582006    0.00603622    0.00509297    0.00586958    0.0062425     0.0069561     0.00873918    0.00533419    0.00541852
+err_count                78          9.44987      89            72            75            63            73            78            87            110           66            67
+logloss                  0.0811995   0.00366012   0.0768762     0.075616      0.086388      0.0727417     0.087573      0.0869611     0.0866084     0.0821455     0.0776706     0.0794147
+max_per_class_error      0.497496    0.069548     0.388889      0.5           0.516129      0.318182      0.424242      0.590909      0.666667      0.59375       0.47619       0.5
+mean_per_class_accuracy  0.889191    0.0270628    0.894738      0.860361      0.903397      0.930817      0.911286      0.863052      0.797298      0.888067      0.930206      0.912687
+mean_per_class_error     0.110809    0.0270628    0.105262      0.139639      0.0966028     0.069183      0.0887137     0.136948      0.202702      0.111933      0.0697938     0.0873132
+mse                      0.0149543   0.00052564   0.0147335     0.0142095     0.0155842     0.0135288     0.0147186     0.0152834     0.0156556     0.0162852     0.0147696     0.0147744
+r2                       0.960268    0.00115086   0.959863      0.960867      0.960496      0.96283       0.962594      0.95829       0.958309      0.958526      0.959208      0.961694
+rmse                     0.12225     0.00215355   0.121381      0.119203      0.124837      0.116313      0.12132       0.123626      0.125122      0.127614      0.12153       0.12155
+Scoring History: 
+    timestamp            duration    number_of_trees    training_rmse    training_logloss    training_classification_error
+--  -------------------  ----------  -----------------  ---------------  ------------------  -------------------------------
+    2021-01-22 15:29:42  12.127 sec  0                  nan              nan                 nan
+    2021-01-22 15:29:42  12.535 sec  1                  0.244014         1.43942             0.0538917
+    2021-01-22 15:29:42  12.882 sec  2                  0.207091         0.922744            0.0381858
+    2021-01-22 15:29:43  12.992 sec  3                  0.189381         0.717024            0.0304581
+    2021-01-22 15:29:43  13.100 sec  4                  0.176524         0.568494            0.0253872
+    2021-01-22 15:29:43  13.179 sec  5                  0.16388          0.433208            0.0210694
+Variable Importances: 
+variable    relative_importance    scaled_importance    percentage
+----------  ---------------------  -------------------  ------------
+C6          55172.1                1                    0.279306
+C4          48918.4                0.886652             0.247647
+C8          48045.5                0.87083              0.243228
+C10         19614.9                0.355523             0.0992996
+C2          10835.9                0.196401             0.0548561
+C5          4564.21                0.0827268            0.0231061
+C7          4280.19                0.0775789            0.0216683
+C3          3506.8                 0.0635611            0.017753
+C9          2594.7                 0.0470291            0.0131355
+drf Model Build progress: [###############################################] 100%
+stackedensemble Model Build progress: [###################################] 100%
+Parse progress: [#########################################################] 100%
+stackedensemble prediction progress: [####################################] 100%
+Test batch 4 - Test score 0.787434 - Duration 147.674649
+
+Drift in performance detected in batch 4 at sample 1856
+Drift in performance detected in batch 4 at sample 2632
+Drift in performance detected in batch 4 at sample 3694
+Drift in performance detected in batch 4 at sample 16727
+Drift in performance detected in batch 4 at sample 16846
+Drift in performance detected in batch 4 at sample 16950
+Drift in performance detected in batch 4 at sample 17063
+Drift in performance detected in batch 4 at sample 17172
+Drift in performance detected in batch 4 at sample 17238
+Drift in performance detected in batch 4 at sample 17352
+Drift in performance detected in batch 4 at sample 17421
+Drift in performance detected in batch 4 at sample 17543
+Drift in performance detected in batch 4 at sample 17731
+Drift in performance detected in batch 4 at sample 17870
+Drift in performance detected in batch 4 at sample 18272
+Drift in performance detected in batch 4 at sample 18512
+Drift in performance detected in batch 4 at sample 18673
+Drift in performance detected in batch 4 at sample 18956
+Drift in performance detected in batch 4 at sample 24325
+Drift in performance detected in batch 4 at sample 24470
+Drift in performance detected in batch 4 at sample 24594
+Drift in performance detected in batch 4 at sample 24730
+Drift in performance detected in batch 4 at sample 24838
+Drift in performance detected in batch 4 at sample 24922
+Drift in performance detected in batch 4 at sample 24986
+Drift in performance detected in batch 4 at sample 25102
+Drift in performance detected in batch 4 at sample 25250
+Drift in performance detected in batch 4 at sample 25375
+Drift in performance detected in batch 4 at sample 25515
+Drift in performance detected in batch 4 at sample 25577
+Drift in performance detected in batch 4 at sample 25835
+Drift in performance detected in batch 4 at sample 26010
+Drift in performance detected in batch 4 at sample 26124
+Drift in performance detected in batch 4 at sample 26403
+Drift in performance detected in batch 4 at sample 26678
+Drift in performance detected in batch 4 at sample 31146
+Drift in performance detected in batch 4 at sample 31804
+Drift in performance detected in batch 4 at sample 32243
+Drift in performance detected in batch 4 at sample 32318
+Drift in performance detected in batch 4 at sample 32403
+Drift in performance detected in batch 4 at sample 32596
+Drift in performance detected in batch 4 at sample 32775
+Drift in performance detected in batch 4 at sample 32886
+Drift in performance detected in batch 4 at sample 32994
+Drift in performance detected in batch 4 at sample 33252
+Drift in performance detected in batch 4 at sample 40801
+Drift in performance detected in batch 4 at sample 40851
+Drift in performance detected in batch 4 at sample 40948
+Drift in performance detected in batch 4 at sample 41065
+Drift in performance detected in batch 4 at sample 41156
+Drift in performance detected in batch 4 at sample 41231
+Drift in performance detected in batch 4 at sample 41281
+Drift in performance detected in batch 4 at sample 41387
+Parse progress: [#########################################################] 100%
+Model Details
+=============
+H2OGradientBoostingEstimator :  Gradient Boosting Machine
+Model Key:  GBM_model_python_1611325752870_3
+
+Model Summary: 
+    number_of_trees    number_of_internal_trees    model_size_in_bytes    min_depth    max_depth    mean_depth    min_leaves    max_leaves    mean_leaves
+--  -----------------  --------------------------  ---------------------  -----------  -----------  ------------  ------------  ------------  -------------
+    6                  48                          5097                   2            2            2             3             4             3.85417
+
+
+ModelMetricsMultinomial: gbm
+** Reported on train data. **
+
+MSE: 0.451859611573383
+RMSE: 0.6722050368551123
+LogLoss: 1.1409761996464522
+Mean Per-Class Error: 0.7668599414372366
+Confusion Matrix: Row labels: Actual class; Column labels: Predicted class
+
+1      2      3    4    5    6    7    8    Error      Rate
+-----  -----  ---  ---  ---  ---  ---  ---  ---------  ----------------
+23451  31127  0    0    0    0    0    0    0.570321   31,127 / 54,578
+4910   61029  0    0    0    0    0    0    0.0744628  4,910 / 65,939
+1734   1035   378  0    0    0    0    0    0.879886   2,769 / 3,147
+0      215    0    0    0    0    0    0    1          215 / 215
+0      173    0    0    0    0    0    0    1          173 / 173
+201    46     16   0    0    12   0    0    0.956364   263 / 275
+20     13     0    0    0    1    18   0    0.653846   34 / 52
+0      1      0    0    0    0    0    0    1          1 / 1
+30316  93639  394  0    0    13   18   0    0.317511   39,492 / 124,380
+Top-8 Hit Ratios: 
+k    hit_ratio
+---  -----------
+1    0.682489
+2    0.97974
+3    0.994613
+4    0.998376
+5    0.999855
+6    0.999992
+7    0.999992
+8    1
+
+ModelMetricsMultinomial: gbm
+** Reported on cross-validation data. **
+
+MSE: 0.4535672816293095
+RMSE: 0.6734740393135503
+LogLoss: 1.1449908892721643
+Mean Per-Class Error: 0.7681010363478732
+Confusion Matrix: Row labels: Actual class; Column labels: Predicted class
+
+1      2      3    4    5    6    7    8    Error      Rate
+-----  -----  ---  ---  ---  ---  ---  ---  ---------  ----------------
+22876  31702  0    0    0    0    0    0    0.580857   31,702 / 54,578
+4869   61069  0    0    0    1    0    0    0.0738561  4,870 / 65,939
+1710   1058   378  0    0    1    0    0    0.879886   2,769 / 3,147
+0      215    0    0    0    0    0    0    1          215 / 215
+0      173    0    0    0    0    0    0    1          173 / 173
+201    47     15   0    0    12   0    0    0.956364   263 / 275
+19     14     0    0    0    1    18   0    0.653846   34 / 52
+0      1      0    0    0    0    0    0    1          1 / 1
+29675  94279  393  0    0    15   18   0    0.321812   40,027 / 124,380
+Top-8 Hit Ratios: 
+k    hit_ratio
+---  -----------
+1    0.678188
+2    0.979571
+3    0.993045
+4    0.997974
+5    0.999526
+6    0.999976
+7    1
+8    1
+Cross-Validation Metrics Summary: 
+                         mean       sd          cv_1_valid    cv_2_valid    cv_3_valid    cv_4_valid    cv_5_valid    cv_6_valid    cv_7_valid    cv_8_valid    cv_9_valid    cv_10_valid
+-----------------------  ---------  ----------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  -------------
+accuracy                 0.678182   0.00341848  0.675046      0.677552      0.673857      0.671948      0.67661       0.685634      0.672903      0.683458      0.685282      0.679524
+err                      0.321818   0.00341848  0.324954      0.322448      0.326143      0.328052      0.32339       0.314366      0.327097      0.316542      0.314718      0.320476
+err_count                4002.7     41.8582     4046          3989          4052          4058          4022          3928          4091          3984          3894          3963
+logloss                  1.14498    0.0088326   1.18191       1.14209       1.14359       1.1401        1.14431       1.13877       1.14244       1.14068       1.13828       1.13767
+max_per_class_error      1          0           1             1             1             1             1             1             1             1             1             1
+mean_per_class_accuracy  0.338314   0.0295645   0.242831      0.370453      0.362234      0.317599      0.311503      0.344025      0.309061      0.358756      0.37215       0.394527
+mean_per_class_error     0.661686   0.0295645   0.757169      0.629547      0.637766      0.682401      0.688497      0.655975      0.690939      0.641244      0.62785       0.605473
+mse                      0.453565   0.00361054  0.468703      0.452244      0.45272       0.451897      0.453001      0.451051      0.452645      0.451883      0.451032      0.45047
+r2                       -0.214205  0.0202371   -0.244427     -0.225656     -0.17664      -0.219718     -0.242139     -0.192715     -0.230602     -0.241038     -0.155267     -0.213848
+rmse                     0.673462   0.00266163  0.684619      0.672491      0.672845      0.672233      0.673053      0.671603      0.672789      0.672222      0.671589      0.671171
+Scoring History: 
+    timestamp            duration    number_of_trees    training_rmse    training_logloss    training_classification_error
+--  -------------------  ----------  -----------------  ---------------  ------------------  -------------------------------
+    2021-01-22 15:31:45  4.691 sec   0                  0.875            2.07944             0.517648
+    2021-01-22 15:31:45  4.733 sec   1                  0.830033         1.77841             0.374433
+    2021-01-22 15:31:45  4.783 sec   2                  0.790685         1.57525             0.32912
+    2021-01-22 15:31:45  4.813 sec   3                  0.75593          1.42649             0.334845
+    2021-01-22 15:31:45  4.843 sec   4                  0.724681         1.30995             0.325929
+    2021-01-22 15:31:45  4.874 sec   5                  0.697219         1.21848             0.325904
+    2021-01-22 15:31:45  4.907 sec   6                  0.672205         1.14098             0.317511
+Variable Importances: 
+variable    relative_importance    scaled_importance    percentage
+----------  ---------------------  -------------------  ------------
+C4          9781                   1                    0.396054
+C6          6733.73                0.68845              0.272663
+C2          5163.52                0.527913             0.209082
+C8          2902.76                0.296775             0.117539
+C10         55.5042                0.00567469           0.00224748
+C3          34.6866                0.00354632           0.00140453
+C9          13.7957                0.00141046           0.000558617
+C5          9.77279                0.000999161          0.000395721
+C7          1.37007                0.000140074          5.54769e-05
+gbm Model Build progress: [###############################################] 100%
+Model Details
+=============
+H2OGradientBoostingEstimator :  Gradient Boosting Machine
+Model Key:  GBM_model_python_1611325752870_4
+
+Model Summary: 
+    number_of_trees    number_of_internal_trees    model_size_in_bytes    min_depth    max_depth    mean_depth    min_leaves    max_leaves    mean_leaves
+--  -----------------  --------------------------  ---------------------  -----------  -----------  ------------  ------------  ------------  -------------
+    6                  48                          5097                   2            2            2             3             4             3.85417
+
+
+ModelMetricsMultinomial: gbm
+** Reported on train data. **
+
+MSE: 0.451859611573383
+RMSE: 0.6722050368551123
+LogLoss: 1.1409761996464522
+Mean Per-Class Error: 0.7668599414372366
+Confusion Matrix: Row labels: Actual class; Column labels: Predicted class
+
+1      2      3    4    5    6    7    8    Error      Rate
+-----  -----  ---  ---  ---  ---  ---  ---  ---------  ----------------
+23451  31127  0    0    0    0    0    0    0.570321   31,127 / 54,578
+4910   61029  0    0    0    0    0    0    0.0744628  4,910 / 65,939
+1734   1035   378  0    0    0    0    0    0.879886   2,769 / 3,147
+0      215    0    0    0    0    0    0    1          215 / 215
+0      173    0    0    0    0    0    0    1          173 / 173
+201    46     16   0    0    12   0    0    0.956364   263 / 275
+20     13     0    0    0    1    18   0    0.653846   34 / 52
+0      1      0    0    0    0    0    0    1          1 / 1
+30316  93639  394  0    0    13   18   0    0.317511   39,492 / 124,380
+Top-8 Hit Ratios: 
+k    hit_ratio
+---  -----------
+1    0.682489
+2    0.97974
+3    0.994613
+4    0.998376
+5    0.999855
+6    0.999992
+7    0.999992
+8    1
+
+ModelMetricsMultinomial: gbm
+** Reported on cross-validation data. **
+
+MSE: 0.4535672816293095
+RMSE: 0.6734740393135503
+LogLoss: 1.1449908892721643
+Mean Per-Class Error: 0.7681010363478732
+Confusion Matrix: Row labels: Actual class; Column labels: Predicted class
+
+1      2      3    4    5    6    7    8    Error      Rate
+-----  -----  ---  ---  ---  ---  ---  ---  ---------  ----------------
+22876  31702  0    0    0    0    0    0    0.580857   31,702 / 54,578
+4869   61069  0    0    0    1    0    0    0.0738561  4,870 / 65,939
+1710   1058   378  0    0    1    0    0    0.879886   2,769 / 3,147
+0      215    0    0    0    0    0    0    1          215 / 215
+0      173    0    0    0    0    0    0    1          173 / 173
+201    47     15   0    0    12   0    0    0.956364   263 / 275
+19     14     0    0    0    1    18   0    0.653846   34 / 52
+0      1      0    0    0    0    0    0    1          1 / 1
+29675  94279  393  0    0    15   18   0    0.321812   40,027 / 124,380
+Top-8 Hit Ratios: 
+k    hit_ratio
+---  -----------
+1    0.678188
+2    0.979571
+3    0.993045
+4    0.997974
+5    0.999526
+6    0.999976
+7    1
+8    1
+Cross-Validation Metrics Summary: 
+                         mean       sd          cv_1_valid    cv_2_valid    cv_3_valid    cv_4_valid    cv_5_valid    cv_6_valid    cv_7_valid    cv_8_valid    cv_9_valid    cv_10_valid
+-----------------------  ---------  ----------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  -------------
+accuracy                 0.678182   0.00341848  0.675046      0.677552      0.673857      0.671948      0.67661       0.685634      0.672903      0.683458      0.685282      0.679524
+err                      0.321818   0.00341848  0.324954      0.322448      0.326143      0.328052      0.32339       0.314366      0.327097      0.316542      0.314718      0.320476
+err_count                4002.7     41.8582     4046          3989          4052          4058          4022          3928          4091          3984          3894          3963
+logloss                  1.14498    0.0088326   1.18191       1.14209       1.14359       1.1401        1.14431       1.13877       1.14244       1.14068       1.13828       1.13767
+max_per_class_error      1          0           1             1             1             1             1             1             1             1             1             1
+mean_per_class_accuracy  0.338314   0.0295645   0.242831      0.370453      0.362234      0.317599      0.311503      0.344025      0.309061      0.358756      0.37215       0.394527
+mean_per_class_error     0.661686   0.0295645   0.757169      0.629547      0.637766      0.682401      0.688497      0.655975      0.690939      0.641244      0.62785       0.605473
+mse                      0.453565   0.00361054  0.468703      0.452244      0.45272       0.451897      0.453001      0.451051      0.452645      0.451883      0.451032      0.45047
+r2                       -0.214205  0.0202371   -0.244427     -0.225656     -0.17664      -0.219718     -0.242139     -0.192715     -0.230602     -0.241038     -0.155267     -0.213848
+rmse                     0.673462   0.00266163  0.684619      0.672491      0.672845      0.672233      0.673053      0.671603      0.672789      0.672222      0.671589      0.671171
+Scoring History: 
+    timestamp            duration    number_of_trees    training_rmse    training_logloss    training_classification_error
+--  -------------------  ----------  -----------------  ---------------  ------------------  -------------------------------
+    2021-01-22 15:31:50  3.918 sec   0                  0.875            2.07944             0.517648
+    2021-01-22 15:31:50  3.964 sec   1                  0.830033         1.77841             0.374433
+    2021-01-22 15:31:50  4.000 sec   2                  0.790685         1.57525             0.32912
+    2021-01-22 15:31:50  4.035 sec   3                  0.75593          1.42649             0.334845
+    2021-01-22 15:31:50  4.069 sec   4                  0.724681         1.30995             0.325929
+    2021-01-22 15:31:50  4.104 sec   5                  0.697219         1.21848             0.325904
+    2021-01-22 15:31:50  4.137 sec   6                  0.672205         1.14098             0.317511
+Variable Importances: 
+variable    relative_importance    scaled_importance    percentage
+----------  ---------------------  -------------------  ------------
+C4          9781                   1                    0.396054
+C6          6733.73                0.68845              0.272663
+C2          5163.52                0.527913             0.209082
+C8          2902.76                0.296775             0.117539
+C10         55.5042                0.00567469           0.00224748
+C3          34.6866                0.00354632           0.00140453
+C9          13.7957                0.00141046           0.000558617
+C5          9.77279                0.000999161          0.000395721
+C7          1.37007                0.000140074          5.54769e-05
+gbm Model Build progress: [##############################################

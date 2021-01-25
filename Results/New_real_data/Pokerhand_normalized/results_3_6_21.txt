@@ -1,0 +1,432 @@
+GAMA_Option6.py
+21
+Starting to `fit`
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 1 - Balanced accuracy 0.435077 - Accuracy 0.966739
+
+Drift in performance detected at sample 1463
+Drift in performance detected at sample 1990
+Drift in performance detected at sample 2900
+Drift in performance detected at sample 3739
+Drift in performance detected at sample 4560
+Drift in performance detected at sample 8087
+Drift in performance detected at sample 11696
+Drift in performance detected at sample 14510
+Drift in performance detected at sample 16424
+Drift in performance detected at sample 18529
+Drift in performance detected at sample 19357
+Drift in performance detected at sample 20594
+Drift in performance detected at sample 20800
+Drift in performance detected at sample 21316
+Drift in performance detected at sample 22257
+Drift in performance detected at sample 23518
+Drift in performance detected at sample 24863
+Drift in performance detected at sample 38436
+Drift in performance detected at sample 38482
+Drift in performance detected at sample 38558
+Drift in performance detected at sample 38630
+Drift in performance detected at sample 38696
+Drift in performance detected at sample 38758
+Drift in performance detected at sample 38866
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 2 - Balanced accuracy 0.235118 - Accuracy 0.742451
+
+Drift in performance detected at sample 9794
+Drift in performance detected at sample 9957
+Drift in performance detected at sample 10066
+Drift in performance detected at sample 10144
+Drift in performance detected at sample 10302
+Drift in performance detected at sample 10829
+Drift in performance detected at sample 27095
+Drift in performance detected at sample 27300
+Drift in performance detected at sample 27816
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 3 - Balanced accuracy 0.197951 - Accuracy 0.714038
+
+Drift in performance detected at sample 235
+Drift in performance detected at sample 22552
+Drift in performance detected at sample 33519
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 4 - Balanced accuracy 0.196325 - Accuracy 0.693415
+
+Drift in performance detected at sample 2430
+Drift in performance detected at sample 17303
+Drift in performance detected at sample 24798
+Drift in performance detected at sample 31600
+Drift in performance detected at sample 41212
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 5 - Balanced accuracy 0.199202 - Accuracy 0.647781
+
+Drift in performance detected at sample 4569
+Drift in performance detected at sample 8884
+Drift in performance detected at sample 14803
+Drift in performance detected at sample 17782
+Drift in performance detected at sample 20389
+Drift in performance detected at sample 23819
+Drift in performance detected at sample 25488
+Drift in performance detected at sample 25709
+Drift in performance detected at sample 25753
+Drift in performance detected at sample 26880
+Drift in performance detected at sample 28757
+Drift in performance detected at sample 29659
+Drift in performance detected at sample 30379
+Drift in performance detected at sample 31271
+Drift in performance detected at sample 31603
+Drift in performance detected at sample 31897
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 6 - Balanced accuracy 0.403018 - Accuracy 0.969006
+
+Drift in performance detected at sample 8057
+Drift in performance detected at sample 8239
+Drift in performance detected at sample 8374
+Drift in performance detected at sample 9700
+Drift in performance detected at sample 10323
+Drift in performance detected at sample 10897
+Drift in performance detected at sample 12165
+Drift in performance detected at sample 14284
+Drift in performance detected at sample 14981
+Drift in performance detected at sample 16083
+Drift in performance detected at sample 17779
+Drift in performance detected at sample 18194
+Drift in performance detected at sample 19073
+Drift in performance detected at sample 20424
+Drift in performance detected at sample 21567
+Drift in performance detected at sample 22231
+Drift in performance detected at sample 23201
+Drift in performance detected at sample 23843
+Drift in performance detected at sample 24222
+Drift in performance detected at sample 24474
+Drift in performance detected at sample 25610
+Drift in performance detected at sample 25852
+Drift in performance detected at sample 27141
+Drift in performance detected at sample 28547
+Drift in performance detected at sample 29059
+Drift in performance detected at sample 30168
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 7 - Balanced accuracy 0.381876 - Accuracy 0.965726
+
+Drift in performance detected at sample 2669
+Drift in performance detected at sample 3451
+Drift in performance detected at sample 4705
+Drift in performance detected at sample 4904
+Drift in performance detected at sample 6189
+Drift in performance detected at sample 6446
+Drift in performance detected at sample 7662
+Drift in performance detected at sample 8111
+Drift in performance detected at sample 9077
+Drift in performance detected at sample 11482
+Drift in performance detected at sample 17149
+Drift in performance detected at sample 21718
+Drift in performance detected at sample 22685
+Drift in performance detected at sample 22755
+Drift in performance detected at sample 22808
+Drift in performance detected at sample 22868
+Drift in performance detected at sample 22978
+Drift in performance detected at sample 34316
+Drift in performance detected at sample 34811
+Drift in performance detected at sample 35181
+Drift in performance detected at sample 35328
+Drift in performance detected at sample 35391
+Drift in performance detected at sample 36469
+Drift in performance detected at sample 37067
+Drift in performance detected at sample 38288
+Drift in performance detected at sample 39912
+Drift in performance detected at sample 40492
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 8 - Balanced accuracy 0.248609 - Accuracy 0.770478
+
+Drift in performance detected at sample 846
+Drift in performance detected at sample 1327
+Drift in performance detected at sample 2606
+Drift in performance detected at sample 2997
+Drift in performance detected at sample 3896
+Drift in performance detected at sample 4285
+Drift in performance detected at sample 4949
+Drift in performance detected at sample 5172
+Drift in performance detected at sample 5249
+Drift in performance detected at sample 5773
+Drift in performance detected at sample 20980
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 9 - Balanced accuracy 0.210519 - Accuracy 0.752726
+
+Drift in performance detected at sample 8674
+Drift in performance detected at sample 18623
+Drift in performance detected at sample 38555
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 10 - Balanced accuracy 0.207050 - Accuracy 0.689291
+
+Drift in performance detected at sample 3538
+Drift in performance detected at sample 16355
+Drift in performance detected at sample 20481
+Drift in performance detected at sample 28163
+Drift in performance detected at sample 30581
+Drift in performance detected at sample 34988
+Drift in performance detected at sample 36282
+Drift in performance detected at sample 38463
+Drift in performance detected at sample 39243
+Drift in performance detected at sample 40321
+Drift in performance detected at sample 40574
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 11 - Balanced accuracy 0.449331 - Accuracy 0.972962
+
+Drift in performance detected at sample 16754
+Drift in performance detected at sample 16944
+Drift in performance detected at sample 17042
+Drift in performance detected at sample 17198
+Drift in performance detected at sample 19413
+Drift in performance detected at sample 20811
+Drift in performance detected at sample 23696
+Drift in performance detected at sample 25555
+Drift in performance detected at sample 26920
+Drift in performance detected at sample 29142
+Drift in performance detected at sample 30457
+Drift in performance detected at sample 31457
+Drift in performance detected at sample 32077
+Drift in performance detected at sample 32535
+Drift in performance detected at sample 32945
+Drift in performance detected at sample 33052
+Drift in performance detected at sample 35596
+Drift in performance detected at sample 36009
+Drift in performance detected at sample 36380
+Drift in performance detected at sample 39542
+Drift in performance detected at sample 40093
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 12 - Balanced accuracy 0.364532 - Accuracy 0.967631
+
+Drift in performance detected at sample 970
+Drift in performance detected at sample 1477
+Drift in performance detected at sample 3236
+Drift in performance detected at sample 4553
+Drift in performance detected at sample 5457
+Drift in performance detected at sample 5984
+Drift in performance detected at sample 6500
+Drift in performance detected at sample 7658
+Drift in performance detected at sample 9104
+Drift in performance detected at sample 9363
+Drift in performance detected at sample 10501
+Drift in performance detected at sample 11835
+Drift in performance detected at sample 25299
+Drift in performance detected at sample 25455
+Drift in performance detected at sample 25533
+Drift in performance detected at sample 25621
+Drift in performance detected at sample 25730
+Drift in performance detected at sample 26739
+Drift in performance detected at sample 27821
+Drift in performance detected at sample 28841
+Drift in performance detected at sample 30458
+Drift in performance detected at sample 31246
+Drift in performance detected at sample 32087
+Drift in performance detected at sample 33880
+Drift in performance detected at sample 34881
+Drift in performance detected at sample 35966
+Drift in performance detected at sample 36579
+Drift in performance detected at sample 36836
+Drift in performance detected at sample 37428
+Drift in performance detected at sample 37926
+Drift in performance detected at sample 38078
+Drift in performance detected at sample 38178
+Drift in performance detected at sample 40174
+Drift in performance detected at sample 41136
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 13 - Balanced accuracy 0.291014 - Accuracy 0.871611
+
+Drift in performance detected at sample 2408
+Drift in performance detected at sample 3980
+Drift in performance detected at sample 5604
+Drift in performance detected at sample 6697
+Drift in performance detected at sample 6972
+Drift in performance detected at sample 7635
+Drift in performance detected at sample 7920
+Drift in performance detected at sample 9914
+Drift in performance detected at sample 10471
+Drift in performance detected at sample 13009
+Drift in performance detected at sample 13415
+Drift in performance detected at sample 15153
+Drift in performance detected at sample 16481
+Drift in performance detected at sample 17286
+Drift in performance detected at sample 18001
+Drift in performance detected at sample 18351
+Drift in performance detected at sample 18402
+Drift in performance detected at sample 18490
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 14 - Balanced accuracy 0.276018 - Accuracy 0.832754
+
+Drift in performance detected at sample 14669
+Drift in performance detected at sample 38562
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 15 - Balanced accuracy 0.266230 - Accuracy 0.845080
+
+Drift in performance detected at sample 12221
+Drift in performance detected at sample 21181
+Drift in performance detected at sample 26144
+Drift in performance detected at sample 28501
+Drift in performance detected at sample 29733
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 16 - Balanced accuracy 0.410789 - Accuracy 0.975422
+
+Drift in performance detected at sample 5318
+Drift in performance detected at sample 5723
+Drift in performance detected at sample 5986
+Drift in performance detected at sample 6107
+Drift in performance detected at sample 8552
+Drift in performance detected at sample 9890
+Drift in performance detected at sample 12850
+Drift in performance detected at sample 15968
+Drift in performance detected at sample 16849
+Drift in performance detected at sample 18846
+Drift in performance detected at sample 20021
+Drift in performance detected at sample 21007
+Drift in performance detected at sample 21712
+Drift in performance detected at sample 22107
+Drift in performance detected at sample 22249
+Drift in performance detected at sample 23541
+Drift in performance detected at sample 25696
+Drift in performance detected at sample 29281
+Drift in performance detected at sample 32037
+Drift in performance detected at sample 34024
+Drift in performance detected at sample 35969
+Drift in performance detected at sample 36910
+Drift in performance detected at sample 40553
+Drift in performance detected at sample 40907
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 17 - Balanced accuracy 0.386868 - Accuracy 0.969706
+
+Drift in performance detected at sample 2421
+Drift in performance detected at sample 5158
+Drift in performance detected at sample 6705
+Drift in performance detected at sample 7814
+Drift in performance detected at sample 8951
+Drift in performance detected at sample 9133
+Drift in performance detected at sample 9246
+Drift in performance detected at sample 20964
+Drift in performance detected at sample 21448
+Drift in performance detected at sample 21646
+Drift in performance detected at sample 21747
+Drift in performance detected at sample 23654
+Drift in performance detected at sample 24728
+Drift in performance detected at sample 26861
+Drift in performance detected at sample 28232
+Drift in performance detected at sample 29734
+Drift in performance detected at sample 30874
+Drift in performance detected at sample 31863
+Drift in performance detected at sample 32147
+Drift in performance detected at sample 32716
+Drift in performance detected at sample 33061
+Drift in performance detected at sample 33148
+Drift in performance detected at sample 35798
+Drift in performance detected at sample 38449
+Drift in performance detected at sample 40444
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 18 - Balanced accuracy 0.377559 - Accuracy 0.964303
+
+Drift in performance detected at sample 321
+Drift in performance detected at sample 1491
+Drift in performance detected at sample 2012
+Drift in performance detected at sample 4686
+Drift in performance detected at sample 5000
+Drift in performance detected at sample 7146
+Drift in performance detected at sample 9033
+Drift in performance detected at sample 10333
+Drift in performance detected at sample 11381
+Drift in performance detected at sample 19198
+Drift in performance detected at sample 19560
+Drift in performance detected at sample 19741
+Drift in performance detected at sample 21242
+Drift in performance detected at sample 22048
+Drift in performance detected at sample 23553
+Drift in performance detected at sample 25103
+Drift in performance detected at sample 26190
+Drift in performance detected at sample 26731
+Drift in performance detected at sample 27218
+Drift in performance detected at sample 27358
+Drift in performance detected at sample 29369
+Drift in performance detected at sample 31213
+Drift in performance detected at sample 33144
+Drift in performance detected at sample 33890
+Drift in performance detected at sample 34205
+Drift in performance detected at sample 36240
+Drift in performance detected at sample 38021
+Drift in performance detected at sample 39142
+Drift in performance detected at sample 40250
+Drift in performance detected at sample 40492
+Drift in performance detected at sample 40565
+Drift in performance detected at sample 41187
+Ensemble was tuned with a class-probabilities metric. Using argmax of probabilities, which may not give optimal predictions.
+Test batch 19 - Balanced accuracy 0.310944 - Accuracy 0.924530
+
+Drift in performance detected at sample 836
+Drift in performance detected at sample 1996
+Drift in performance detected at sample 2928
+Drift in performance detected at sample 3011
+Drift in performance detected at sample 3438
+Drift in performance detected at sample 3971
+Drift in performance detected at sample 4350
+Drift in performance detected at sample 4548
+Drift in performance detected at sample 4636
+Drift in performance detected at sample 5640
+Drift in performance detected at sample 6897
+Drift in performance detected at sample 7555
+Drift in performance detected at sample 8276
+Drift in performance detected at sample 8867
+Drift in performance detected at sample 9275
+Drift in performance detected at sample 9410
+Drift in performance detected at sample 10088
+Drift in performance detected at sample 11274
+Drift in performance detected at sample 12959
+Drift in performance detected at sample 13481
+Drift in performance detected at sample 13808
+Drift in performance detected at sample 15244
+Drift in performance detected at sample 16599
+Drift in performance detected at sample 17788
+Drift in performance detected at sample 17861
+Drift in performance detected at sample 17943
+Drift in performance detected at sample 18392
+Drift in performance detected at sample 19137
+Drift in performance detected at sample 19716
+Drift in performance detected at sample 19998
+Drift in performance detected at sample 20535
+Drift in performance detected at sample 21023
+Drift in performance detected at sample 21221
+Drift in performance detected at sample 22121
+Drift in performance detected at sample 22819
+Drift in performance detected at sample 23371
+Drift in performance detected at sample 23939
+Drift in performance detected at sample 24297
+Drift in performance detected at sample 27061
+Drift in performance detected at sample 28007
+Drift in performance detected at sample 29314
+Drift in performance detected at sample 29850
+Drift in performance detected at sample 30263
+Drift in performance detected at sample 30643
+Drift in performance detected at sample 31131
+Drift in performance detected at sample 31355
+Drift in performance detected at sample 31480
+Drift in performance detected at sample 31956
+Drift in performance detected at sample 32198
+Drift in performance detected at sample 32776
+Drift in performance detected at sample 33130
+Drift in performance detected at sample 33258
+Drift in performance detected at sample 33933
+Drift in performance detected at sample 34601
+Drift in performance detected at sample 35940
+Drift in performance detected at sample 36048
+Drift in performance detected at sample 36937
+Drift in performance detected at sample 37074
+Drift in performance detected at sample 37422
+Drift in performance detected at sample 37772
+Drift in performance detected at sample 37909
+Drift in performance detected at sample 38006
+Drift in performance detected at sample 38390
+Drift in performance detected at sample 38702
+Drift in performance detected at sample 39317
+Drift in performance detected at sample 39438
+Drift in performance detected at sample 39636
+Drift in performance detected at sample 39788
+Drift in performance detected at sample 39903
+Drift in performance detected at sample 39990
+Drift in performance detected at sample 40171
+Drift in performance detected at sample 40294
+Drift in performance detected at sample 40663
+Drift in performance detected at sample 40875
+Drift in performance detected at sample 40963
+Drift in performance detected at sample 41058
